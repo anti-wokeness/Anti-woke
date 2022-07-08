@@ -1,0 +1,5287 @@
+[
+   {
+      "name":"Twitter",
+      "urlMatch":"twitter.",
+      "text":"Twitter bans users for arbitrary reasons without warning and push wokeness.",
+      "sources":"https://archive.is/WezKD,https://archive.is/wip/y1wpg"
+   },
+   {
+      "name":"New York Yankees",
+      "urlMatch":"mlb.com/yankees",
+      "text":"New York Yankees push wokeness using slurs such as latinx for Hispanic people.",
+      "sources":"https://archive.ph/wip/XsgQK"
+   },
+   {
+      "name":"Milwaukee Brewers",
+      "urlMatch":"mlb.com/brewers",
+      "text":"Milwaukee Brewers push wokeness.",
+      "sources":"https://archive.ph/aYHc2"
+   },
+   {
+      "name":"National Archives",
+      "urlMatch":"archives.gov",
+      "text":"National Archives push wokeness.",
+      "sources":"https://archive.ph/wip/1fAuD,https://archive.ph/wip/rVzUG"
+   },
+   {
+      "name":"Unconventional Ventures",
+      "urlMatch":"unconventionalventures.com",
+      "text":"Unconventional Ventures select projects based on the owners skin color, gender, and sexuality.",
+      "sources":"https://archive.ph/wip/D0ja1"
+   },
+   {
+      "name":"Halifax UK",
+      "otherNames":[
+         "HalifaxBank"
+      ],
+      "urlMatch":"halifax.co.uk",
+      "text":"Halifax pushes social justice activism.",
+      "sources":"https://archive.ph/oatsn"
+   },
+   {
+      "name":"Lagkagehuset",
+      "urlMatch":"lagkagehuset.dk",
+      "text":"Lagkagehuset push wokeness by removing gendered words from products.",
+      "sources":"https://archive.ph/wip/qq2oW"
+   },
+   { 
+      "name":"Coles Supermarkets",
+      "otherNames":[
+         "Coles supermarkets"
+      ],
+      "urlMatch":"coles.com.au",
+      "text":"Coles push wokeness and discrimination based on self-identification.",
+      "sources":"https://archive.ph/wip/Kdcre"
+   },
+   {
+      "name":"YouTube",
+      "text":"YouTube bans users for arbitrary reasons without warning and push wokeness.",
+      "urlMatch":"youtube.",
+      "styling":"margin-top: 60px;",
+      "sources":"https://archive.is/5qz6a"
+   },
+   {
+      "name":"Facebook messenger",
+      "urlMatch":"facebook.|mess",
+      "text":"Facebook deplatforms users for arbitrary reasons without warning.",
+      "linkUrl":"signal.org",
+      "linkText":"Signal",
+      "styling":"margin-left: 370px; margin-top: 65px;",
+      "sources":"https://archive.is/sAQye"
+   },
+   {
+      "name":"Facebook",
+      "urlMatch":"facebook.",
+      "text":"Facebook bans users for arbitrary reasons without warning.",
+      "styling":"margin-top: 60px;",
+      "sources":"https://archive.is/sAQye"
+   },
+   {
+      "name":"Instagram",
+      "urlMatch":"instagram.",
+      "text":"Instagram deplatforms users for arbitrary reasons without warning.",
+      "sources":"https://archive.is/sAQye"
+   },
+   {
+      "name":"Rotten Tomatoes",
+      "urlMatch":"rottentomatoes.com",
+      "text":"Rotten Tomatoes push wokeness by having their certified reviwers score woke titles high and \"problematic\" titles low.",
+      "sources":"https://archive.is/CFMHk,https://archive.is/GShD1"
+   },
+   {
+      "name":"Outbrain",
+      "urlMatch":"outbrain.com",
+      "text":"Outbrain push wokeness for social justice and deplatform users for arbitrary reasons without warning",
+      "sources":"https://archive.is/kboH4,https://archive.is/kdsbz"
+   },
+   {
+      "name":"IMDb",
+      "urlMatch":"imdb.com",
+      "text":"IMDb push wokeness by disabling user scores on some \"progressive\" titles that recieve negative reviews.",
+      "sources":"https://archive.is/wip/f5axW,https://archive.is/wip/bY7OK"
+   },
+   {
+      "name":"Preston Grasshoppers",
+      "urlMatch":"pgrfc.co.uk",
+      "text":"Preston Grasshoppers caves to cancel culture outrage from Twitter activists, cancelling events and speakers based on political ideology.",
+      "sources":"https://archive.md/PIep3"
+   },
+   {
+      "name":"ResetEra",
+      "otherNames":[
+         "ResetERA"
+      ],
+      "urlMatch":"metacritic.com",
+      "text":"ResetEra is a hate group forum pushing wokeness.",
+      "sources":"https://archive.is/3P4gT"
+   },
+   {
+      "name":"Mermaids UK",
+      "urlMatch":"mermaidsuk.org.uk",
+      "text":"Mermaids UK push wokeness pushing for children to change gender.",
+      "sources":"https://archive.is/wip/tUyRh"
+   },
+   {
+      "name":"Norfolk Police Department",
+      "urlMatch":"norfolk.gov/305/Police",
+      "text":"Norfolk Police Department push wokeness.",
+      "sources":"https://archive.md/wip/5NuRq"
+   },
+   {
+      "name":"Kopparberg",
+      "urlMatch":"kopparberg.com",
+      "text":"Kopparberg push wokeness and cancel culture.",
+      "sources":"https://archive.md/wip/AtG8Y,https://archive.md/wip/bhzBB",
+      "childText":"{1} push wokeness and cancel culture.",
+      "children":[
+         {
+            "name":"Nivea",
+            "otherNames":[
+               "NIVEA"
+            ],
+            "urlMatch":"nivea."
+         },
+         {
+            "name":"Grolsch",
+            "urlMatch":"grolsch.com"
+         },
+         {
+            "name":"Octopus Energy",
+            "urlMatch":"octo3pus.energy"
+         },
+         {
+            "name":"Open University",
+            "urlMatch":"openuniversity.edu"
+         }
+      ]
+   },
+   {
+      "name":"erp²",
+      "urlMatch":"erp2.co.uk",
+      "text":"erp² push wokeness and cancel culture.",
+      "sources":"https://archive.is/wip/mY2DD"
+   },
+   {
+      "name":"Realtor.com",
+      "urlMatch":"Realtor.com",
+      "text":"Realtor.com push wokeness.",
+      "sources":"https://archive.md/j8c0G"
+   },
+   {
+      "name":"Electronic Frontier Foundation",
+      "otherNames":[
+         "EFF"
+      ],
+      "urlMatch":"eff.org",
+      "text":"Electronic Frontier Foundation push wokeness.",
+      "sources":"https://archive.is/Hya9V,https://archive.is/wip/23E02"
+   },
+   {
+      "name":"Redfin",
+      "urlMatch":"Redfin.com",
+      "text":"Redfin push wokeness.",
+      "sources":"https://archive.md/j8c0G"
+   },
+   {
+      "name":"White Coats for Black Lives",
+      "otherNames":[
+         "WC4BL "
+      ],
+      "urlMatch":"whitecoats4blacklives.org",
+      "text":"White Coats for Black Lives push wokeness and racism.",
+      "sources":"https://archive.is/Xj1Nd,https://archive.is/CZyAJ,https://archive.is/wip/ss7HS"
+   },
+   {
+      "name":"Professional Golfers' Association",
+      "otherNames":[
+         "Professional Golfers’ Association "
+      ],
+      "urlMatch":"pga.com",
+      "text":"PGA push wokeness and cancel culture.",
+      "sources":"https://archive.is/wip/Wmr2W,https://archive.is/wip/0w55I"
+   },
+   {
+      "name":"PGA",
+      "urlMatch":"pgatour.com",
+      "text":"PGA push wokeness and cancel culture.",
+      "sources":"https://archive.is/wip/Wmr2W,https://archive.is/wip/0w55I"
+   },
+   {
+      "name":"Perkins Coie",
+      "urlMatch":"perkinscoie.com",
+      "text":"Perkins Coie push wokeness and cancel culture.",
+      "sources":"https://archive.is/cDqhx,https://archive.is/uLbAE"
+   },
+   {
+      "name":"Allegiant Air",
+      "urlMatch":"allegiantair.com",
+      "text":"Allegiant Air push wokeness and cancel culture.",
+      "sources":"https://archive.is/HgTNx"
+   },
+   {
+      "name":"Toronto-Dominion Bank",
+      "urlMatch":"td.com",
+      "text":"Toronto-Dominion Bank push wokeness and cancel culture.",
+      "sources":"https://archive.is/wip/9gVw1"
+   },
+   {
+      "name":"TD Bank",
+      "urlMatch":"tdbank.com",
+      "text":"TD Bank push wokeness and cancel culture.",
+      "sources":"https://archive.is/wip/9gVw1"
+   },
+   {
+      "name":"University of Bristol",
+      "otherNames":[
+         "Bristol University"
+      ],
+      "urlMatch":"bristol.ac.uk",
+      "text":"University of Bristol push wokeness.",
+      "sources":"https://archive.is/uMoyz"
+   },
+   {
+      "name":"Heartland Financial",
+      "urlMatch":"htlf.com",
+      "text":"Heartland Financial push wokeness and cancel culture.",
+      "sources":"https://archive.is/wip/IWkHy,https://archive.is/0K6Tc"
+   },
+   {
+      "name":"Minnesota Bank & Trust",
+      "urlMatch":"mnbankandtrust.com",
+      "text":"Minnesota Bank & Trust push wokeness and cancel culture.",
+      "sources":"https://archive.is/wip/IWkHy,https://archive.is/0K6Tc"
+   },
+   {
+      "name":"Jet Propulsion Laboratory",
+      "urlMatch":"jpl.nasa.gov",
+      "text":"Jet Propulsion Laboratory push wokeness.",
+      "sources":"https://archive.is/wip/GVT3X"
+   },
+   {
+      "name":"Native Engagement in Building a Unified Leadership Alliance",
+      "otherNames":[
+         "NEBULA "
+      ],
+      "text":"NEBULA push wokeness.",
+      "sources":"https://archive.is/wip/GVT3X"
+   },
+   {
+      "name":"Illinois State University",
+      "urlMatch":"illinoisstate.edu",
+      "text":"Illinois State University push wokeness.",
+      "sources":"https://archive.md/wip/Fuu8T"
+   },
+   {
+      "name":"Pizza Hut",
+      "urlMatch":"pizzahut.",
+      "text":"Pizza Hut push wokeness and racism.",
+      "sources":"https://archive.is/EzuTK"
+   },
+   {
+      "name":"National Geographic",
+      "urlMatch":"nationalgeographic.com",
+      "text":"National Geographic push wokeness and racism.",
+      "sources":"https://archive.today/ogvCq"
+   },
+   {
+      "name":"Raytheon",
+      "urlMatch":"rtx.com",
+      "text":"Raytheon push wokeness and racism.",
+      "sources":"https://archive.today/Qa29I"
+   },
+   {
+      "name":"Raytheon",
+      "urlMatch":"raytheon.com",
+      "text":"Raytheon push wokeness and racism.",
+      "sources":"https://archive.today/Qa29I"
+   },
+   {
+      "name":"Raytheon",
+      "urlMatch":"raytheonmissilesanddefense.com",
+      "text":"Raytheon push wokeness and racism.",
+      "sources":"https://archive.today/Qa29I"
+   },
+   {
+      "name":"Oxfam",
+      "urlMatch":"oxfam.",
+      "text":"Oxfam push wokeness and racism.",
+      "sources":"https://archive.md/wip/WIAdN"
+   },
+   {
+      "name":"National Education Association",
+      "urlMatch":"nea.org",
+      "text":"The National Education Association push wokeness and racism.",
+      "sources":"https://archive.today/rAfJV"
+   },
+   {
+      "name":"Zinn Education Project",
+      "urlMatch":"zinnedproject.org",
+      "text":"The Zinn Education Project push wokeness and racism.",
+      "sources":"https://archive.today/HmQSI"
+   },
+   {
+      "name":"National Public Radio",
+      "urlMatch":"npr.org",
+      "text":"National Public Radio push wokeness.",
+      "sources":"https://archive.today/oO4q0"
+   },
+   {
+      "name":"Giant Food",
+      "urlMatch":"giantfood.com",
+      "text":"Giant Food push wokeness and racism.",
+      "sources":"https://archive.today/JM6ls"
+   },
+   {
+      "name":"University Hospitals Sussex",
+      "urlMatch":"uhsussex.nhs.uk",
+      "text":"University Hospitals Sussex push wokeness.",
+      "sources":"https://archive.today/C3DLY"
+   },
+   {
+      "name":"Brighton and Sussex University Hospitals",
+      "urlMatch":"bsuh.nhs.uk",
+      "text":"Brighton and Sussex University Hospitals push wokeness.",
+      "sources":"https://archive.today/C3DLY"
+   },
+   {
+      "name":"Standard (Oslo)",
+      "otherNames":[
+         "STANDARD (OSLO)"
+      ],
+      "urlMatch":"standardoslo.no",
+      "text":"Standard (Oslo) push wokeness.",
+      "sources":"https://archive.md/wip/oSrww"
+   },
+   {
+      "name":"First Book",
+      "urlMatch":"firstbook.org",
+      "text":"First Book push wokeness and racism.",
+      "sources":"https://archive.is/EzuTK"
+   },
+   {
+      "name":"English Touring Opera",
+      "urlMatch":"englishtouringopera.org.uk",
+      "text":"English Touring Opera push wokeness and racism.",
+      "sources":"https://archive.vn/wip/uwYhv"
+   },
+   {
+      "name":"Lloyds Bank",
+      "otherNames":[
+         "Lloyds Banking Group"
+      ],
+      "urlMatch":"lloydsbankinggroup.com",
+      "text":"Lloyds Bank push wokeness.",
+      "sources":"https://archive.md/wip/PPYLY,https://archive.md/wip/D3YzZ"
+   },
+   {
+      "name":"Minotenk",
+      "urlMatch":"minotenk.no",
+      "text":"Minotenk push wokeness and racism.",
+      "sources":"https://archive.md/wip/LFJmQ"
+   },
+   {
+      "name":"National Health Service",
+      "urlMatch":"nhs.uk",
+      "text":"National Health Service push wokeness and racism.",
+      "sources":"https://archive.vn/wip/sS64D"
+   },
+   {
+      "name":"London North East Railway",
+      "otherNames":[
+         "LNER"
+      ],
+      "urlMatch":"lner.co.uk",
+      "text":"London North East Railway push wokeness.",
+      "sources":"https://archive.today/Stq9H"
+   },
+   {
+      "name":"iHeart",
+      "urlMatch":"iheart.com",
+      "text":"iHeart push wokeness and race based policies.",
+      "sources":"https://archive.is/MLA17"
+   },
+   {
+      "name":"Snapchat",
+      "urlMatch":"snapchat.",
+      "text":"Snapchat push wokeness for social justice.",
+      "sources":"https://archive.is/HcGGQ,https://archive.is/IsnIX"
+   },
+   {
+      "name":"Tedx",
+	  "otherNames":[
+	    "TEDx"
+	  ],
+      "urlMatch":"ted.com",
+      "text":"Tedx push wokeness.",
+      "sources":"https://archive.ph/63eLW"
+   },
+   {
+      "name":"Sheffield City Trust",
+      "urlMatch":"sheffieldcitytrust.org",
+      "text":"Sheffield City Trust push cancel culture and wokeness.",
+      "sources":"https://archive.ph/Fu1gg"
+   },
+   {
+      "name":"Vipps",
+      "urlMatch":"vipps.no",
+      "text":"Vipps push wokeness.",
+      "sources":"https://archive.md/wip/URirA,https://archive.md/wip/9syBi"
+   },
+   {
+      "name":"DNB",
+      "urlMatch":"dnb.no",
+      "text":"DNB push wokeness for social justice.",
+      "sources":"https://archive.md/wip/tg7Ot"
+   },
+   {
+      "name":"GEN",
+      "urlMatch":"gen.medium.",
+      "text":"GEN push wokeness for social justice.",
+      "sources":"https://archive.is/4UlOk"
+   },
+   {
+      "name":"MEDIUM",
+      "urlMatch":"medium.com",
+      "text":"Medium deplatforms people and delete their posts for arbitrary reasons.",
+      "sources":"https://archive.is/wip/TUv6e"
+   },
+   {
+      "name":"Stop Funding Hate",
+      "urlMatch":"stopfundinghate.info",
+      "text":"Stop Funding Hate push cancel culture to make advertisers cancel targeted companies.",
+      "sources":"https://archive.is/iDKJl"
+   },
+   {
+      "name":"Gmail",
+      "urlMatch":"mail.google.",
+      "text":"Gmail's owner Alphabet push cancel culture across it's various platforms and push wokeness.",
+      "linkUrl":"protonmail.com",
+      "linkText":"Protonmail",
+      "sources":"https://archive.is/DK2T8,https://archive.is/PsEoZ"
+   },
+   {
+      "name":"Google search",
+      "urlMatch":"google.|search",
+      "text":"Google manipulates search results based on the user's perceived political ideology and push wokeness.",
+      "linkUrl":"duckduckgo.com",
+      "linkText":"DuckDuckGo",
+      "styling":"margin-top: 130px; z-index: 123",
+      "sources":"https://archive.is/DK2T8,https://archive.is/PsEoZ"
+   },
+   {
+      "name":"Google maps",
+      "urlMatch":"google.|maps",
+      "text":"Google's owner Alphabet push cancel culture across it's various platforms and push wokeness.",
+      "linkUrl":"openstreetmap.org",
+      "linkText":"OpenStreetMap",
+      "styling":"margin-left: 480px;",
+      "sources":"https://archive.is/DK2T8,https://archive.is/PsEoZ"
+   },
+   {
+      "name":"Google",
+      "urlMatch":"google.",
+      "text":"Google's owner Alphabet push cancel culture across it's various platforms and push wokeness.",
+      "sources":"https://archive.is/DK2T8,https://archive.is/PsEoZ"
+   },
+   {
+      "name":"Twitch",
+      "urlMatch":"twitch.",
+      "text":"Twitch push cancel culture by banning words and emotes, suspending people for arbitrary reasons, and pushing wokeness.",
+      "sources":"https://archive.is/eOHWr,https://archive.is/DAmR5"
+   },
+   {
+      "name":"Countdown Supermarkets",
+      "urlMatch":"countdown.co.nz",
+      "text":"Countdown Supermarkets push wokeness, giving extra paid leave excusively to transitioning transexual individuals.",
+      "sources":"https://archive.is/wip/Zfq1S"
+   },
+   {
+      "name":"American Psychological Association",
+      "urlMatch":"apa.org",
+      "text":"American Psychological Association push wokeness.",
+      "sources":"https://archive.is/wip/K84ri,https://archive.is/Cxu4u"
+   },
+   {
+      "name":"Discord",
+      "urlMatch":"discord.",
+      "text":"Discord shuts down communities, ban users for arbitrary reasons without warning, and support riots.",
+      "sources":"https://archive.is/hGtDw"
+   },
+   {
+      "name":"Patreon",
+      "urlMatch":"patreon.",
+      "text":"Patreon deplatforms creators for arbitrary reasons without warning and push wokeness.",
+      "linkUrl":"subscribestar.com",
+      "linkText":"SubscribeStar",
+      "sources":"https://archive.is/wzfM5"
+   },
+   {
+      "name":"Slow Factory Foundation",
+      "urlMatch":"slowfactory.foundation",
+      "text":"Slow Factory Foundation engages in wokeness by pushing nonsense such as \"digital blackface\".",
+      "sources":"https://archive.is/wip/ED4Nx"
+   },
+   {
+      "name":"Vimeo",
+      "urlMatch":"vimeo.",
+      "text":"Vimeo push wokeness and deplatform creators for arbitrary reasons without warning.",
+      "sources":"https://archive.is/wip/TkPqC,https://archive.is/wip/GY8y1"
+   },
+   {
+      "name":"Lockheed",
+      "urlMatch":"lockheedmartin.com",
+      "text":"Lockheed push wokeness and racism.",
+      "sources":"https://archive.is/nX8uJ"
+   },
+   {
+      "name":"Goodwill",
+      "urlMatch":"goodwill.",
+      "text":"Goodwill push wokeness and racism.",
+      "sources":"https://archive.md/LJQ3D,https://archive.md/wip/Tnbkh"
+   },
+   {
+      "name":"Heaven Hill",
+      "urlMatch":"heavenhill.com",
+      "text":"Heaven Hill push wokeness.",
+      "sources":"https://archive.md/wip/JLPiN",
+      "childText":"{1}'s owner push wokeness.",
+      "children":[
+         {
+            "name":"Heaven Hill Distillery",
+            "urlMatch":"heavenhilldistillery.com"
+         },
+         {
+            "name":"Admiral Nelson's Premium Spiced Rums",
+            "otherNames":[
+               "Admiral Nelson’s Premium Spiced Rums"
+            ]
+         },
+         {
+            "name":"Ansac Cognac"
+         },
+         {
+            "name":"Bernheim Original Wheat Whiskey"
+         },
+         {
+            "name":"Black Velvet Canadian Whisky"
+         },
+         {
+            "name":"Blackheart Premium Spiced Rum"
+         },
+         {
+            "name":"Burnett's London Dry Gin",
+            "otherNames":[
+               "Burnett’s London Dry Gin"
+            ]
+         },
+         {
+            "name":"Burnett's Vodkas",
+            "otherNames":[
+               "Burnett’s London Dry Gin"
+            ]
+         },
+         {
+            "name":"Carolans Irish Cream Liqueur"
+         },
+         {
+            "name":"Christian Brothers Brandies"
+         },
+         {
+            "name":"Cinerator Hot Cinnamon Whiskey"
+         },
+         {
+            "name":"Copa De Oro Coffee Liqueur"
+         },
+         {
+            "name":"Coronet VSQ Brandy"
+         },
+         {
+            "name":"Deep Eddy Vodkas"
+         },
+         {
+            "name":"Domaine de Canton French Ginger Liqueur"
+         },
+         {
+            "name":"Du Bouchett Liqueurs & Cordials"
+         },
+         {
+            "name":"Dubonnet Aperitifs"
+         },
+         {
+            "name":"Elijah Craig Bourbons"
+         },
+         {
+            "name":"Evan Williams Bourbons"
+         },
+         {
+            "name":"Fighting Cock Bourbon"
+         },
+         {
+            "name":"Fulton's Harvest Cream Liqueur",
+            "otherNames":[
+               "Fulton’s Harvest Cream Liqueur"
+            ]
+         },
+         {
+            "name":"Georgia Moon Corn Whiskey"
+         },
+         {
+            "name":"Henry Mckenna Single Barrel"
+         },
+         {
+            "name":"HPNOTIQ"
+         },
+         {
+            "name":"Irish Mist Liqueur"
+         },
+         {
+            "name":"Larceny Bourbon"
+         },
+         {
+            "name":"Lunazul Tequilas"
+         },
+         {
+            "name":"Mellow Corn Whiskey"
+         },
+         {
+            "name":"Old Fitzgerald Bourbon"
+         },
+         {
+            "name":"PAMA Pomegranate Liqueur"
+         },
+         {
+            "name":"Parker's Heritage Collection",
+            "otherNames":[
+               "Fulton’s Harvest Cream Liqueur"
+            ]
+         },
+         {
+            "name":"Pikesville Straight Rye Whiskey"
+         },
+         {
+            "name":"Rittenhouse Straight Rye Whisky"
+         },
+         {
+            "name":"Sacred Bond"
+         },
+         {
+            "name":"Two Fingers Tequilas"
+         }
+      ]
+   },
+   {
+      "name":"Salvation Army",
+      "urlMatch":"salvationarmy.org",
+      "text":"Salvation Army push wokeness and racism.",
+      "sources":"https://archive.md/NzP3l"
+   },
+   {
+      "name":"Spirit Airlines",
+      "urlMatch":"spirit.com",
+      "text":"Spirit Airlines push wokeness.",
+      "sources":"https://archive.is/wip/0XBhJ"
+   },
+   {
+      "name":"M&M",
+      "text":"M&M push wokeness.",
+      "sources":"https://archive.is/wip/8fjEq"
+   },
+   {
+      "name":"Penzeys Spices",
+		"otherNames":[
+		   "Penzeys"
+		],
+      "urlMatch":"penzeys.com",
+      "text":"Penzeys Spices push wokeness and racism.",
+      "sources":"https://archive.is/wip/WaNky"
+   },
+   {
+      "name":"Nordea",
+      "urlMatch":"nordea.",
+      "text":"Nordea push wokeness, suspending workers skeptical of government mandates.",
+      "sources":"https://archive.md/fk1An"
+   },
+   {
+      "name":"Walmart",
+      "urlMatch":"walmart.com",
+      "text":"Walmart push wokeness and racism.",
+      "sources":"https://archive.md/wip/mGpYe,https://archive.md/6Iyh4,https://archive.md/mhQMT"
+   },
+   {
+      "name":"Reddit",
+      "urlMatch":"reddit.",
+      "text":"Reddit bans subreddits and users for arbitrary reasons and support riots.",
+      "styling":"margin-top: 50px;",
+      "sources":"https://archive.is/H09M8"
+   },
+   {
+      "name":"GoDaddy",
+      "urlMatch":"godaddy.",
+      "text":"GoDaddy kicks websites off their hosting service for arbitrary reasons without warning and push wokeness.",
+      "sources":"https://archive.is/VEMk4"
+   },
+   {
+      "name":"Deutsche Bank",
+      "urlMatch":"db.",
+      "text":"Deutsche Bank bans people from usings it's services for arbitrary reasons.",
+      "sources":"https://archive.is/wip/B1nbz"
+   },
+   {
+      "name":"Goodyear",
+      "urlMatch":"goodyear.",
+      "text":"Goodyear regulate employee attire where \"Black Lives Matter\" is acceptable, but \"All Lives Matter\" is not.",
+      "sources":"https://archive.is/wip/np61R"
+   },
+   {
+      "name":"Apple",
+      "urlMatch":"apple.",
+      "text":"Apple removes applications from it's appstore based on political ideology and push wokeness.",
+      "sources":"https://archive.is/cj97E"
+   },
+   {
+      "name":"Cambridge Union",
+      "urlMatch":"cus.org",
+      "text":"Cambridge Union push wokeness.",
+      "sources":"https://archive.md/cmtYq"
+   },
+   {
+      "name":"State Street",
+      "urlMatch":"statestreet.",
+      "text":"State Street engage in racism and push wokeness.",
+      "sources":"https://archive.md/c3hCd",
+      "childText":"{1} engage in racism and push wokeness.",
+      "children":[
+         {
+            "name":"State Street Global Advisors",
+            "urlMatch":"ssga."
+         }
+      ]
+   },
+   {
+      "name":"GCHQ",
+      "urlMatch":"gchq.gov.uk",
+      "text":"GCHQ engage in racism and push wokeness.",
+      "sources":"https://archive.md/feYkx"
+   },
+   {
+      "name":"Stonewall campaigns",
+      "urlMatch":"stonewall.org.uk",
+      "text":"Stonewall push wokeness.",
+      "sources":"https://archive.is/yTIaS"
+   },
+   {
+      "name":"Stripe",
+      "urlMatch":"stripe.",
+      "text":"Stripe bans people from usings it's payment services for arbitrary rwweasons.",
+      "sources":"https://archive.is/wip/sV89G,https://archive.is/UshUE"
+   },
+   {
+      "name":"Blues Clues",
+      "text":"Blues Clues push wokeness aimed at children.",
+      "sources":"https://archive.is/wip/TeR2l,https://archive.is/KnONc"
+   },
+   {
+      "name":"GoFundMe",
+      "urlMatch":"gofundme.",
+      "text":"GoFundMe push wokeness and removes crowdfunding projects based on political ideology.",
+      "sources":"https://archive.is/Be0fJ"
+   },
+   {
+      "name":"Paramount+",
+      "urlMatch":"paramountplus.com",
+      "text":"Paramount+ push wokeness, changing sexual preference of established characters to pander.",
+      "sources":"https://archive.is/wip/Aa0GP"
+   },
+   {
+      "name":"Southern Poverty Law Center",
+      "otherNames":[
+         "SPLC"
+      ],
+      "urlMatch":"splcenter.org",
+      "text":"Southern Poverty Law Center is a hate group that push wokeness and defame individuals and companies.",
+      "sources":"https://archive.is/wip/f16ji,https://archive.is/1KkHA"
+   },
+   {
+      "name":"Broders' Restaurants",
+      "otherNames":[
+         "Broders’ Restaurants"
+      ],
+      "urlMatch":"brodersrestaurants.com",
+      "text":"Broders' Restaurants push wokeness and racism.",
+      "sources":"https://archive.md/wip/nWfzO"
+   },
+   {
+      "name":"PayPal",
+      "otherNames":[
+         "Paypal"
+      ],
+      "urlMatch":"paypal.",
+      "text":"PayPal engages in wokeness and cancel culture, banning people and companies from their service based on arbitrary political reasons.",
+      "sources":"https://archive.is/wip/La4eJ,https://archive.is/ID68p"
+   },
+   {
+      "name":"Venmo",
+      "urlMatch":"venmo.com",
+      "text":"Venmo engages in wokeness and cancel culture, banning people and companies from their service based on arbitrary political reasons.",
+      "sources":"https://archive.is/ID68p,https://archive.is/wip/La4eJ"
+   },
+   {
+      "name":"Mozilla",
+      "urlMatch":"mozilla.",
+      "text":"Executives at Mozilla call for more censorship of the internet and push wokeness.",
+      "linkUrl":"brave.com",
+      "linkText":"Brave",
+      "sources":"https://archive.is/JEGZA,https://archive.is/wip/ckMEW,https://archive.is/m1aLg"
+   },
+   {
+      "name":"University of Michigan",
+      "urlMatch":"umich.edu",
+      "text":"University of Michigan push wokeness.",
+      "sources":"https://archive.md/yU63e,https://archive.md/wip/vuIUo"
+   },
+   {
+      "name":"Canadian Broadcasting Corporation",
+      "otherNames":[
+         "CBC"
+      ],
+      "urlMatch":"cbc.ca",
+      "text":"Canadian Broadcasting Corporation push wokeness.",
+      "sources":"https://archive.md/GDway,https://archive.md/wip/OgC6S"
+   },
+   {
+      "name":"Firefox",
+      "urlMatch":"firefox.",
+      "text":"Firefox's owner Mozilla call for more censorship of the internet and push wokeness.",
+      "linkUrl":"brave.com",
+      "linkText":"Brave",
+      "sources":"https://archive.is/JEGZA,https://archive.is/wip/ckMEW,https://archive.is/m1aLg"
+   },
+   {
+      "name":"Harris Teeter",
+      "urlMatch":"harristeeter.com",
+      "text":"Harris Teeter bans pro-America items from it's stores.",
+      "sources":"https://archive.ph/Lpe5k"
+   },
+   {
+      "name":"Kirkland & Ellis",
+      "urlMatch":"kirkland.com",
+      "text":"Kirkland & Ellis fires lawyers who take up second amendment cases.",
+      "sources":"https://archive.ph/Ih1Gr"
+   },
+   {
+      "name":"Dick's",
+	  "otherNames":[
+		 "Dick’s",
+		 "DICK'S",
+		 "DICK’S"
+	  ],
+      "urlMatch":"dickssportinggoods.com",
+      "text":"Dick's removes items from its store for political reasons.",
+      "sources":"https://archive.ph/wip/3dpMA,https://archive.ph/ulCYm"
+   },
+   {
+      "name":"State Farm",
+      "urlMatch":"statefarm.com",
+      "text":"State Farm push wokeness for social justice.",
+      "sources":"https://archive.ph/dJTt4,https://archive.ph/wip/k3Ejh"
+   },
+   {
+      "name":"Bed Bath and Beyond",
+      "otherNames":[
+         "Bed Bath & Beyond"
+      ],
+      "urlMatch":"bedbathandbeyond.",
+      "text":"Bed Bath & Beyond bans products from it's stores based on the product owners political belief.",
+      "sources":"https://archive.is/Dqs3v,https://archive.is/oT4Jd",
+      "childText":"{1} bans products from it's stores based on the product owners political belief.",
+      "children":[
+         {
+            "name":"Kohls",
+            "otherNames":[
+               "Kohl's",
+               "Kohl’s"
+            ],
+            "urlMatch":"kohls."
+         },
+         {
+            "name":"Wayfair",
+            "urlMatch":"wayfair."
+         },
+         {
+            "name":"Dollar General",
+            "urlMatch":"dollargeneral.com"
+         },
+         {
+            "name":"ShopHQ",
+            "urlMatch":"shophq.com"
+         },
+         {
+            "name":"Mattress Firm",
+            "urlMatch":"mattressfirm.com"
+         },
+         {
+            "name":"BJ's Wholesale Club",
+            "otherNames":[
+               "BJ’s Wholesale Club"
+            ],
+            "urlMatch":"bjs.com"
+         },
+         {
+            "name":"Today's Shopping Choice",
+            "otherNames":[
+               "Today’s Shopping Choice",
+               "The Shopping Channel"
+            ],
+            "urlMatch":"tsc.ca"
+         },
+         {
+            "name":"Affirm company",
+            "urlMatch":"affirm.com"
+         },
+         {
+            "name":"Fingerhut",
+            "urlMatch":"fingerhut.com"
+         },
+         {
+            "name":"Kinney Drugs",
+            "urlMatch":"kinneydrugs.com"
+         },
+         {
+            "name":"Chewy.com",
+            "urlMatch":"chewy.com"
+         },
+         {
+            "name":"Colony Brands",
+            "urlMatch":"colonybrands.com"
+         },
+         {
+            "name":"Coborn's",
+            "otherNames":[
+               "Coborn’"
+            ],
+            "urlMatch":"coborns.com"
+         },
+         {
+            "name":"Kroger",
+            "urlMatch":"kroger."
+         },
+         {
+            "name":"Costco",
+            "urlMatch":"costco."
+         },
+         {
+            "name":"Sam’s Club",
+            "otherNames":[
+               "Sam's Club"
+            ],
+            "urlMatch":"samsclub."
+         }
+      ]
+   },
+   {
+      "name":"Bank of America",
+      "urlMatch":"bankofamerica.",
+      "text":"Bank of America hands out customer data to authorities without warrants without informing the customer, and push wokeness.",
+      "sources":"https://archive.is/FH1O0"
+   },
+   {
+      "name":"Aunt Jemima",
+      "urlMatch":"auntjemima.",
+      "text":"Aunt Jemima caves to cancel culture outrage from Twitter activists, changing the name and logo of the product.",
+      "sources":"https://archive.is/wIBS5"
+   },
+   {
+      "name":"Church of England",
+      "urlMatch":"churchofengland.org",
+      "text":"Church of England push wokeness and racism.",
+      "sources":"https://archive.is/wip/hqEkZ,https://archive.is/T67fE"
+   },
+   {
+      "name":"Church of Sweden",
+      "urlMatch":"svenskakyrkan.se",
+      "text":"Church of Sweden engages in wokeness pushing social justice.",
+      "sources":"https://archive.is/wip/eMvaD"
+   },
+   {
+      "name":"Pearl Milling Company",
+      "urlMatch":"pearlmillingcompany.",
+      "text":"Pearl Milling Company (Aunt Jemima) caves to cancel culture outrage from Twitter activists, changing the name and logo of the product.",
+      "sources":"https://archive.is/wIBS5"
+   },
+   {
+      "name":"Jim Henson Company",
+      "urlMatch":"henson.com",
+      "text":"Jim Henson Company push wokeness and racism, excluding job applicants based on their skin color",
+      "sources":"https://archive.is/BAXzV"
+   },
+   {
+      "name":"The Roots",
+      "text":"The Roots engages in wokeness pushing social justice.",
+      "sources":"https://archive.is/wip/QNhUG"
+   },
+   {
+      "name":"Calvin Klein",
+      "text":"Calvin Klein engages in wokeness pushing social justice.",
+      "sources":"https://archive.ph/clmkL"
+   },
+   {
+      "name":"LEGO",
+      "otherNames":[
+         "Lego"
+      ],
+      "urlMatch":"lego.com",
+      "text":"LEGO engages in wokeness pushing social justice.",
+      "sources":"https://archive.is/wip/92asf"
+   },
+   {
+      "name":"William Morris Endeavor",
+      "otherNames":[
+         "WME"
+      ],
+      "urlMatch":"wmeagency.com",
+      "text":"William Morris Endeavor push wokeness, dropping comedians who do sketches they consider too offensive ",
+      "sources":"https://archive.is/yUKup"
+   },
+   {
+      "name":"Disney Plus",
+      "urlMatch":"disneyplus.",
+      "text":"Disney push cancel culture and fires people based on outrage from Twitter activists and push wokeness.",
+      "sources":"https://archive.is/wldfM"
+   },
+   {
+      "name":"Disney",
+      "urlMatch":"disney.",
+      "text":"Disney push cancel culture and fires people based on outrage from Twitter activists and push wokeness.",
+      "sources":"https://archive.is/wldfM"
+   },
+   {
+      "name":"Pixar",
+      "urlMatch":"pixar.com",
+      "text":"Pixar protest anti-grooming laws aimed at protecting young children.",
+      "sources":"https://archive.ph/wip/q371w"
+   },
+   {
+      "name":"Streamlabs",
+      "urlMatch":"streamlabs.",
+      "text":"Streamlabs deplatform users for arbitrary reasons without warning.",
+      "sources":"https://archive.is/wip/Z2lUC"
+   },
+   {
+      "name":"North Western Melbourne Primary Health Network",
+      "urlMatch":"nwmphn.org.au",
+      "text":"North Western Melbourne Primary Health Network push wokeness.",
+      "sources":"https://archive.is/wip/9M9PO"
+   },
+   {
+      "name":"NWMPHN",
+      "urlMatch":"nwmphn.org.au",
+      "text":"NWMPHN push wokeness.",
+      "sources":"https://archive.is/wip/9M9PO"
+   },
+   {
+      "name":"Comweb Corp",
+      "urlMatch":"pinewoodgroup.com",
+      "text":"Comweb Corp's COE Paul Bronfman push wokeness and cancel culture.",
+      "sources":"https://archive.is/wip/xCOUK"
+   },
+   {
+      "name":"Pinewood Toronto Studios",
+      "urlMatch":"comwebgroup.com",
+      "text":"Pinewood Toronto Studios's chairman Paul Bronfman push wokeness and cancel culture.",
+      "sources":"https://archive.is/wip/xCOUK"
+   },
+   {
+      "name":"Land O Lakes",
+      "urlMatch":"landolakes.",
+      "text":"Land O Lakes caves to cancel culture outrage from Twitter activists, removing the native american image from their butter while keeping the land.",
+      "sources":"https://archive.is/GABe9"
+   },
+   {
+      "name":"NCAA",
+      "urlMatch":"ncaa.com",
+      "text":"NCAA push wokeness and cancel culture based on outrage from Twitter activists.",
+      "sources":"https://archive.is/wip/RiUki"
+   },
+   {
+      "name":"Ruth Sent Us",
+      "urlMatch":"ruthsent.us",
+      "text":"Ruth Sent Us is an extremist group engaging in wokeness and intimidation.",
+      "sources":"https://archive.ph/6s5av"
+   },
+   {
+      "name":"National Collegiate Athletic Association",
+      "text":"National Collegiate Athletic Association push wokeness and cancel culture based on outrage from Twitter activists.",
+      "sources":"https://archive.is/wip/RiUki"
+   },
+   {
+      "name":"The Daily Beast",
+      "urlMatch":"thedailybeast.",
+      "text":"The Daily Beast writes hit-pieces to get people fired, boycotted, deplatformed, or to remove their sponsors.",
+      "sources":"https://archive.is/wip/59Qa9"
+   },
+   {
+      "name":"Vice News",
+      "urlMatch":"vice.com",
+      "text":"Vice News writes hit-pieces to get people fired, boycotted, deplatformed, or to remove their sponsors.",
+      "sources":"https://archive.is/DVCLz"
+   },
+   {
+      "name":"Vice Media",
+      "text":"Vice Media writes hit-pieces to get people fired, boycotted, deplatformed, or to remove their sponsors.",
+      "sources":"https://archive.is/DVCLz"
+   },
+   {
+      "name":"Nextdoor",
+      "urlMatch":"nextdoor.com",
+      "text":"Nextdoor push wokeness and racism.",
+      "sources":"https://archive.is/fr9H6"
+   },
+   {
+      "name":"VisuWell",
+      "urlMatch":"visuwell.io",
+      "text":"VisuWell push cancel culture, firing people based on disputed accusations.",
+      "sources":"https://archive.is/wip/WAv2S"
+   },
+   {
+      "name":"Media Matters",
+      "urlMatch":"mediamatters.org",
+      "text":"Media Matters writes hit-pieces to get people fired, boycotted, deplatformed, or to remove their sponsors",
+      "sources":"https://archive.is/hZEBP,https://archive.is/wip/XjzYZ"
+   },
+   {
+      "name":"Wizards of the Coast",
+      "urlMatch":"company.wizards",
+      "text":"Wizards of the Coast push wokeness",
+      "sources":"https://archive.is/N9poK"
+   },
+   {
+      "name":"USA TODAY",
+      "otherNames":[
+         "USA Today"
+      ],
+      "urlMatch":"usatoday.com",
+      "text":"USA TODAY push wokeness",
+      "sources":"https://archive.is/MVHdS"
+   },
+   {
+      "name":"Kellogg's",
+      "otherNames":[
+         "Kellogg Company",
+         "Kellogg’s",
+         "Kelloggs"
+      ],
+      "urlMatch":"kelloggs.com",
+      "text":"Kellogg's push wokeness",
+      "sources":"https://archive.is/oeOHL"
+   },
+   {
+      "name":"GLAAD",
+      "urlMatch":"glaad.org",
+      "text":"GLAAD push wokeness",
+      "sources":"https://archive.is/oeOHL"
+   },
+   {
+      "name":"Naughty Dog",
+      "urlMatch":"naughtydog.com",
+      "text":"Naughty Dog try to deplatform or shut down people who critizise them for pushing wokeness",
+      "sources":"https://archive.is/tjdrw"
+   },
+   {
+      "name":"Leesa",
+      "urlMatch":"leesa.",
+      "text":"Leesa caves to cancel culture and stops advertisement based on outrage from Twitter activists.",
+      "sources":"https://archive.is/wip/p0aRq",
+      "childText":"{1} caves to cancel culture and stops advertisement based on outrage from Twitter activists.",
+      "children":[
+         {
+            "name":"Mint Mobile",
+            "urlMatch":"mintmobile."
+         },
+         {
+            "name":"Red Lobster",
+            "urlMatch":"redlobster."
+         },
+         {
+            "name":"Farmers Insurance",
+            "urlMatch":"farmers.com"
+         },
+         {
+            "name":"Jaguar",
+            "urlMatch":"jaguar."
+         },
+         {
+            "name":"Voya",
+            "urlMatch":"voya."
+         },
+         {
+            "name":"Just For Men",
+            "urlMatch":"justformen."
+         },
+         {
+            "name":"NerdWallet",
+            "urlMatch":"nerdwallet."
+         },
+         {
+            "name":"Sodastream",
+            "urlMatch":"sodastream."
+         },
+         {
+            "name":"CareerBuilder",
+            "urlMatch":"careerbuilder."
+         },
+         {
+            "name":"TD Ameritrade",
+            "urlMatch":"tdameritrade."
+         },
+         {
+            "name":"SCOTTeVEST",
+            "urlMatch":"scottevest."
+         },
+         {
+            "name":"Zenni Optical",
+            "urlMatch":"zennioptical."
+         },
+         {
+            "name":"IHOP",
+            "urlMatch":"ihop."
+         },
+         {
+            "name":"Pacific Life",
+            "urlMatch":"pacificlife."
+         },
+         {
+            "name":"Indeed",
+            "urlMatch":"indeed."
+         },
+         {
+            "name":"Bowflex",
+            "urlMatch":"bowflex."
+         },
+         {
+            "name":"Minted",
+            "urlMatch":"minted."
+         },
+         {
+            "name":"Smile Direct Club",
+            "urlMatch":"smiledirectclub."
+         }
+      ]
+   },
+   {
+      "name":"Access Now",
+      "urlMatch":"accessnow.org",
+      "text":"Access Now push cancel culture and activism to defund people they disagree with.",
+      "sources":"https://archive.ph/wip/7MtRS",
+      "childText":"{1} push cancel culture and activism to defund people they disagree with",
+      "children":[
+         {
+            "name":"Accountable Tech",
+            "urlMatch":"accountabletech.org"
+         },
+         {
+            "name":"Black Lives Matter Global Network Foundation",
+            "urlMatch":"blacklivesmatter.com"
+         },
+         {
+            "name":"Center for Countering Digital Hate",
+            "urlMatch":"counterhate.com"
+         },
+         {
+            "name":"Empowering Pacific Islander Communities",
+            "urlMatch":"empoweredpi.org"
+         },
+         {
+            "name":"Face the Music Collective",
+            "urlMatch":"facethemusiccollective.org"
+         },
+         {
+            "name":"Fair Vote UK",
+            "urlMatch":"fairvote.uk"
+         },
+         {
+            "name":"Free Press",
+            "urlMatch":"freepress.net"
+         },
+         {
+            "name":"Friends of the Earth",
+            "urlMatch":"foei.org"
+         },
+         {
+            "name":"Gender Equity Policy Institute",
+            "urlMatch":"thegepi.org"
+         },
+         {
+            "name":"Global Project Against Hate and Extremism",
+            "urlMatch":"globalextremism.org"
+         },
+         {
+            "name":"Indivisible Northern Nevada",
+            "urlMatch":"indivisiblennv.org"
+         },
+         {
+            "name":"MediaJustice",
+            "urlMatch":"mediajustice.org"
+         },
+         {
+            "name":"NARAL Pro-Choice America",
+            "urlMatch":"prochoiceamerica.org"
+         },
+         {
+            "name":"National Hispanic Media Coalition",
+            "urlMatch":"nhmc.org"
+         },
+         {
+            "name":"Religious Coalition for Reproductive Choice",
+            "urlMatch":"rcrc.org"
+         },
+         {
+            "name":"Reproaction",
+            "urlMatch":"reproaction.org"
+         },
+         {
+            "name":"Stop Online Violence Against Women Inc",
+            "urlMatch":"stoponlinevaw.com"
+         },
+         {
+            "name":"The Sparrow Project",
+            "urlMatch":"sparrowmedia.net"
+         },
+         {
+            "name":"The Sparrow Project",
+            "urlMatch":"thesparrow-project.com"
+         },
+         {
+            "name":"UltraViolet",
+            "urlMatch":"weareultraviolet.org"
+         },
+         {
+            "name":"Union of Concerned Scientists",
+            "urlMatch":"ucsusa.org"
+         },
+         {
+            "name":"V-Day",
+            "urlMatch":"vday.org"
+         },
+         {
+            "name":"One Billion Rising",
+            "urlMatch":"onebillionrising.org"
+         }
+      ]
+   },
+   {
+      "name":"Pfizer",
+      "text":"Pfizer caves to cancel culture and stops advertisement based on outrage from Twitter activists and push wokeness.",
+      "urlMatch":"pfizer.",
+      "sources":"https://archive.is/A6hby"
+   },
+   {
+      "name":"Lexus",
+      "text":"Lexus caves to cancel culture and stops advertisement based on outrage from Twitter activists and push wokeness.",
+      "urlMatch":"lexus.",
+      "sources":"https://archive.is/71b2c"
+   },
+   {
+      "name":"Ancestry",
+      "urlMatch":"ancestry.",
+      "text":"Ancestry caves to cancel culture and stops advertisement based on outrage from Twitter activists and push wokeness.",
+      "sources":"https://archive.is/5Q9JW"
+   },
+   {
+      "name":"SAG-AFTRA",
+      "urlMatch":"sagaftra.",
+      "text":"SAG-AFTRA engages in cancel culture by removing membership from people they politically dont like.",
+      "sources":"https://archive.is/wip/ewTJN"
+   },
+   {
+      "name":"United Talent Agency",
+      "urlMatch":"unitedtalent.",
+      "text":"United Talent Agency push wokeness, firing actors based on outrage from Twitter activists.",
+      "sources":"https://archive.is/wip/LMwnr"
+   },
+   {
+      "name":"Diplom-is",
+      "otherNames":[
+         "Diplom-Is"
+      ],
+      "urlMatch":"diplom-is.no",
+      "text":"Diplom-is push wokeness, changing branding that depicts indigenous people.",
+      "linkUrl":"hennig-olsen.no",
+      "linkText":"Hennig-Olsen",
+      "sources":"https://archive.is/wip/jiZVh"
+   },
+   {
+      "name":"Hatting",
+      "urlMatch":"hatting.no",
+      "text":"Hatting push wokeness, changing branding that depicts indigenous people.",
+      "sources":"https://archive.is/wip/jiZVh"
+   },
+   {
+      "name":"London School of Hygiene and Tropical Medicine",
+      "otherNames":[
+         "LSHTM"
+      ],
+      "urlMatch":"lshtm.ac.uk",
+      "text":"London School of Hygiene and Tropical Medicine push wokeness and racism.",
+      "sources":"https://archive.md/wip/344j3,https://archive.md/wip/N8p5i"
+   },
+   {
+      "name":"University of Sheffield",
+      "otherNames":[
+         "Sheffield University"
+      ],
+      "urlMatch":"sheffield.ac.uk",
+      "text":"University of Sheffield push wokeness.",
+      "sources":"https://archive.md/wip/xAjHP"
+   },
+   {
+      "name":"Black Rifle Coffee",
+      "urlMatch":"blackriflecoffee.com",
+      "text":"Black Rifle Coffee push wokeness.",
+      "sources":"https://archive.md/wip/5H11c,https://archive.md/wip/wIfvI"
+   },
+   {
+      "name":"Lufthansa",
+      "urlMatch":"lufthansa.com",
+      "text":"Lufthansa push wokeness.",
+      "sources":"https://archive.md/wip/F4q8R,https://archive.md/wip/pVMah",
+      "childText":"{1} push wokeness",
+      "children":[
+         {
+            "name":"Austrian Airlines",
+            "urlMatch":"austrian.com"
+         },
+         {
+            "name":"SWISS",
+            "otherNames":[
+               "Swiss International Air Lines"
+            ],
+            "urlMatch":"swiss.com"
+         },
+         {
+            "name":"Eurowings",
+            "urlMatch":"eurowings.com"
+         }
+      ]
+   },
+   {
+      "name":"Barnardo's",
+      "otherNames":[
+         "Barnardo’s"
+      ],
+      "urlMatch":"barnardos.org.uk",
+      "text":"Barnardo's push wokeness and racism.",
+      "sources":"https://archive.md/wip/dhHMb"
+   },
+   {
+      "name":"Sainsbury's",
+      "otherNames":[
+         "Sainsbury’s"
+      ],
+      "urlMatch":"sainsburys.co.uk",
+      "text":"Sainsbury's push wokeness and racism.",
+      "sources":"https://archive.md/wip/D4pwL,https://archive.md/glIVh"
+   },
+   {
+      "name":"Wikipedia",
+      "urlMatch":"wikipedia.",
+      "text":"Wikipedia edits articles based on political ideology and push social justice naratives.",
+      "sources":"https://archive.md/wip/DrbUX,https://archive.is/HBFwM,https://archive.today/OVhRh"
+   },
+   {
+      "name":"Amazon",
+      "urlMatch":"amazon.",
+      "text":"Amazon push wokeness, deplatform customers, and support riots for social justice.",
+      "sources":"https://archive.is/lBR4u,https://archive.today/71mqi,https://archive.is/wip/bA23R",
+      "childText":"{1}'s owner {2}",
+      "children":[
+         {
+            "name":"Prime Video",
+            "urlMatch":"primevideo."
+         },
+         {
+            "name":"Audible",
+            "urlMatch":"audible."
+         },
+         {
+            "name":"Box Office Mojo",
+            "urlMatch":"boxofficemojo.com"
+         },
+         {
+            "name":"AbeBooks",
+            "urlMatch":"abebooks.com"
+         },
+         {
+            "name":"Goodreads",
+            "urlMatch":"goodreads.com"
+         },
+         {
+            "name":"Shopbop",
+            "urlMatch":"shopbop.com"
+         }
+      ]
+   },
+   {
+      "name":"Jennifer De Chiara Literary Agency",
+      "urlMatch":"jdlit.",
+      "text":"Jennifer De Chiara Literary Agency fires employes for using alternative social media platforms.",
+      "sources":"https://archive.is/Oe9PB"
+   },
+   {
+      "name":"YouGov",
+      "urlMatch":"yougov.",
+      "text":"YouGov engage in wokeness by saying that asking a woman for a date is sexual harassment.",
+      "sources":"https://archive.is/Wsb09"
+   },
+   {
+      "name":"National Education Union",
+      "urlMatch":"neu.org.uk",
+      "text":"National Education Union push wokeness and racism targeting children.",
+      "sources":"https://archive.is/wip/wo0Y0",
+      "childText":"{1} push wokeness and racism targeting children",
+      "children":[
+         {
+            "name":"National Day Nurseries Association",
+            "urlMatch":"ndna.org.uk"
+         },
+         {
+            "name":"Association for Professional Development in Early Years",
+            "urlMatch":"tactyc.org.uk"
+         }
+      ]
+   },
+   {
+      "name":"Coca-Cola",
+      "urlMatch":"coca-cola.",
+      "text":"Coca-Cola push wokeness, cancel culture, and racism by training their employes with to be \"less white\".",
+      "sources":"https://archive.is/pR0Gm,https://archive.is/61g4h,https://archive.is/bzTHi",
+      "childText":"{1}'s owner {2}",
+      "children":[
+         {
+            "name":"Coca Cola",
+            "urlMatch":"coca-cola.",
+            "text":"Coca Cola push wokeness, cancel culture, and racism by training their employes with to be \"less white\"."
+         },
+         {
+            "name":"Powerade",
+            "urlMatch":"powerade."
+         },
+         {
+            "name":"Sprite",
+            "urlMatch":"sprite."
+         },
+         {
+            "name":"Fanta",
+            "urlMatch":"fanta."
+         },
+         {
+            "name":"Dasani",
+            "urlMatch":"dasani."
+         },
+         {
+            "name":"Smartwater",
+            "urlMatch":"smartwater."
+         },
+         {
+            "name":"Minute Maid",
+            "urlMatch":"minutemaid."
+         }
+      ]
+   },
+   {
+      "name":"Mondelēz",
+      "otherNames":[
+         "Mondelez"
+      ],
+      "urlMatch":"mondelezinternational.com",
+      "text":"Mondelēz push political cancel culture and wokeness.",
+      "sources":"https://archive.is/l6Yy9,https://archive.is/wip/oLSGI,https://archive.is/wip/zWqJZ",
+      "childText":"{1}'s owner {2}",
+      "children":[
+         {
+            "name":"Alpen Gold"
+         },
+         {
+            "name":"belVita",
+            "urlMatch":"belvitabreakfast.com"
+         },
+         {
+            "name":"Bournvita"
+         },
+         {
+            "name":"Cadbury",
+            "urlMatch":".cadbury."
+         },
+         {
+            "name":"Chips Ahoy"
+         },
+         {
+            "name":"Clorets"
+         },
+         {
+            "name":"Club Social Original"
+         },
+         {
+            "name":"Enjoy Life Foods",
+            "urlMatch":"enjoylifefoods.com"
+         },
+         {
+            "name":"Freia Melkesjokolade",
+            "urlMatch":"freia.no"
+         },
+         {
+            "name":"Honey Maid",
+            "otherNames":[
+               "HONEY MAID"
+            ]
+         },
+         {
+            "name":"Hu Products"
+         },
+         {
+            "name":"Lu Biscuits",
+            "otherNames":[
+               "LU Biscuits",
+               "lu biscuits"
+            ],
+            "urlMatch":"lu.fr"
+         },
+         {
+            "name":"Marabou",
+            "urlMatch":"marabou.se"
+         },
+         {
+            "name":"Maynards Bassetts"
+         },
+         {
+            "name":"Milka",
+            "urlMatch":"milka.com"
+         },
+         {
+            "name":"Oreo",
+            "urlMatch":"oreo.",
+            "text":"Oreo push wokeness and diversity for social justice.",
+            "sources":"https://archive.is/Fb5NM"
+         },
+         {
+            "name":"Perfect Snacks",
+            "urlMatch":"perfectsnacks.com"
+         },
+         {
+            "name":"Ritz Crackers",
+            "urlMatch":"ritzcrackers.com"
+         },
+         {
+            "name":"Sour Patch Kids",
+            "urlMatch":"sourpatchkids.com"
+         },
+         {
+            "name":"Stride Gum"
+         },
+         {
+            "name":"Mondelez Tang"
+         },
+         {
+            "name":"Tate's Bake Shop",
+            "urlMatch":"tatesbakeshop.com"
+         },
+         {
+            "name":"Toblerone",
+            "urlMatch":"Toblerone.fr"
+         },
+         {
+            "name":"Triscuit",
+            "urlMatch":"triscuit.com"
+         },
+         {
+            "name":"Wheat Thins",
+            "urlMatch":"wheatthins.com"
+         }
+      ]
+   },
+   {
+      "name":"Simon & Schuster",
+      "urlMatch":"simonandschuster.",
+      "text":"Simon & Schuster cancels contracts with people based on their political belief.",
+      "sources":"https://archive.is/bFDms"
+   },
+   {
+      "name":"Marvel",
+      "urlMatch":"marvel.",
+      "text":"Marvel push wokeness in their comics.",
+      "sources":"https://archive.is/fDLhO,https://archive.is/wip/8et4W"
+   },
+   {
+      "name":"DC Comics",
+      "urlMatch":"dccomics.",
+      "text":"DC Comics push wokeness in their comics.",
+      "sources":"https://archive.is/wip/8pVKb,https://archive.is/tR9kr"
+   },
+   {
+      "name":"DC Entertainment",
+      "text":"DC Entertainment push wokeness in their comics.",
+      "sources":"https://archive.is/wip/8pVKb,https://archive.is/tR9kr"
+   },
+   {
+      "name":"Salesforce",
+      "urlMatch":"salesforce.",
+      "text":"Salesforce push cancel culture by deplatforming people based on their political belief and push wokeness.",
+      "sources":"https://archive.is/t1qZB"
+   },
+   {
+      "name":"The Higher Path",
+      "urlMatch":"thehigherpath.",
+      "text":"The Higher Path push cancel culture based on woke outrage.",
+      "sources":"https://archive.is/wip/QDIGM"
+   },
+   {
+      "name":"Hasbro",
+      "urlMatch":"hasbro.",
+      "text":"Hasbro support woke behavior by changing existing branding to be gender netural.",
+      "sources":"https://archive.is/wip/DVxkK"
+   },
+   {
+      "name":"Delta Airlines",
+      "otherNames":[
+         "Delta Air Lines"
+      ],
+      "urlMatch":"delta.com",
+      "text":"Delta Airlines push wokeness and cancel culture by repeating false narratives from woke activists.",
+      "sources":"https://archive.is/ENQiS"
+   },
+   {
+      "name":"NBCUniversal",
+      "otherNames":[
+         "NBCUNIVERSAL"
+      ],
+      "urlMatch":"nbcuniversal.",
+      "text":"NBCUniversal push woke behavior by deleting old series and shows based on modern views on \"racism\".",
+      "sources":"https://archive.is/wip/L8eyH"
+   },
+   {
+      "name":"Peacock TV",
+      "urlMatch":"peacocktv.",
+      "text":"Peacock TV's owner NBCUniversal push wokeness.",
+      "sources":"https://archive.is/wip/L8eyH"
+   },
+   {
+      "name":"Girl Scouts",
+      "urlMatch":"girlscouts.",
+      "text":"Girl Scouts support woke behavior by pushing \"systematic racism\" naratives.",
+      "sources":"https://archive.is/wip/akoeK"
+   },
+   {
+      "name":"Bad Robot",
+      "urlMatch":"badrobot.",
+      "text":"Bad Robot support woke behavior by putting out statments such as \"Enough White Comfort\".",
+      "sources":"https://archive.is/hXOSp"
+   },
+   {
+      "name":"Cartoon Network",
+      "urlMatch":"cartoonnetwork.",
+      "text":"Cartoon Network support woke behavior by putting out statements to rewrite established history for the sake of \"critical race theory\" and push wokeness.",
+      "sources":"https://archive.is/CxAd7"
+   },
+   {
+      "name":"Sports Illustrated",
+      "urlMatch":"si.com",
+      "text":"Sports Illustrated push wokeness.",
+      "sources":"https://archive.is/wip/IOKh0"
+   },
+   {
+      "name":"Netflix",
+      "urlMatch":"netflix.",
+      "text":"Netflix support woke behavior by casting actors exclusively for the sake of diversity and push wokeness.",
+      "sources":"https://archive.is/wip/dX6Pb,https://archive.is/UVSEr"
+   },
+   {
+      "name":"Foodora",
+      "otherNames":[
+         "foodora"
+      ],
+      "urlMatch":"foodora.",
+      "text":"Foodora push woke behavior by increasing prices for men on womens day."
+   },
+   {
+      "name":"Urban Dictionary",
+      "urlMatch":"urbandictionary.",
+      "text":"Urban Dictionary removes definitions of words from their site based on political ideology.",
+      "sources":"https://archive.is/y8ZHX"
+   },
+   {
+      "name":"Novant Health",
+      "urlMatch":"novanthealth.org",
+      "text":"Novant Health engage in racism.",
+      "sources":"https://archive.md/fG8CD"
+   },
+   {
+      "name":"Merriam-Webster",
+      "urlMatch":"merriam-webster.",
+      "text":"Merriam-Webster push wokeness, changing definitions of words based on political ideology.",
+      "sources":"https://archive.is/aqhWY"
+   },
+   {
+      "name":"Ebay",
+      "otherNames":[
+         "eBay"
+      ],
+      "urlMatch":"ebay.",
+      "text":"Ebay push wokness supporting riots in the name of social justice and ban normal books such as Dr Seuss.",
+      "sources":"https://archive.is/TYTIz,https://archive.is/wip/kau3L"
+   },
+   {
+      "name":"Magic: The Gathering",
+      "urlMatch":"magic.wizards.",
+      "text":"Magic: The Gathering push woke behavior, banning playing cards they claim contain \"racist depictions\".",
+      "sources":"https://archive.is/QA1au"
+   },
+   {
+      "name":"Major League Baseball",
+      "otherNames":[
+         "MLB"
+      ],
+      "urlMatch":"mlb.com",
+      "text":"Major League Baseball push wokeness for social justice and cancel culture.",
+      "sources":"https://archive.is/wip/shndE",
+      "childText":"{1} push wokeness, changing branding that depicts indigenous people.",
+      "children":[
+         {
+            "name":"Washington Football Team",
+            "urlMatch":"washingtonfootball.com",
+            "sources":"https://archive.md/wip/H32nu"
+         },
+         {
+            "name":"Cleveland Indians",
+            "otherNames":[
+               "Cleveland Guardians"
+            ],
+            "sources":"https://archive.md/wip/H32nu"
+         }
+      ]
+   },
+   {
+      "name":"Tyson Foods",
+      "urlMatch":"tysonfoods.com",
+      "text":"Tyson Foods terminate employees that do not comply with their Covid vaccine mandates.",
+      "sources":"https://archive.md/wip/Jas4u",
+      "childText":"{1} terminate employees that do not comply with their Covid vaccine mandates.",
+      "children":[
+         {
+            "name":"Saks Fifth Avenue",
+            "urlMatch":"saksfifthavenue.com"
+         },
+         {
+            "name":"Morgan Stanley",
+            "urlMatch":"morganstanley.com"
+         },
+         {
+            "name":"The Washington Post",
+            "urlMatch":"washingtonpost.com"
+         }
+      ]
+   },
+   {
+      "name":"HFPA",
+      "urlMatch":"HFPA.",
+      "text":"HFPA gives in to cancel culture and wokeness.",
+      "sources":"https://archive.is/wip/vXpRe"
+   },
+   {
+      "name":"American Booksellers Association",
+      "urlMatch":"bookweb.org",
+      "text":"American Booksellers Association push wokeness for social justice.",
+      "sources":"https://archive.ph/wip/HZsjc"
+   },
+   {
+      "name":"United Airlines",
+      "urlMatch":"united.com",
+      "text":"United Airlines push wokeness for social justice",
+      "sources":"https://archive.is/wip/cqItT"
+   },
+   {
+      "name":"Anti-Defamation League",
+      "otherNames":[
+         "ADL"
+      ],
+      "urlMatch":"adl.org",
+      "text":"Anti-Defamation League push wokeness, like claming the \"ok\" hand symbol is racist",
+      "sources":"https://archive.is/wip/zcDuL,https://archive.is/vf7cL"
+   },
+   {
+      "name":"NBC",
+      "urlMatch":"nbc.",
+      "text":"NBC push wokeness.",
+      "sources":"https://archive.is/wip/MS8Nw,https://archive.is/wip/QS9jM",
+      "childText":"{1} push cancel culture and push wokeness for social justice",
+      "children":[
+         {
+            "name":"Dick Clark Productions",
+            "urlMatch":"dickclark."
+         },
+         {
+            "name":"ID PR",
+            "urlMatch":"id-pr."
+         },
+         {
+            "name":"Viewpoint Public Relations",
+            "urlMatch":"viewpointpublicrelations."
+         },
+         {
+            "name":"The Lede Company",
+            "urlMatch":"ledecompany."
+         },
+         {
+            "name":"True Public Relations",
+            "urlMatch":"truepublicrelations."
+         },
+         {
+            "name":"Shelter PR",
+            "urlMatch":"shelterpr."
+         },
+         {
+            "name":"Relevant PR",
+            "urlMatch":"relevant-pr."
+         },
+         {
+            "name":"Kovert Creative",
+            "urlMatch":"kovertcreative."
+         },
+         {
+            "name":"Rogers & Cowan",
+            "urlMatch":"rogersandcowanpmk."
+         },
+         {
+            "name":"Narrative PR",
+            "urlMatch":"narrative."
+         },
+         {
+            "name":"ImPRint",
+            "urlMatch":"imprintpr."
+         },
+         {
+            "name":"Slate PR",
+            "urlMatch":"slate-pr."
+         },
+         {
+            "name":"Independent Public Relations",
+            "urlMatch":"independentpublicrelations."
+         },
+         {
+            "name":"Wolf | Kasteler",
+            "urlMatch":"wk-pr."
+         },
+         {
+            "name":"RMG PR",
+            "urlMatch":"rmgandco."
+         },
+         {
+            "name":"The Chambers Group",
+            "urlMatch":"thechambergroup."
+         },
+         {
+            "name":"The Collins Jackson Agency",
+            "urlMatch":"thecollinsjacksonagency."
+         },
+         {
+            "name":"Ascend PR Group",
+            "urlMatch":"ascendprgroup."
+         },
+         {
+            "name":"Red Sea Entertainment",
+            "urlMatch":"redseaentertainment."
+         },
+         {
+            "name":"SYE Publicity",
+            "urlMatch":"sye-publicity."
+         }
+      ]
+   },
+   {
+      "name":"Paul, Weiss",
+      "urlMatch":"paulweiss.com",
+      "text":"Paul, Weiss push political wokeness and cancel culture.",
+      "sources":"https://archive.is/PBGZ1",
+      "childText":"{1} push political wokeness and cancel culture.",
+      "children":[
+         {
+            "name":"Simpson Thacher",
+            "urlMatch":"stblaw.com"
+         },
+         {
+            "name":"Skadden",
+            "urlMatch":"skadden.com"
+         },
+         {
+            "name":"Akin Gump",
+            "urlMatch":"akingump.com"
+         },
+         {
+            "name":"Cravath, Swaine & Moore",
+            "urlMatch":"cravath.com"
+         },
+         {
+            "name":"Ropes & Gray",
+            "urlMatch":"ropesgray.com"
+         },
+         {
+            "name":"Sullivan & Cromwell",
+            "urlMatch":"sullcrom.com"
+         },
+         {
+            "name":"Weil, Gotshal & Manges",
+            "urlMatch":"weil.com"
+         },
+         {
+            "name":"Wachtel Lipton",
+            "urlMatch":"wlrk.com"
+         }
+      ]
+   },
+   {
+      "name":"Dr Pepper",
+      "urlMatch":"drpepper.com",
+      "text":"Dr Pepper push political cancel culture and wokeness.",
+      "sources":"https://archive.is/l6Yy9,https://archive.is/wip/zWqJZ,https://archive.is/wip/oLSGI",
+      "childText":"{1}'s owner {2}",
+      "children":[
+         {
+            "name":"Dr Pepper",
+            "urlMatch":"keurigdrpepper.com"
+         },
+         {
+            "name":"7 Up",
+            "otherNames":[
+               "7UP"
+            ],
+            "urlMatch":"7up.com"
+         },
+         {
+            "name":"Keurig",
+            "urlMatch":"keurig.com"
+         },
+         {
+            "name":"A&W Root Beer",
+            "urlMatch":"rootbeer.com"
+         },
+         {
+            "name":"A&W Cream Soda"
+         },
+         {
+            "name":"Mr & Mrs T",
+            "urlMatch":"mrandmrst.com"
+         },
+         {
+            "name":"Mott's",
+            "otherNames":[
+               "Mott’s"
+            ],
+            "urlMatch":"motts.com"
+         },
+         {
+            "name":"Sussex Golden Ginger Ale"
+         },
+         {
+            "name":"C'plus"
+         },
+         {
+            "name":"Van Houtte",
+            "urlMatch":"vanhoutte.com"
+         },
+         {
+            "name":"Tully's Coffee",
+            "otherNames":[
+               "Tully’s Coffee"
+            ],
+            "urlMatch":".tullys."
+         },
+         {
+            "name":"Timothy's World Coffee",
+            "otherNames":[
+               "Timothy’s World Coffee"
+            ],
+            "urlMatch":"timothyscafes.com"
+         },
+         {
+            "name":"Diedrich Coffee"
+         },
+         {
+            "name":"Bai Brands",
+            "urlMatch":"drinkbai.com"
+         },
+         {
+            "name":"Cactus Cooler"
+         },
+         {
+            "name":"Canada Dry",
+            "urlMatch":"canadadry.com"
+         },
+         {
+            "name":"Canfield's",
+            "otherNames":[
+               "Canfield’s"
+            ]
+         },
+         {
+            "name":"Clamato brand",
+            "urlMatch":"clamato.com"
+         },
+         {
+            "name":"Dejà Blue",
+            "otherNames":[
+               "Deja Blue"
+            ]
+         },
+         {
+            "name":"Diet Rite"
+         },
+         {
+            "name":"Hawaiian Punch"
+         },
+         {
+            "name":"Hires Root Beer"
+         },
+         {
+            "name":"Mistic Beverages"
+         },
+         {
+            "name":"Nantucket Nectars"
+         },
+         {
+            "name":"Nehi"
+         },
+         {
+            "name":"IBC Root Beer",
+            "urlMatch":"ibcrootbeer.com"
+         },
+         {
+            "name":"ReaLemon",
+            "urlMatch":"realemon.ca"
+         },
+         {
+            "name":"ReaLime"
+         },
+         {
+            "name":"Schweppes",
+            "urlMatch":"schweppes."
+         },
+         {
+            "name":"Snapple",
+            "urlMatch":"snapple.com"
+         },
+         {
+            "name":"Squirt Soda",
+            "urlMatch":"squirtsoda.com"
+         },
+         {
+            "name":"Stewart's Fountain Classics",
+            "otherNames":[
+               "Stewart’s Fountain Classics"
+            ],
+            "urlMatch":"drinkstewarts.com"
+         },
+         {
+            "name":"Tahitian Treat"
+         },
+         {
+            "name":"Venom Energy",
+            "urlMatch":"venomenergy.com"
+         },
+         {
+            "name":"Vernors "
+         },
+         {
+            "name":"Yoo-hoo",
+            "urlMatch":"yoo-hoo.com"
+         }
+      ]
+   },
+   {
+      "name":"PepsiCo",
+      "urlMatch":"pepsico.",
+      "text":"PepsiCo push wokeness for social justice.",
+      "sources":"https://archive.is/a3Zfo",
+      "childText":"{1}'s owner {2}",
+      "children":[
+         {
+            "name":"Green Mountain Coffee",
+            "urlMatch":"gmcr.com"
+         },
+         {
+            "name":"Tropicana Products",
+            "urlMatch":"tropicana.com"
+         },
+         {
+            "name":"Mountain Dew",
+            "urlMatch":"mountaindew.com"
+         },
+         {
+            "name":"Alvalle",
+            "urlMatch":"alvalle.com"
+         },
+         {
+            "name":"Aquafina",
+            "urlMatch":"aquafina.com"
+         },
+         {
+            "name":"Cap'n Crunch",
+            "otherNames":[
+               "Cap’n Crunch"
+            ],
+            "urlMatch":"capncrunch.com"
+         },
+         {
+            "name":"Cheetos",
+            "urlMatch":"cheetos.com"
+         },
+         {
+            "name":"Cracker Jack",
+            "urlMatch":"crackerjack.com"
+         },
+         {
+            "name":"Elma Chips"
+         },
+         {
+            "name":"Duyvis",
+            "urlMatch":"duyvis.nl"
+         },
+         {
+            "name":"Frito-Lay",
+            "urlMatch":"fritolay.com"
+         },
+         {
+            "name":"FritoLay",
+            "urlMatch":"fritolayemployment.com"
+         },
+         {
+            "name":"Fritos",
+            "urlMatch":"fritos.com"
+         },
+         {
+            "name":"Imunele"
+         },
+         {
+            "name":"IZZE ",
+            "otherNames":[
+               "Izze"
+            ],
+            "urlMatch":"izze.com"
+         }
+      ]
+   },
+   {
+      "name":"Dansk Industri",
+      "urlMatch":"danskindustri.dk",
+      "text":"Dansk Industri push wokeness.",
+      "sources":"https://archive.is/wip/0ugxl,https://archive.is/wip/xIW5U",
+      "childText":"{1} has signed onto Dansk Industri's woke agenda",
+      "children":[
+         {
+            "name":"Atkins",
+            "urlMatch":"atkins."
+         }
+      ]
+   },
+   {
+      "name":"Atlassian",
+      "urlMatch":"atlassian.com",
+      "text":"Atlassian push political cancel culture and wokeness.",
+      "sources":"https://archive.is/l6Yy9,https://archive.is/wip/oLSGI,https://archive.is/wip/zWqJZ",
+      "childText":"{1}'s owner {2}",
+      "children":[
+         {
+            "name":"Jira"
+         },
+         {
+            "name":"Bitbucket",
+            "urlMatch":"bitbucket.org"
+         },
+         {
+            "name":"Trello",
+            "urlMatch":"trello.com"
+         },
+         {
+            "name":"Sourcetree",
+            "urlMatch":"sourcetreeapp.com"
+         },
+         {
+            "name":"Statuspage",
+            "urlMatch":"statuspage.io"
+         },
+         {
+            "name":"Mindville",
+            "urlMatch":"mindville.com"
+         },
+         {
+            "name":"Halp",
+            "urlMatch":"halp.com"
+         }
+      ]
+   },
+   {
+      "name":"American Civil Liberties Union",
+      "otherNames":[
+         "ACLU"
+      ],
+      "urlMatch":"aclu.org",
+      "text":"American Civil Liberties Union push political cancel culture and wokeness.",
+      "sources":"https://archive.is/l6Yy9,https://archive.is/wip/oLSGI,https://archive.is/wip/zWqJZ",
+      "childText":"{1} push political cancel culture and wokeness.",
+      "children":[
+         {
+            "name":"NAACP",
+            "urlMatch":"naacp.org"
+         },
+         {
+            "name":"National Association for the Advancement of Colored People"
+         },
+         {
+            "name":"Berkshire Hathaway",
+            "urlMatch":"berkshirehathaway.com"
+         },
+         {
+            "name":"Synchrony",
+            "urlMatch":"synchrony.com"
+         },
+         {
+            "name":"Synchrony",
+            "urlMatch":"mysynchrony.com"
+         },
+         {
+            "name":"Synchrony",
+            "urlMatch":"synchronybusiness.com"
+         },
+         {
+            "name":"Synchrony",
+            "urlMatch":"synchronycareers.com"
+         },
+         {
+            "name":"Synchrony",
+            "urlMatch":"synchronybank.com"
+         },
+         {
+            "name":"BlackRock",
+            "urlMatch":"blackrock.com"
+         },
+         {
+            "name":"Brennan Center for Justice",
+            "otherNames":[
+               "Brennan Justice Center"
+            ],
+            "urlMatch":"brennancenter.org",
+            "sources":"https://archive.is/od7e9"
+         },
+         {
+            "name":"TIAA",
+            "urlMatch":"tiaa.org"
+         },
+         {
+            "name":"Ariel Investments",
+            "urlMatch":"arielinvestments."
+         },
+         {
+            "name":"Vista Equity Partners",
+            "urlMatch":"vistaequitypartners."
+         },
+         {
+            "name":"Merck",
+            "urlMatch":"merckgroup."
+         },
+         {
+            "name":"Patagonia",
+            "urlMatch":"patagonia."
+         },
+         {
+            "name":"Civic Alliance",
+            "urlMatch":"civicalliance."
+         },
+         {
+            "name":"Zillow",
+            "urlMatch":"Zillow.com"
+         },
+         {
+            "name":"Mailchimp",
+            "otherNames":[
+               "Mail Chimp"
+            ],
+            "urlMatch":"mailchimp.",
+            "sources":"https://archive.is/lFqEN,https://archive.is/wip/AvlEM,https://archive.is/wip/xo75N"
+         },
+         {
+            "name":"WordPress",
+            "urlMatch":"wordpress.com",
+            "sources":"https://archive.is/wip/tOaID"
+         },
+         {
+            "name":"Business Roundtable",
+            "urlMatch":"businessroundtable."
+         },
+         {
+            "name":"JPMorgan Chase",
+            "otherNames":[
+               "Chase Bank"
+            ],
+            "urlMatch":"jpmorganchase."
+         },
+         {
+            "name":"Aflac",
+            "otherNames":[
+               "AFLAC"
+            ],
+            "urlMatch":"aflac."
+         },
+         {
+            "name":"Abercrombie & Fitch",
+            "urlMatch":"abercrombie."
+         },
+         {
+            "name":"Cardinal Health",
+            "urlMatch":"cardinalhealth."
+         },
+         {
+            "name":"Estée Lauder",
+            "otherNames":[
+               "Estee Lauder"
+            ],
+            "urlMatch":"esteelauder."
+         },
+         {
+            "name":"Southwest Airlines",
+            "urlMatch":"southwest.com"
+         },
+         {
+            "name":"88 ACRES",
+            "urlMatch":"88acres."
+         },
+         {
+            "name":"A to Z Wineworks",
+            "urlMatch":"atozwineworks."
+         },
+         {
+            "name":"Air Cloud collaboration",
+            "urlMatch":"air.inc"
+         },
+         {
+            "name":"airCFO",
+            "urlMatch":"aircfo.com"
+         },
+         {
+            "name":"Akamai",
+            "urlMatch":"akamai.com"
+         },
+         {
+            "name":"ALOHA",
+            "urlMatch":"aloha.com"
+         },
+         {
+            "name":"Anonymous Content",
+            "urlMatch":"anonymouscontent."
+         },
+         {
+            "name":"Antiva Biosciences",
+            "urlMatch":"antivabio.com"
+         },
+         {
+            "name":"American Prison Data Systems",
+            "urlMatch":"apdscorporate.com"
+         },
+         {
+            "name":"Arborview Capital",
+            "urlMatch":"arborviewcapital.com"
+         },
+         {
+            "name":"ASCAP",
+            "urlMatch":"ascap.com"
+         },
+         {
+            "name":"Atlanta Hawks",
+            "urlMatch":"nba.com/hawks"
+         },
+         {
+            "name":"Avenue Agency",
+            "urlMatch":"avenueagency.com"
+         },
+         {
+            "name":"Avocado Green Brands",
+            "urlMatch":"avocadogreenbrands.com"
+         },
+         {
+            "name":"Azavea",
+            "urlMatch":"azavea.com"
+         },
+         {
+            "name":"B Lab",
+            "urlMatch":"bcorporation."
+         },
+         {
+            "name":"Bain & Company",
+            "urlMatch":"bain.com"
+         },
+         {
+            "name":"Balanced Blends",
+            "urlMatch":"balancedblends.com"
+         },
+         {
+            "name":"bambu",
+            "urlMatch":"bambuhome.com"
+         },
+         {
+            "name":"Bark Media",
+            "urlMatch":"barkmediaco.com"
+         },
+         {
+            "name":"Beehive Strategic Communication",
+            "urlMatch":"beehivepr."
+         },
+         {
+            "name":"Better Mortgage",
+            "urlMatch":"better.com"
+         },
+         {
+            "name":"Bird Rides",
+            "urlMatch":"bird.co"
+         },
+         {
+            "name":"The Black Tux",
+            "urlMatch":"theblacktux.com"
+         },
+         {
+            "name":"Blackbird Benefits Collective",
+            "urlMatch":"blackbirdbenefits.org"
+         },
+         {
+            "name":"Blue Apron",
+            "urlMatch":"blueapron.com"
+         },
+         {
+            "name":"Bombas",
+            "urlMatch":"bombas.com"
+         },
+         {
+            "name":"Boston Consulting Group",
+            "urlMatch":"bcg.com"
+         },
+         {
+            "name":"Burton ",
+            "urlMatch":"burton.com"
+         },
+         {
+            "name":"Business Forward",
+            "urlMatch":"businessfwd.org"
+         },
+         {
+            "name":"Capital One",
+            "urlMatch":"capitalone.com"
+         },
+         {
+            "name":"Casebook PBC.",
+            "urlMatch":"casebook.net"
+         },
+         {
+            "name":"Chegg",
+            "urlMatch":"chegg.com"
+         },
+         {
+            "name":"Cheney Forensic Consulting",
+            "urlMatch":"cheneyforensics.com"
+         },
+         {
+            "name":"Chicory Wealth",
+            "urlMatch":"chicorywealth.com"
+         },
+         {
+            "name":"Chief Executives for Corporate Purpose",
+            "otherNames":[
+               "CECP"
+            ],
+            "urlMatch":"cecp.co"
+         },
+         {
+            "name":"Civis Analytics",
+            "urlMatch":"civisanalytics.com"
+         },
+         {
+            "name":"Cohen Strategy Group",
+            "urlMatch":"cohenstrategygroup.com"
+         },
+         {
+            "name":"Commonwealth non-profit",
+            "urlMatch":"buildcommonwealth.org"
+         },
+         {
+            "name":"Compass Coffee",
+            "urlMatch":"compasscoffee.com"
+         },
+         {
+            "name":"Compose[d]",
+            "urlMatch":"composedcreative.com"
+         },
+         {
+            "name":"Connective Impact",
+            "urlMatch":"connectiveimpact.com"
+         },
+         {
+            "name":"Council Fire",
+            "urlMatch":"councilfire.org"
+         },
+         {
+            "name":"Creative Artists Agency",
+            "otherNames":[
+               "CAA"
+            ],
+            "urlMatch":"caa.com"
+         },
+         {
+            "name":"Decisely",
+            "urlMatch":"decisely.com"
+         },
+         {
+            "name":"Discovery Inc",
+            "urlMatch":"corporate.discovery."
+         },
+         {
+            "name":"Dow Inc",
+            "otherNames":[
+               "Dow Corporate"
+            ],
+            "urlMatch":"corporate.dow."
+         },
+         {
+            "name":"Edelman",
+            "urlMatch":"edelman.com"
+         },
+         {
+            "name":"EJP Events",
+            "urlMatch":"ejpevents.com"
+         },
+         {
+            "name":"Embark Veterinary",
+            "urlMatch":"embarkvet.com"
+         },
+         {
+            "name":"Enriched Couples",
+            "urlMatch":"linktr.ee/enrichedcouples"
+         },
+         {
+            "name":"Entegrit",
+            "urlMatch":"entegrit.com"
+         },
+         {
+            "name":"Enutriot",
+            "urlMatch":"enutriot.com"
+         },
+         {
+            "name":"EOS Lip Balm",
+            "otherNames":[
+               "Eos Lip Balm"
+            ],
+            "urlMatch":"evolutionofsmooth.com"
+         },
+         {
+            "name":"Estrella Media",
+            "urlMatch":"estrellamedia.com"
+         },
+         {
+            "name":"Eventbrite",
+            "urlMatch":"eventbrite.com"
+         },
+         {
+            "name":"Fenwick & West",
+            "urlMatch":"fenwick.com"
+         },
+         {
+            "name":"Ferrara Candy",
+            "urlMatch":"ferrarausa.com"
+         },
+         {
+            "name":"Fifth Avenue Brands",
+            "urlMatch":"fifthavenuebrands.com"
+         },
+         {
+            "name":"Film Movement",
+            "urlMatch":"filmmovement.com"
+         },
+         {
+            "name":"SFT Global",
+            "urlMatch":"f6s.com"
+         },
+         {
+            "name":"Folly Ventures",
+            "urlMatch":"follyventures.com"
+         },
+         {
+            "name":"Fors Marsh Group",
+            "urlMatch":"forsmarshgroup.com"
+         },
+         {
+            "name":"Fuller Consulting",
+            "otherNames":[
+               "Fuller Perez"
+            ],
+            "urlMatch":"fullerperez.com"
+         },
+         {
+            "name":"GC Ungo Immigration Law",
+            "otherNames":[
+               "GC UNGO IMMIGRATION LAW"
+            ],
+            "urlMatch":"gcungoimmigration.com"
+         },
+         {
+            "name":"Gelin Benefits Group",
+            "urlMatch":"gelinbenefitsgroup.com"
+         },
+         {
+            "name":"GitHub",
+            "urlMatch":"github.com"
+         },
+         {
+            "name":"Global Gateway Advisors",
+            "urlMatch":"globalgatewayadvisors.com"
+         },
+         {
+            "name":"Global Prairie",
+            "urlMatch":"globalprairie.com"
+         },
+         {
+            "name":"Glow Gather",
+            "otherNames":[
+               "glowandgather"
+            ],
+            "urlMatch":"glowandgather.com"
+         },
+         {
+            "name":"goTenna",
+            "urlMatch":"gotenna.com"
+         },
+         {
+            "name":"Gobee",
+            "urlMatch":"gobeegroup.com"
+         },
+         {
+            "name":"Good Fear Content",
+            "urlMatch":"good-fear.com"
+         },
+         {
+            "name":"goodDog",
+            "urlMatch":"wearegooddog.com"
+         },
+         {
+            "name":"Greeley and Hansen",
+            "urlMatch":"greeleyhansen.com"
+         },
+         {
+            "name":"GuildWorks",
+            "urlMatch":"guildworks.com"
+         },
+         {
+            "name":"HandsOnConnect",
+            "urlMatch":"handsonconnect.org"
+         },
+         {
+            "name":"Harness Cycle",
+            "urlMatch":"harnesscycle.com"
+         },
+         {
+            "name":"Higher Grounds Trading",
+            "otherNames":[
+               "Higher Grounds Coffee"
+            ],
+            "urlMatch":"highergroundstrading.com"
+         },
+         {
+            "name":"HigherRing",
+            "urlMatch":"higherring.com"
+         },
+         {
+            "name":"Hill Holliday",
+            "urlMatch":"hhcc.com"
+         },
+         {
+            "name":"Impactree",
+            "urlMatch":"impactree.com"
+         },
+         {
+            "name":"Impactual",
+            "urlMatch":"impactual.com"
+         },
+         {
+            "name":"Ingenuity Studios",
+            "urlMatch":"ingenuitystudios.com"
+         },
+         {
+            "name":"Instacart",
+            "urlMatch":"instacart.com"
+         },
+         {
+            "name":"Integral Communications Group",
+            "urlMatch":"teamintegral.com"
+         },
+         {
+            "name":"Interpublic Group",
+            "urlMatch":"interpublic.com"
+         },
+         {
+            "name":"IPG DXTRA",
+            "urlMatch":"ipgdxtra.com"
+         },
+         {
+            "name":"IAVA",
+            "urlMatch":"iava.org"
+         },
+         {
+            "name":"IWP Family Office",
+            "urlMatch":"iwpfo.com"
+         },
+         {
+            "name":"JFF",
+            "urlMatch":"jff.org"
+         },
+         {
+            "name":"Juniper Networks",
+            "urlMatch":"juniper.net"
+         },
+         {
+            "name":"Junto Health",
+            "urlMatch":"juntohealth.org"
+         },
+         {
+            "name":"JustLaws",
+            "urlMatch":"justlaws.org"
+         },
+         {
+            "name":"JW Player",
+            "urlMatch":"jwplayer.com"
+         },
+         {
+            "name":"Kargo Global",
+            "urlMatch":"kargo.com"
+         },
+         {
+            "name":"Ketchum Inc",
+            "urlMatch":"ketchum.com"
+         },
+         {
+            "name":"Kids in the Game",
+            "urlMatch":"kidsinthegame.com"
+         },
+         {
+            "name":"Kinesis Business",
+            "urlMatch":"kinesisinc.com"
+         },
+         {
+            "name":"KOACORE",
+            "urlMatch":"koacore.com"
+         },
+         {
+            "name":"KULE",
+            "urlMatch":"kule.com"
+         },
+         {
+            "name":"La Colombe Coffee",
+            "urlMatch":"lacolombe.com"
+         },
+         {
+            "name":"Lake Champlain Chocolates",
+            "urlMatch":"lakechamplainchocolates.com"
+         },
+         {
+            "name":"Laseronics",
+            "urlMatch":"laseronics.com"
+         },
+         {
+            "name":"Lattice",
+            "urlMatch":"lattice.com"
+         },
+         {
+            "name":"Leanpath",
+            "urlMatch":"leanpath.com"
+         },
+         {
+            "name":"Legacy Vacation Resorts",
+            "urlMatch":"legacyvacationresorts.com"
+         },
+         {
+            "name":"LEVICK",
+            "urlMatch":"levick.com"
+         },
+         {
+            "name":"Lime Micromobility",
+            "urlMatch":"li.me"
+         },
+         {
+            "name":"Live in Their World",
+            "urlMatch":"liveintheirworld.com"
+         },
+         {
+            "name":"Longpath",
+            "urlMatch":"longpath.org"
+         },
+         {
+            "name":"MaCher",
+            "urlMatch":"macher.com"
+         },
+         {
+            "name":"MainStreet Design Build",
+            "urlMatch":"mainstreetdesignbuild.com"
+         },
+         {
+            "name":"MediaCombo",
+            "urlMatch":"mediacombo.net"
+         },
+         {
+            "name":"Meliora Cleaning Products",
+            "urlMatch":"meliorameansbetter.com"
+         },
+         {
+            "name":"Mentor Collective",
+            "urlMatch":"mentorcollective.org"
+         },
+         {
+            "name":"MENTOR",
+            "urlMatch":"mentoring.org"
+         },
+         {
+            "name":"MERGE4",
+            "urlMatch":"merge4.com"
+         },
+         {
+            "name":"Meteorite Advisors",
+            "urlMatch":"wearemeteorite.com"
+         },
+         {
+            "name":"Metropolitan Group",
+            "urlMatch":"metgroup.com"
+         },
+         {
+            "name":"mightybytes",
+            "urlMatch":"mightybytes.com"
+         },
+         {
+            "name":"MiMoto",
+            "urlMatch":"mimoto.it"
+         },
+         {
+            "name":"Mischief Management",
+            "urlMatch":"mischiefmanagement.com"
+         },
+         {
+            "name":"Mister Car Wash",
+            "urlMatch":"mistercarwash.com"
+         },
+         {
+            "name":"Morningstar, Inc",
+            "urlMatch":"morningstar."
+         },
+         {
+            "name":"MyZolve",
+            "urlMatch":"employeeofchoice.org"
+         },
+         {
+            "name":"Namasté Solar",
+            "urlMatch":"namastesolar.com"
+         },
+         {
+            "name":"NationSwell",
+            "urlMatch":"nationswell.com"
+         },
+         {
+            "name":"New Belgium Brewing",
+            "urlMatch":"newbelgium.com"
+         },
+         {
+            "name":"Neil Kelly",
+            "urlMatch":"neilkelly.com"
+         },
+         {
+            "name":"No Evil Foods",
+            "urlMatch":"noevilfoods.com"
+         },
+         {
+            "name":"Nucleus Group",
+            "urlMatch":"thenucleusgroup.com"
+         },
+         {
+            "name":"OfferUp",
+            "urlMatch":"offerup.com"
+         },
+         {
+            "name":"Okta",
+            "urlMatch":"okta.com"
+         },
+         {
+            "name":"Omaze",
+            "urlMatch":"omaze.com"
+         },
+         {
+            "name":"Omnicom Group",
+            "urlMatch":"omnicomgroup.com"
+         },
+         {
+            "name":"One More Thing LLC",
+            "urlMatch":"onemorethingllc.com"
+         },
+         {
+            "name":"OrgVitality",
+            "urlMatch":"orgvitality.com"
+         },
+         {
+            "name":"Owler",
+            "urlMatch":"owler.com"
+         },
+         {
+            "name":"PagerDuty",
+            "urlMatch":"pagerduty.com"
+         },
+         {
+            "name":"Participant Inc",
+            "otherNames":[
+               "PARTICIPANT INC"
+            ],
+            "urlMatch":"participant.com"
+         },
+         {
+            "name":"Paths To Peace",
+            "urlMatch":"pathspeace.com"
+         },
+         {
+            "name":"Payability",
+            "urlMatch":"payability.com"
+         },
+         {
+            "name":"Petco",
+            "urlMatch":"petco.com"
+         },
+         {
+            "name":"Pharmavite",
+            "urlMatch":"pharmavite.com"
+         },
+         {
+            "name":"Phil Simon",
+            "urlMatch":"philsimon.com"
+         },
+         {
+            "name":"Pinterest",
+            "urlMatch":"pintrest."
+         },
+         {
+            "name":"Pivt",
+            "urlMatch":"pivtapp.com"
+         },
+         {
+            "name":"Pixel Forge Studios",
+            "urlMatch":"pixelforgestudios.com"
+         },
+         {
+            "name":"Plaine Products",
+            "urlMatch":"plaineproducts.com"
+         },
+         {
+            "name":"Porchlight Book Company",
+            "urlMatch":"porchlightbooks.com"
+         },
+         {
+            "name":"PRA – Experience Anywhere",
+            "urlMatch":"pra.com"
+         },
+         {
+            "name":"Posy Amenities",
+            "urlMatch":"posyamenities.com"
+         },
+         {
+            "name":"Presence II Productions",
+            "urlMatch":"presenceiiproductions.com"
+         },
+         {
+            "name":"Prialto",
+            "urlMatch":"prialto.com"
+         },
+         {
+            "name":"Primal Screen",
+            "urlMatch":"primalscreen.com"
+         },
+         {
+            "name":"Productboard",
+            "urlMatch":"productboard.com"
+         },
+         {
+            "name":"QFlow.ai",
+            "urlMatch":"qflow.ai"
+         },
+         {
+            "name":"Qnary",
+            "urlMatch":"qnary.com"
+         },
+         {
+            "name":"R/GA",
+            "urlMatch":"rga.com"
+         },
+         {
+            "name":"La-X",
+            "urlMatch":"lax.fm"
+         },
+         {
+            "name":"Ranker LLC",
+            "urlMatch":"ranker.com"
+         },
+         {
+            "name":"Ready Set Rocket",
+            "urlMatch":"readysetrocket.com"
+         },
+         {
+            "name":"REI Co-op",
+            "urlMatch":"rei.com"
+         },
+         {
+            "name":"Riffyn",
+            "urlMatch":"riffyn.com"
+         },
+         {
+            "name":"Rinse, Inc",
+            "urlMatch":"rinse.com"
+         },
+         {
+            "name":"Rivanna Natural Designs",
+            "urlMatch":"rivannadesigns.com"
+         },
+         {
+            "name":"Roger That Agency",
+            "urlMatch":"rogerthat.agency"
+         },
+         {
+            "name":"SAGE",
+            "urlMatch":"sagepub."
+         },
+         {
+            "name":"Salt Palm Development",
+            "urlMatch":"saltpalm.com"
+         },
+         {
+            "name":"Sanspeur",
+            "urlMatch":"megmassey.co"
+         },
+         {
+            "name":"SAP",
+            "urlMatch":"sap.com"
+         },
+         {
+            "name":"Scribe Media",
+            "urlMatch":"scribemedia.com"
+         },
+         {
+            "name":"Selflessly Inc",
+            "urlMatch":"selflessly.io"
+         },
+         {
+            "name":"Sharebite",
+            "urlMatch":"sharebite.com"
+         },
+         {
+            "name":"Shipt",
+            "urlMatch":"shipt.com"
+         },
+         {
+            "name":"Shorelight",
+            "urlMatch":"shorelight.com"
+         },
+         {
+            "name":"Silicon Valley Bank",
+            "urlMatch":"svb.com"
+         },
+         {
+            "name":"SoFi Financing",
+            "urlMatch":"sofi.com"
+         },
+         {
+            "name":"SRS Acquiom",
+            "urlMatch":"srsacquiom.com"
+         },
+         {
+            "name":"Startgrid",
+            "urlMatch":"startgrid.com"
+         },
+         {
+            "name":"STRATA9",
+            "urlMatch":"strata9.com"
+         },
+         {
+            "name":"SurveyMonkey",
+            "urlMatch":"surveymonkey.com"
+         },
+         {
+            "name":"Sweetgreen",
+            "otherNames":[
+               "sweetgreen"
+            ],
+            "urlMatch":"sweetgreen.com"
+         },
+         {
+            "name":"Sydney Hale Company",
+            "urlMatch":"sydneyhaleco.com"
+         },
+         {
+            "name":"Symbio Strategies",
+            "urlMatch":"symbiostrategies.com"
+         },
+         {
+            "name":"Take The Lead",
+            "urlMatch":"taketheleadwomen.com"
+         },
+         {
+            "name":"Teamble",
+            "urlMatch":"teamble.com"
+         },
+         {
+            "name":"The Goodness Collaborative",
+            "urlMatch":"thegoodnesscollaborative.com"
+         },
+         {
+            "name":"The One Nine Three Group",
+            "urlMatch":"the193.com"
+         },
+         {
+            "name":"Tofurky",
+            "urlMatch":"tofurky.com"
+         },
+         {
+            "name":"Think Shift",
+            "urlMatch":"thinkshiftinc.com"
+         },
+         {
+            "name":"Third Plateau",
+            "urlMatch":"thirdplateau.com"
+         },
+         {
+            "name":"Thirty Madison",
+            "urlMatch":"thirtymadison.com"
+         },
+         {
+            "name":"Thumbtack",
+            "urlMatch":"thumbtack.com"
+         },
+         {
+            "name":"Trail of Bits",
+            "urlMatch":"trailofbits.com"
+         },
+         {
+            "name":"Tripadvisor",
+            "urlMatch":"tripadvisor.com"
+         },
+         {
+            "name":"TripZero",
+            "urlMatch":"tripzero.com"
+         },
+         {
+            "name":"True Platform",
+            "urlMatch":"trueplatform.com"
+         },
+         {
+            "name":"Twilio",
+            "urlMatch":"twilio.com"
+         },
+         {
+            "name":"United Therapeutics",
+            "urlMatch":"unither.com"
+         },
+         {
+            "name":"Univision Communications",
+            "urlMatch":"univision.com"
+         },
+         {
+            "name":"VeraWorks, Inc",
+            "urlMatch":"beaboccalandro.com"
+         },
+         {
+            "name":"Verdical Group",
+            "urlMatch":"verdicalgroup.com"
+         },
+         {
+            "name":"Veritable Vegetable",
+            "urlMatch":"veritablevegetable.com"
+         },
+         {
+            "name":"Verrah",
+            "urlMatch":"verrah.com"
+         },
+         {
+            "name":"Vestwell",
+            "urlMatch":"vestwell.com"
+         },
+         {
+            "name":"VIANOVA",
+            "urlMatch":"thevianovagroup.com"
+         },
+         {
+            "name":"Visceral: Brand & Digital Design Agency",
+            "urlMatch":"thisisvisceral.com"
+         },
+         {
+            "name":"The Vivid Leader, LLC",
+            "urlMatch":"thevividleaderllc.com"
+         },
+         {
+            "name":"Warby Parker",
+            "urlMatch":"warbyparker.com"
+         },
+         {
+            "name":"Weber Shandwick",
+            "urlMatch":"webershandwick.com"
+         },
+         {
+            "name":"Wilks Communications Group",
+            "urlMatch":"wilksgrp.com"
+         },
+         {
+            "name":"Wordbank LLC",
+            "urlMatch":"wordbank.com"
+         },
+         {
+            "name":"Yetter Tax Consulting",
+            "otherNames":[
+               "Yetter Consulting Services"
+            ],
+            "urlMatch":"yettertax.com"
+         },
+         {
+            "name":"YIKES, Inc",
+            "otherNames":[
+               "YIKES Inc"
+            ],
+            "urlMatch":"yikesinc.com"
+         }
+      ]
+   },
+   {
+      "name":"Southern New Hampshire University",
+      "urlMatch":"snhu.edu",
+      "text":"Southern New Hampshire University push political wokeness.",
+      "sources":"https://archive.is/wip/tl6Pu,https://archive.is/wip/H2jQD",
+      "childText":"{1} push political wokeness.",
+      "children":[
+         {
+            "name":"University of New Hampshire",
+            "urlMatch":"unh.edu"
+         },
+         {
+            "name":"New Hampshire Charitable Foundation"
+         },
+         {
+            "name":"ReVision Energy",
+            "urlMatch":"revisionenergy."
+         },
+         {
+            "name":"W.S. Badger Company",
+            "otherNames":[
+               "Badger Balm"
+            ],
+            "urlMatch":"badgerbalm."
+         },
+         {
+            "name":"Mascoma Bank",
+            "urlMatch":"mascomabank."
+         },
+         {
+            "name":"NeighborWorks Southern New Hampshire",
+            "urlMatch":"nwsnh.org."
+         },
+         {
+            "name":"Center for Women & Enterprise",
+            "urlMatch":"cweonline.org"
+         },
+         {
+            "name":"Hypertherm",
+            "urlMatch":"hypertherm."
+         },
+         {
+            "name":"Northeast Delta Dental",
+            "urlMatch":"nedelta.com"
+         },
+         {
+            "name":"Dartmouth-Hitchcock",
+            "urlMatch":"dartmouth-hitchcock.org"
+         }
+      ]
+   },
+   {
+      "name":"Procter & Gamble",
+      "urlMatch":"pgcareers.",
+      "text":"Procter & Gamble push wokeness for social justice.",
+      "sources":"https://archive.is/JSMO4",
+      "childText":"{1}'s owner {2}",
+      "children":[
+         {
+            "name":"Procter & Gamble",
+            "urlMatch":"us.pg."
+         },
+         {
+            "name":"Bounty Paper Towels",
+            "urlMatch":"bountytowels."
+         },
+         {
+            "name":"Charmin",
+            "urlMatch":"charmin."
+         },
+         {
+            "name":"Puffs Facial Tissues",
+            "urlMatch":"puffs."
+         },
+         {
+            "name":"Just Periods",
+            "urlMatch":"justperiods."
+         },
+         {
+            "name":"ALWAYS DISCREET",
+            "urlMatch":"alwaysdiscreet."
+         },
+         {
+            "name":"Always (Brand)",
+            "urlMatch":"always."
+         },
+         {
+            "name":"Tampax Tampons",
+            "urlMatch":"tampax."
+         },
+         {
+            "name":"ThisIsL",
+            "urlMatch":"thisisl."
+         },
+         {
+            "name":"Braun",
+            "urlMatch":"braun."
+         },
+         {
+            "name":"joy+glee",
+            "urlMatch":"joyandglee."
+         },
+         {
+            "name":"The Art of Shaving",
+            "urlMatch":"theartofshaving."
+         },
+         {
+            "name":"Aussie: Hair & Styling",
+            "urlMatch":"aussie."
+         },
+         {
+            "name":"Head & Shoulders",
+            "urlMatch":"headandshoulders."
+         },
+         {
+            "name":"Herbal Essences",
+            "urlMatch":"herbalessences."
+         },
+         {
+            "name":"Pantene",
+            "urlMatch":"pantene."
+         },
+         {
+            "name":"Old Spice",
+            "urlMatch":"oldspice.",
+            "text":"Old Spice push wokeness.",
+            "sources":"https://archive.is/1UK5d"
+         },
+         {
+            "name":"My Black is Beautiful",
+            "urlMatch":"mbib."
+         },
+         {
+            "name":"P&G Professional",
+            "urlMatch":"pgpro."
+         },
+         {
+            "name":"Cascade Detergent",
+            "urlMatch":"cascadeclean."
+         },
+         {
+            "name":"Dawn Dish Soap",
+            "urlMatch":"dawn-dish."
+         },
+         {
+            "name":"Microban24",
+            "urlMatch":"microban24."
+         },
+         {
+            "name":"Gain Laundry",
+            "urlMatch":"ilovegain."
+         },
+         {
+            "name":"Febreze",
+            "urlMatch":"febreze."
+         },
+         {
+            "name":"Mr.Clean",
+            "otherNames":[
+               "mr.Clean"
+            ],
+            "urlMatch":"mrclean."
+         },
+         {
+            "name":"Salvo Mexico",
+            "urlMatch":"salvomexico."
+         },
+         {
+            "name":"Swiffer",
+            "urlMatch":"swiffer."
+         },
+         {
+            "name":"Zevo",
+            "urlMatch":"zevoinsect."
+         },
+         {
+            "name":"Oral-B",
+            "urlMatch":"oralb."
+         },
+         {
+            "name":"DentureLiving",
+            "urlMatch":"dentureliving."
+         },
+         {
+            "name":"Crest Toothpaste",
+            "urlMatch":"crest."
+         },
+         {
+            "name":"Align Probiotics",
+            "urlMatch":"alignprobiotics."
+         },
+         {
+            "name":"Clearblue",
+            "urlMatch":"clearblue."
+         },
+         {
+            "name":"Metamucil",
+            "urlMatch":"metamucil."
+         },
+         {
+            "name":"Vicks",
+            "urlMatch":"vicks."
+         },
+         {
+            "name":"Prilosec OTC",
+            "urlMatch":"prilosecotc."
+         },
+         {
+            "name":"Pepto-Bismol",
+            "urlMatch":"pepto-bismol."
+         },
+         {
+            "name":"ZzzQuil",
+            "urlMatch":"zzzquil."
+         },
+         {
+            "name":"Native Deodorant",
+            "urlMatch":"nativecos."
+         },
+         {
+            "name":"Olay",
+            "urlMatch":"olay."
+         },
+         {
+            "name":"SK-II",
+            "urlMatch":"sk-ii."
+         },
+         {
+            "name":"All Good Diapers",
+            "urlMatch":"allgooddiapers."
+         },
+         {
+            "name":"Luvs Diapers",
+            "urlMatch":"luvsdiapers."
+         },
+         {
+            "name":"Pampers",
+            "urlMatch":"pampers."
+         },
+         {
+            "name":"P&G Good Everyday",
+            "urlMatch":"pggoodeveryday."
+         },
+         {
+            "name":"Bounce Fresh",
+            "urlMatch":"bouncefresh."
+         },
+         {
+            "name":"Downy",
+            "urlMatch":"downy."
+         },
+         {
+            "name":"Lenor",
+            "urlMatch":"lenor."
+         },
+         {
+            "name":"Dreft",
+            "urlMatch":"dreft."
+         },
+         {
+            "name":"Gillette",
+            "urlMatch":"gillette.",
+            "text":"Gillette push wokeness  for social justice and accuse men of \"toxic masculinity\".",
+            "sources":"https://archive.is/JSMO4,https://archive.is/VxAyc"
+         }
+      ]
+   },
+   {
+      "name":"Unilever",
+      "urlMatch":"unilever.",
+      "text":"Unilever push wokeness for social justice.",
+      "sources":"https://archive.is/Ve2ZC",
+      "childText":"{1}'s owner {2}",
+      "children":[
+         {
+            "name":"Vaseline",
+            "urlMatch":"vaseline."
+         },
+         {
+            "name":"TRESemm",
+            "urlMatch":"tresemme."
+         },
+         {
+            "name":"Magnum Ice Cream",
+            "urlMatch":"magnumicecream."
+         },
+         {
+            "name":"Love Beauty and Planet",
+            "urlMatch":"lovebeautyandplanet."
+         },
+         {
+            "name":"AHC",
+            "urlMatch":"ahcbeauty."
+         },
+         {
+            "name":"Rexona",
+            "urlMatch":"Rexona."
+         },
+         {
+            "name":"Degree Men",
+            "urlMatch":"degreedeodorant."
+         },
+         {
+            "name":"Degree Women",
+            "urlMatch":"degreedeodorant."
+         },
+         {
+            "name":"Dove",
+            "urlMatch":"dove."
+         },
+         {
+            "name":"St. Ives body wash",
+            "urlMatch":"stives."
+         },
+         {
+            "name":"Noxzema",
+            "urlMatch":"noxzema."
+         },
+         {
+            "name":"PONDS",
+            "otherNames":[
+               "Pond's",
+               "Ponds"
+            ],
+            "urlMatch":"ponds."
+         },
+         {
+            "name":"Seventh Generation",
+            "urlMatch":"seventhgeneration."
+         },
+         {
+            "name":"TAZO",
+            "urlMatch":"tazo."
+         },
+         {
+            "name":"Shea Moisture",
+            "otherNames":[
+               "SheaMoisture"
+            ],
+            "urlMatch":"sheamoisture."
+         },
+         {
+            "name":"OMO",
+            "urlMatch":"omo."
+         },
+         {
+            "name":"Radiant Laundry Detergent"
+         },
+         {
+            "name":"Sunlight Powder"
+         },
+         {
+            "name":"Surf laundry detergent",
+            "urlMatch":"surf.co.uk"
+         },
+         {
+            "name":"The Laundress",
+            "urlMatch":"thelaundress."
+         },
+         {
+            "name":"Ala Bleach",
+            "urlMatch":"ala."
+         },
+         {
+            "name":"Bio-Tex",
+            "otherNames":[
+               "Bio Tex",
+               "Biotex"
+            ],
+            "urlMatch":"biotex."
+         },
+         {
+            "name":"Blueair",
+            "urlMatch":"blueair."
+         },
+         {
+            "name":"Drive laundry detergents"
+         },
+         {
+            "name":"Jif",
+            "urlMatch":"jifrent."
+         },
+         {
+            "name":"Cif",
+            "urlMatch":"cifclean."
+         },
+         {
+            "name":"Persil",
+            "urlMatch":"persil.com"
+         },
+         {
+            "name":"Rin detergent"
+         },
+         {
+            "name":"Breyers"
+         },
+         {
+            "name":"Heartbrand"
+         },
+         {
+            "name":"Cornetto"
+         },
+         {
+            "name":"Hellmann's"
+         },
+         {
+            "name":"Knorr"
+         },
+         {
+            "name":"Lipton"
+         },
+         {
+            "name":"Pure Leaf",
+            "urlMatch":"pureleaf.com"
+         },
+         {
+            "name":"Arisco"
+         },
+         {
+            "name":"Bru Instant",
+            "urlMatch":"hul.co.in"
+         },
+         {
+            "name":"Carte D'Or"
+         },
+         {
+            "name":"Cremissimo",
+            "urlMatch":"cremissimo."
+         },
+         {
+            "name":"Cup-a-Soup",
+            "urlMatch":"unileverfoodsolutions."
+         },
+         {
+            "name":"Maille"
+         },
+         {
+            "name":"CLEAR HAIR CARE",
+            "urlMatch":"clearhaircare."
+         },
+         {
+            "name":"Fair & Lovely"
+         },
+         {
+            "name":"Glow & Lovely"
+         },
+         {
+            "name":"Lifebuoy",
+            "urlMatch":"lifebuoy."
+         },
+         {
+            "name":"Sunsilk"
+         },
+         {
+            "name":"Alberto Balsam",
+            "urlMatch":"albertobalsam."
+         },
+         {
+            "name":"Aviance"
+         },
+         {
+            "name":"BRUT DE PARIS",
+            "urlMatch":"brut-for-men."
+         },
+         {
+            "name":"Close-up",
+            "urlMatch":"close-up."
+         },
+         {
+            "name":"duschdas",
+            "urlMatch":"duschdas."
+         },
+         {
+            "name":"Eskinol"
+         }
+      ]
+   },
+   {
+      "name":"72andSunny",
+      "urlMatch":"72andsunny.",
+      "text":"72andSunny push wokeness for social justice.",
+      "sources":"https://archive.is/B1x7Y",
+      "childText":"{1} push wokeness for social justice",
+      "children":[
+         {
+            "name":"Human Rights Campaign",
+            "urlMatch":"hrc.org",
+            "sources":"https://archive.is/WvPIe"
+         },
+         {
+            "name":"Nestlé",
+            "otherNames":[
+               "Nestle"
+            ],
+            "urlMatch":"nestle.",
+            "sources":"https://archive.is/wip/nC10g"
+         },
+         {
+            "name":"Marks & Spencer",
+            "urlMatch":"marksandspencer.",
+            "sources":"https://archive.md/wip/WvpAZ"
+         },
+         {
+            "name":"The Phillips Collection",
+            "urlMatch":"phillipscollection.org",
+            "sources":"https://archive.is/wip/C6xfE"
+         },
+         {
+            "name":"Make-A-Wish",
+            "urlMatch":"wishes.ph",
+            "sources":"https://archive.md/wip/wzCrF"
+         },
+         {
+            "name":"Blue Cross Blue Shield",
+            "urlMatch":"bcbs.com",
+            "sources":"https://archive.is/wip/Gm99o"
+         },
+         {
+            "name":"Western Digital",
+            "urlMatch":"westerndigital.com",
+            "sources":"https://archive.is/wip/0CzIA"
+         },
+         {
+            "name":"Best Buy",
+            "urlMatch":"bestbuy.com",
+            "sources":"https://archive.is/wip/JDCY6"
+         },
+         {
+            "name":"Stellantis",
+            "urlMatch":"stellantis.com",
+            "sources":"https://archive.is/wip/JDCY6"
+         },
+         {
+            "name":"Fiat Chrysler",
+            "sources":"https://archive.is/wip/JDCY6"
+         },
+         {
+            "name":"Ford",
+            "urlMatch":"ford.",
+            "sources":"https://archive.is/mhQMT"
+         },
+         {
+            "name":"MSI",
+            "urlMatch":"msi.com",
+            "sources":"https://archive.is/wip/JL6MJ"
+         },
+         {
+            "name":"PC Gamer",
+            "urlMatch":"pcgamer.com",
+            "sources":"https://archive.is/l6IPX"
+         },
+         {
+            "name":"Samsung",
+            "urlMatch":"samsung.",
+            "sources":"https://archive.is/wip/rbjFK"
+         },
+         {
+            "name":"National Basketball Association",
+            "otherNames":[
+               "NBA"
+            ],
+            "urlMatch":"nba.com",
+            "sources":"https://archive.is/UBzdV"
+         },
+         {
+            "name":"British Broadcasting Corporation",
+            "otherNames":[
+               "BBC"
+            ],
+            "urlMatch":"bbc.",
+            "text":"BBC push racism and wokeness for social justice.",
+            "sources":"https://archive.today/IWQtV,https://archive.is/wip/iRAcy"
+         },
+         {
+            "name":"Scottish National Party",
+            "otherNames":[
+               "SNP"
+            ],
+            "urlMatch":"snp.org",
+            "sources":"https://archive.is/UdgUp"
+         },
+         {
+            "name":"The Lancet",
+            "urlMatch":"thelancet.com",
+            "sources":"https://archive.is/wip/BHBLM,https://archive.is/O7nxo"
+         },
+         {
+            "name":"Zappos",
+            "urlMatch":"zappos.",
+            "sources":"https://archive.is/wip/TeQTJ"
+         },
+         {
+            "name":"John Deere",
+            "urlMatch":"deere.",
+            "sources":"https://archive.is/wip/ms8Gf"
+         },
+         {
+            "name":"AbbVie",
+            "urlMatch":"abbvie.",
+            "sources":"https://archive.is/Q2Vqj"
+         },
+         {
+            "name":"Abbey Road Studios",
+            "urlMatch":"abbeyroad.",
+            "sources":"https://archive.is/AJlrg"
+         },
+         {
+            "name":"Activision Blizzard",
+            "urlMatch":"activisionblizzard.",
+            "sources":"https://archive.is/qfRJ1"
+         },
+         {
+            "name":"Blizzard",
+            "urlMatch":"blizzard.",
+            "sources":"https://archive.is/qfRJ1"
+         },
+         {
+            "name":"World of Warcraft",
+            "urlMatch":"worldofwarcraft.com",
+            "text":"World of Warcraft encourage wokeness and racism. \"[...] we may just get a couple dozen white male resumes.\"",
+            "sources":"https://archive.md/FlEso"
+         },
+         {
+            "name":"Activision",
+            "urlMatch":"activision.",
+            "sources":"https://archive.is/wip/v6t4s"
+         },
+         {
+            "name":"Infinity Ward",
+            "urlMatch":"infinityward.",
+            "sources":"https://archive.is/wip/v6t4s"
+         },
+         {
+            "name":"Hennessy",
+            "urlMatch":"hennessy.com",
+            "sources":"https://archive.is/wip/3sznh"
+         },
+         {
+            "name":"Crown Royal",
+            "urlMatch":"crownroyal.com",
+            "sources":"https://archive.is/wip/3sznh"
+         },
+         {
+            "name":"Alaska Airlines",
+            "urlMatch":"alaskaair.",
+            "sources":"https://archive.is/wnICf"
+         },
+         {
+            "name":"AMD",
+            "urlMatch":"amd.",
+            "sources":"https://archive.is/i3krt"
+         },
+         {
+            "name":"American Airlines",
+            "urlMatch":"aa.",
+            "sources":"https://archive.is/XBwhw"
+         },
+         {
+            "name":"American Express",
+            "otherNames":[
+               "AmEx"
+            ],
+            "urlMatch":"americanexpress.",
+            "sources":"https://archive.is/kzWXa"
+         },
+         {
+            "name":"American Apparel",
+            "urlMatch":"americanapparel.",
+            "sources":"https://archive.is/ETfYw"
+         },
+         {
+            "name":"AT&T",
+            "urlMatch":"att.",
+            "sources":"https://archive.is/OzC04"
+         },
+         {
+            "name":"Armani",
+            "urlMatch":"armani.",
+            "sources":"https://archive.is/hX6Yw"
+         },
+         {
+            "name":"Astro Gaming",
+            "urlMatch":"astrogaming.",
+            "sources":"https://archive.is/9aWhf"
+         },
+         {
+            "name":"Adidas",
+            "urlMatch":"adidas.",
+            "sources":"https://archive.is/ezQ22"
+         },
+         {
+            "name":"Barclays Bank",
+            "urlMatch":"barclays.",
+            "sources":"https://archive.is/9EAl4"
+         },
+         {
+            "name":"Barclays Bank US",
+            "urlMatch":"barclaysus.",
+            "sources":"https://archive.is/9EAl4"
+         },
+         {
+            "name":"Barclays Corporate",
+            "urlMatch":"barclayscorporate.",
+            "sources":"https://archive.is/9EAl4"
+         },
+         {
+            "name":"Barclays Card",
+            "urlMatch":"barclaycardus.",
+            "sources":"https://archive.is/9EAl4"
+         },
+         {
+            "name":"Barclays",
+            "urlMatch":".barclays",
+            "sources":"https://archive.is/9EAl4"
+         },
+         {
+            "name":"Barnes & Noble",
+            "urlMatch":"barnesandnoble.",
+            "sources":"https://archive.is/PCPKn"
+         },
+         {
+            "name":"Bandcamp",
+            "urlMatch":"bandcamp.",
+            "sources":"https://archive.is/5QQBT"
+         },
+         {
+            "name":"Bayer",
+            "urlMatch":"bayer.",
+            "sources":"https://archive.is/iT3EG"
+         },
+         {
+            "name":"Bergdorf Goodman",
+            "urlMatch":"bergdorfgoodman.",
+            "sources":"https://archive.is/nQiPA"
+         },
+         {
+            "name":"Bethesda",
+            "urlMatch":"bethesda.",
+            "sources":"https://archive.is/2xeNE"
+         },
+         {
+            "name":"Ben & Jerry",
+            "urlMatch":"benjerry.",
+            "sources":"https://archive.is/clSt1"
+         },
+         {
+            "name":"Billboard",
+            "urlMatch":"billboard.",
+            "sources":"https://archive.is/Ruuv8"
+         },
+         {
+            "name":"BMW",
+            "urlMatch":"bmw.",
+            "sources":"https://archive.is/lRN51"
+         },
+         {
+            "name":"BP",
+            "otherNames":[
+               "British Petroleum"
+            ],
+            "urlMatch":"bp.",
+            "sources":"https://archive.is/0qSwy"
+         },
+         {
+            "name":"Booking.com",
+            "urlMatch":"booking.com",
+            "sources":"https://archive.is/CZAs7"
+         },
+         {
+            "name":"Boost Mobile",
+            "urlMatch":"boostmobile.",
+            "sources":"https://archive.is/pLnAf"
+         },
+         {
+            "name":"Bratz",
+            "urlMatch":"bratz.",
+            "sources":"https://archive.is/vOA1d"
+         },
+         {
+            "name":"Burger King",
+            "urlMatch":"bk.com",
+            "sources":"https://archive.is/U9VzB"
+         },
+         {
+            "name":"Burberry",
+            "urlMatch":"burberry.",
+            "sources":"https://archive.is/ha0jP"
+         },
+         {
+            "name":"Burt’s Bees",
+            "otherNames":[
+               "Burt's Bees"
+            ],
+            "urlMatch":"burts.",
+            "sources":"https://archive.is/4NbLi"
+         },
+         {
+            "name":"Cadillac",
+            "urlMatch":"cadillac.",
+            "sources":"https://archive.is/bS60C"
+         },
+         {
+            "name":"Call of Duty",
+            "urlMatch":"callofduty.",
+            "sources":"https://archive.is/DEJA6"
+         },
+         {
+            "name":"Capcom",
+            "urlMatch":"capcom.",
+            "sources":"https://archive.is/S1BgN"
+         },
+         {
+            "name":"Capitol Records",
+            "urlMatch":"capitolrecords",
+            "sources":"https://archive.is/jeUpY"
+         },
+         {
+            "name":"Chick-fil-A",
+            "urlMatch":"chick-fil-a.",
+            "sources":"https://archive.is/yiviH"
+         },
+         {
+            "name":"Canada Goose",
+            "urlMatch":"canadagoose.",
+            "sources":"https://archive.is/y2nLo"
+         },
+         {
+            "name":"Chipotle",
+            "urlMatch":"chipotle.",
+            "sources":"https://archive.is/Rk9zI"
+         },
+         {
+            "name":"Citigroup",
+            "urlMatch":"citigroup.",
+            "sources":"https://archive.is/36fkF"
+         },
+         {
+            "name":"Colourpop Cosmetics",
+            "urlMatch":"colourpop.",
+            "sources":"https://archive.is/AapIR"
+         },
+         {
+            "name":"Converse",
+            "urlMatch":"converse.",
+            "sources":"https://archive.is/sKjmg"
+         },
+         {
+            "name":"CORSAIR",
+            "otherNames":[
+               "Corsair"
+            ],
+            "urlMatch":"corsair.",
+            "sources":"https://archive.is/5S5DY"
+         },
+         {
+            "name":"Creative Commons",
+            "urlMatch":"creativecommons.",
+            "sources":"https://archive.is/kPdCO"
+         },
+         {
+            "name":"Crunchyroll",
+            "urlMatch":"crunchyroll.",
+            "sources":"https://archive.is/q7Ucj"
+         },
+         {
+            "name":"The CW",
+            "urlMatch":"cwtv.",
+            "sources":"https://archive.is/JumZU"
+         },
+         {
+            "name":"CVS",
+            "urlMatch":"cvs.",
+            "sources":"https://archive.is/DbBSV"
+         },
+         {
+            "name":"DHL Express",
+            "urlMatch":"express.dhl",
+            "sources":"https://archive.is/r4Pmp"
+         },
+         {
+            "name":"Dell",
+            "urlMatch":"dell.",
+            "sources":"https://archive.is/IeI9j"
+         },
+         {
+            "name":"DIRECTV",
+			"otherNames":[
+				"DirecTV "
+			],
+            "urlMatch":"directv.",
+            "sources":"https://archive.is/hhBG4,https://archive.is/wip/y5pge"
+         },
+         {
+            "name":"Maybelline",
+            "urlMatch":"maybelline.",
+            "sources":"https://archive.is/wip/YBjSq"
+         },
+         {
+            "name":"Doritos",
+            "urlMatch":"doritos.",
+            "sources":"https://archive.is/nLHv0"
+         },
+         {
+            "name":"Doulingo",
+            "urlMatch":"duolingo.",
+            "sources":"https://archive.is/v9Wpk"
+         },
+         {
+            "name":"Dribbble",
+            "urlMatch":"dribbble.",
+            "sources":"https://archive.is/TDWFY"
+         },
+         {
+            "name":"E! News",
+            "urlMatch":"eonline.",
+            "sources":"https://archive.is/3PJyz"
+         },
+         {
+            "name":"E! Online",
+            "urlMatch":"eonline.",
+            "sources":"https://archive.is/3PJyz"
+         },
+         {
+            "name":"Electronic Arts",
+            "otherNames":[
+               "EA"
+            ],
+            "urlMatch":"ea.",
+            "sources":"https://archive.is/92ALS"
+         },
+         {
+            "name":"Eaton",
+            "urlMatch":"eaton.",
+            "sources":"https://archive.is/ezfyE"
+         },
+         {
+            "name":"Eight Sleep",
+            "urlMatch":"eightsleep.",
+            "sources":"https://archive.is/IiV7n"
+         },
+         {
+            "name":"Entertainment Sports Programming Network",
+            "otherNames":[
+               "ESPN"
+            ],
+            "urlMatch":"espn.",
+            "sources":"https://archive.is/1I5Tf"
+         },
+         {
+            "name":"Etsy",
+            "urlMatch":"etsy.",
+            "sources":"https://archive.is/wip/NqclL,https://archive.is/FtTof"
+         },
+         {
+            "name":"Figma",
+            "urlMatch":"figma.",
+            "sources":"https://archive.is/hNpcE"
+         },
+         {
+            "name":"FILA",
+            "urlMatch":"fila.",
+            "sources":"https://archive.is/d6bZ6"
+         },
+         {
+            "name":"Fox Broadcasting Company",
+            "urlMatch":"fox.",
+            "sources":"https://archive.is/p2BvT"
+         },
+         {
+            "name":"FOX",
+            "urlMatch":"fox.",
+            "sources":"https://archive.is/p2BvT"
+         },
+         {
+            "name":"Frosted Mini Wheats",
+            "urlMatch":"frostedminiwheats.",
+            "sources":"https://archive.is/vrEYN"
+         },
+         {
+            "name":"Foot Locker",
+            "urlMatch":"footlocker.",
+            "sources":"https://archive.is/XRL65"
+         },
+         {
+            "name":"Funimation",
+            "urlMatch":"Funimation.",
+            "sources":"https://archive.is/sfN8E"
+         },
+         {
+            "name":"GameSpot",
+            "urlMatch":"gamespot.",
+            "sources":"https://archive.is/zEkO3"
+         },
+         {
+            "name":"Genentech",
+            "urlMatch":"gene.com",
+            "sources":"https://archive.is/phHtt"
+         },
+         {
+            "name":"General Motors",
+            "urlMatch":"gm.",
+            "sources":"https://archive.is/IP0a6"
+         },
+         {
+            "name":"Goldman Sachs",
+            "urlMatch":"goldmansachs.",
+            "sources":"https://archive.is/TA2h0"
+         },
+         {
+            "name":"Gibson",
+            "urlMatch":"gibson.",
+            "sources":"https://archive.is/qJYZY"
+         },
+         {
+            "name":"GoPro",
+            "urlMatch":"gopro.",
+            "sources":"https://archive.is/Aakvo"
+         },
+         {
+            "name":"Gorilla Glue",
+            "urlMatch":"gorillaglue.",
+            "sources":"https://archive.is/0R9ya"
+         },
+         {
+            "name":"Grammarly",
+            "urlMatch":"grammarly.",
+            "sources":"https://archive.is/Su1PT"
+         },
+         {
+            "name":"Grindr",
+            "urlMatch":"grindr.",
+            "sources":"https://archive.is/Z6KcW"
+         },
+         {
+            "name":"Guerrilla Collective",
+            "urlMatch":"guerrillacollective.",
+            "sources":"https://archive.is/TTchM"
+         },
+         {
+            "name":"Habitat for Humanity",
+            "urlMatch":"habitat.",
+            "sources":"https://archive.is/B81pI"
+         },
+         {
+            "name":"Harry’s",
+            "otherNames":[
+               "Harry's"
+            ],
+            "urlMatch":"harrys.",
+            "sources":"https://archive.is/mE4NN"
+         },
+         {
+            "name":"HBO Nordic",
+            "urlMatch":"hbonordic.",
+            "sources":"https://archive.is/oiUyY"
+         },
+         {
+            "name":"HBO Max",
+            "urlMatch":"hbomax.",
+            "sources":"https://archive.is/oiUyY"
+         },
+         {
+            "name":"HBO",
+            "urlMatch":"hbo.",
+            "sources":"https://archive.is/oiUyY"
+         },
+         {
+            "name":"Hershey’s",
+            "otherNames":[
+               "Hershey's"
+            ],
+            "urlMatch":"thehersheycompany.",
+            "sources":"https://archive.is/ZQ5zD"
+         },
+         {
+            "name":"H&M",
+            "otherNames":[
+               "Hennes & Mauritz"
+            ],
+            "urlMatch":"hm.",
+            "sources":"https://archive.is/A9ONJ"
+         },
+         {
+            "name":"Vogue",
+            "urlMatch":"vogue.",
+            "sources":"https://archive.is/wip/GyFuG"
+         },
+         {
+            "name":"Miu Miu",
+            "urlMatch":"miumiu.",
+            "sources":"https://archive.is/wip/xKo33"
+         },
+         {
+            "name":"Fashion For All Foundation",
+            "urlMatch":"fashionforallnyc.",
+            "sources":"https://archive.is/wip/CXH7w"
+         },
+         {
+            "name":"Alexander McQueen",
+            "urlMatch":"alexandermcqueen.",
+            "sources":"https://archive.is/wip/qrLZc"
+         },
+         {
+            "name":"CELINE",
+            "urlMatch":"celine.com",
+            "sources":"https://archive.is/wip/NfQqP"
+         },
+         {
+            "name":"Holzweiler",
+            "otherNames":[
+               "HOLZWEILER"
+            ],
+            "urlMatch":"holzweileroslo.",
+            "sources":"https://archive.is/wip/gjSWC"
+         },
+         {
+            "name":"Home Depot",
+            "urlMatch":"homedepot.",
+            "sources":"https://archive.is/KjUtA"
+         },
+         {
+            "name":"Honda",
+            "urlMatch":"honda.",
+            "sources":"https://archive.is/4UYtd"
+         },
+         {
+            "name":"Hewlett-Packard",
+            "otherNames":[
+               "HP"
+            ],
+            "urlMatch":"hp.",
+            "sources":"https://archive.is/BO2tc"
+         },
+         {
+            "name":"Hulu",
+            "urlMatch":"hulu.",
+            "sources":"https://archive.is/4CyO2"
+         },
+         {
+            "name":"Humble Bundle",
+            "urlMatch":"humblebundle.",
+            "sources":"https://archive.is/YXDb6"
+         },
+         {
+            "name":"HyperX",
+            "urlMatch":"hyperxgaming.",
+            "sources":"https://archive.is/ZfHYp"
+         },
+         {
+            "name":"IBM",
+            "urlMatch":"ibm.",
+            "sources":"https://archive.is/ij3Q1"
+         },
+         {
+            "name":"IKEA",
+            "urlMatch":"ikea.",
+            "sources":"https://archive.is/9ijFx"
+         },
+         {
+            "name":"IMAX",
+            "urlMatch":"imax.",
+            "sources":"https://archive.is/OiCj1"
+         },
+         {
+            "name":"Indiegogo",
+            "urlMatch":"indiegogo.",
+            "sources":"https://archive.is/jrDZk"
+         },
+         {
+            "name":"itch.io",
+            "urlMatch":"itch.io",
+            "sources":"https://archive.is/UTsTi"
+         },
+         {
+            "name":"Invision",
+            "urlMatch":"invisionapp.",
+            "sources":"https://archive.is/UZkK1"
+         },
+         {
+            "name":"ITV",
+            "urlMatch":"itv.",
+            "sources":"https://archive.is/yD1pS"
+         },
+         {
+            "name":"Kickstarter",
+            "urlMatch":"kickstarter.",
+            "sources":"https://archive.is/0zwng"
+         },
+         {
+            "name":"Lacoste",
+            "urlMatch":"Lacoste.",
+            "sources":"https://archive.is/T7nwc"
+         },
+         {
+            "name":"Levi’s",
+            "otherNames":[
+               "Levi's",
+               "Levi Strauss"
+            ],
+            "urlMatch":"levi.",
+            "sources":"https://archive.is/KizLO"
+         },
+         {
+            "name":"Lenovo",
+            "urlMatch":"lenovo.",
+            "sources":"https://archive.is/aRuDu"
+         },
+         {
+            "name":"LinkedIn",
+            "urlMatch":"LinkedIn.",
+            "sources":"https://archive.is/sX5zb"
+         },
+         {
+            "name":"L’Oreal Paris",
+            "urlMatch":"lorealparis.",
+            "sources":"https://archive.is/Jfelo"
+         },
+         {
+            "name":"Logitech",
+            "urlMatch":"logitech.",
+            "sources":"https://archive.is/vf6J7"
+         },
+         {
+            "name":"Lowe’s",
+            "otherNames":[
+               "Lowe's"
+            ],
+            "urlMatch":"lowes.",
+            "sources":"https://archive.is/V5UFz"
+         },
+         {
+            "name":"Lucky Brand",
+            "urlMatch":"luckybrand.",
+            "sources":"https://archive.is/fY2Mw"
+         },
+         {
+            "name":"Lululemon",
+            "urlMatch":"lululemon.",
+            "sources":"https://archive.is/rjCRV"
+         },
+         {
+            "name":"Louis Vuitton",
+            "urlMatch":"louisvuitton.",
+            "sources":"https://archive.is/nGZe8"
+         },
+         {
+            "name":"Lyft",
+            "urlMatch":"lyft.",
+            "sources":"https://archive.is/UXl3k"
+         },
+         {
+            "name":"Marvel Entertainment",
+            "urlMatch":"marvel.",
+            "sources":"https://archive.is/Ptup6,https://archive.is/wip/tmujz"
+         },
+         {
+            "name":"Mastercard",
+            "urlMatch":"mastercard.",
+            "sources":"https://archive.is/K0n1d"
+         },
+         {
+            "name":"Mattel",
+            "urlMatch":"mattel.",
+            "sources":"https://archive.is/bvsqN"
+         },
+         {
+            "name":"McAfee",
+            "urlMatch":"mcafee.",
+            "sources":"https://archive.is/IGXA1"
+         },
+         {
+            "name":"McDonald’s",
+            "otherNames":[
+               "McDonald's"
+            ],
+            "urlMatch":"mcdonalds.",
+            "sources":"https://archive.is/jOZ65"
+         },
+         {
+            "name":"Mercedes Benz",
+            "urlMatch":"mercedes-benz.",
+            "sources":"https://archive.is/bs8y6"
+         },
+         {
+            "name":"Met Life",
+            "urlMatch":"metlife.",
+            "sources":"https://archive.is/Dukhi"
+         },
+         {
+            "name":"Metropolitan Opera",
+            "urlMatch":"metopera.org",
+            "sources":"https://archive.is/wecQ2"
+         },
+         {
+            "name":"Napster",
+            "urlMatch":"napster.",
+            "sources":"https://archive.is/fVY1s"
+         },
+         {
+            "name":"NASCAR",
+            "urlMatch":"nascar.",
+            "sources":"https://archive.is/LG2hU"
+         },
+         {
+            "name":"NCSOFT",
+            "otherNames":[
+               "NCsoft"
+            ],
+            "urlMatch":"ncsoft.",
+            "sources":"https://archive.is/OVPVP"
+         },
+         {
+            "name":"New Balance",
+            "urlMatch":"newbalance.",
+            "sources":"https://archive.is/NyGnG"
+         },
+         {
+            "name":"New York Life",
+            "urlMatch":"newyorklife.",
+            "sources":"https://archive.is/HVVVk"
+         },
+         {
+            "name":"National Football League",
+            "otherNames":[
+               "NFL"
+            ],
+            "urlMatch":"nfl.",
+            "sources":"https://archive.is/G4yq4"
+         },
+         {
+            "name":"National Hockey League",
+            "otherNames":[
+               "NHL"
+            ],
+            "urlMatch":"nhl.",
+            "sources":"https://archive.is/lYbyG"
+         },
+         {
+            "name":"Niantic",
+            "urlMatch":"nianticlabs.",
+            "sources":"https://archive.is/UdKYR"
+         },
+         {
+            "name":"Nickelodeon",
+            "urlMatch":"nickelodeon.",
+            "sources":"https://archive.is/JWSPQ,https://archive.md/wip/JAfin"
+         },
+         {
+            "name":"Nike",
+            "urlMatch":"nike.",
+            "sources":"https://archive.is/UXYBy"
+         },
+         {
+            "name":"Nintendo",
+            "urlMatch":"nintendo.",
+            "sources":"https://archive.is/5UOjp"
+         },
+         {
+            "name":"Nordstrom",
+            "urlMatch":"nordstrom.",
+            "sources":"https://archive.is/A7mUU"
+         },
+         {
+            "name":"North Face",
+            "urlMatch":"thenorthface.",
+            "sources":"https://archive.is/rq1Cb"
+         },
+         {
+            "name":"OnlyFans",
+            "urlMatch":"onlyfans.",
+            "sources":"https://archive.is/EFs5C"
+         },
+         {
+            "name":"Paramount Pictures",
+            "urlMatch":"paramount.",
+            "sources":"https://archive.is/ixXHd"
+         },
+         {
+            "name":"Paramount Network",
+            "urlMatch":"paramountnetwork.",
+            "sources":"https://archive.is/BCAX3"
+         },
+         {
+            "name":"Peloton",
+            "urlMatch":"onepeloton.",
+            "sources":"https://archive.is/d36k7"
+         },
+         {
+            "name":"PlayStation",
+            "urlMatch":"playstation.",
+            "sources":"https://archive.is/52Vvl"
+         },
+         {
+            "name":"Plex",
+            "urlMatch":"plex.",
+            "sources":"https://archive.is/9szCf"
+         },
+         {
+            "name":"Popeye’s",
+            "otherNames":[
+               "Popeye's"
+            ],
+            "urlMatch":"popeyes.",
+            "sources":"https://archive.is/CzlHd"
+         },
+         {
+            "name":"Pop-Tarts",
+            "urlMatch":"poptarts.",
+            "sources":"https://archive.is/8cMGG"
+         },
+         {
+            "name":"Pornhub",
+            "urlMatch":"pornhub.",
+            "sources":"https://archive.is/nciUB"
+         },
+         {
+            "name":"Porsche",
+            "urlMatch":"porsche.",
+            "sources":"https://archive.is/VrmlZ"
+         },
+         {
+            "name":"Pringles",
+            "urlMatch":"pringles.",
+            "sources":"https://archive.is/1WpA1"
+         },
+         {
+            "name":"Puget Systems",
+            "urlMatch":"pugetsystems.",
+            "sources":"https://archive.is/4Zcu7"
+         },
+         {
+            "name":"Pusheen",
+            "urlMatch":"pusheen.",
+            "sources":"https://archive.is/71dL1"
+         },
+         {
+            "name":"Qualcomm",
+            "urlMatch":"qualcomm.",
+            "sources":"https://archive.is/syYmb"
+         },
+         {
+            "name":"Quicken Loans",
+            "urlMatch":"quickenloans.",
+            "sources":"https://archive.is/SmDfJ"
+         },
+         {
+            "name":"RedHat",
+            "urlMatch":"redhat.",
+            "sources":"https://archive.is/ObTZu"
+         },
+         {
+            "name":"Red Wing Heritage",
+            "urlMatch":"redwingshoes.",
+            "sources":"https://archive.is/LLCVv"
+         },
+         {
+            "name":"Reebok",
+            "urlMatch":"reebok.",
+            "sources":"https://archive.is/v0nat"
+         },
+         {
+            "name":"Reese’s",
+            "otherNames":[
+               "Reese's"
+            ],
+            "urlMatch":"thehersheycompany.",
+            "sources":"https://archive.is/Rc4pJ"
+         },
+         {
+            "name":"Rice Krispies",
+            "urlMatch":"ricekrispies.",
+            "sources":"https://archive.is/U4Zn9"
+         },
+         {
+            "name":"Riot Games",
+            "urlMatch":"riotgames.",
+            "sources":"https://archive.is/2XH97"
+         },
+         {
+            "name":"Rockstar Games",
+            "urlMatch":"rockstargames.",
+            "sources":"https://archive.is/QdcPI"
+         },
+         {
+            "name":"Sanofi",
+            "urlMatch":"sanofi.",
+            "sources":"https://archive.is/ErmGO"
+         },
+         {
+            "name":"Scholastic",
+            "urlMatch":"scholastic.",
+            "sources":"https://archive.is/fFmX3"
+         },
+         {
+            "name":"Sega",
+            "urlMatch":"sega.",
+            "sources":"https://archive.is/9YyUJ"
+         },
+         {
+            "name":"Sesame Street",
+            "urlMatch":"sesamestreet.",
+            "sources":"https://archive.is/5he9K"
+         },
+         {
+            "name":"Societe Generale",
+            "urlMatch":"societegenerale.",
+            "sources":"https://archive.is/IoUgp"
+         },
+         {
+            "name":"Showtime",
+            "urlMatch":"sho.",
+            "sources":"https://archive.is/YTPVw"
+         },
+         {
+            "name":"Sketch",
+            "urlMatch":"sketch.",
+            "sources":"https://archive.is/QvXDT"
+         },
+         {
+            "name":"Slack",
+            "urlMatch":"slack.",
+            "sources":"https://archive.is/gF9ym"
+         },
+         {
+            "name":"Sephora",
+            "urlMatch":"sephora.",
+            "sources":"https://archive.is/Gm7Rc"
+         },
+         {
+            "name":"Shopify",
+            "urlMatch":"shopify.",
+            "sources":"https://archive.is/iq5jB"
+         },
+         {
+            "name":"Skillshare",
+            "urlMatch":"skillshare.",
+            "sources":"https://archive.is/JX5em"
+         },
+         {
+            "name":"Snap",
+            "urlMatch":"snap.",
+            "sources":"https://archive.is/HcGGQ"
+         },
+         {
+            "name":"Sony",
+            "urlMatch":"sony.",
+            "sources":"https://archive.is/1PtlU"
+         },
+         {
+            "name":"SoundCloud",
+            "urlMatch":"soundcloud.",
+            "sources":"https://archive.is/H3ZDC"
+         },
+         {
+            "name":"Spotify",
+            "urlMatch":"spotify.",
+            "sources":"https://archive.is/ufTeo"
+         },
+         {
+            "name":"STARZ",
+            "urlMatch":"starz.",
+            "sources":"https://archive.is/eQ4YG"
+         },
+         {
+            "name":"Starbucks",
+            "urlMatch":"starbucks.",
+            "sources":"https://archive.is/EENlS"
+         },
+         {
+            "name":"Star Wars",
+            "urlMatch":"starwars.",
+            "sources":"https://archive.is/xnSgt"
+         },
+         {
+            "name":"Subway",
+            "urlMatch":"subway.",
+            "sources":"https://archive.is/D5F8H"
+         },
+         {
+            "name":"Grammys",
+            "otherNames":[
+               "GRAMMYs",
+               "Grammy Award"
+            ],
+            "urlMatch":"grammy.",
+            "sources":"https://archive.is/xWhY9"
+         },
+         {
+            "name":"Academy Awards",
+            "otherNames":[
+               "The Academy"
+            ],
+            "urlMatch":"oscars.",
+            "sources":"https://archive.is/cNRYf"
+         },
+         {
+            "name":"PetSmart",
+            "urlMatch":"petsmart.",
+            "sources":"https://archive.is/5uAZc"
+         },
+         {
+            "name":"Sysco Corporation",
+            "urlMatch":"sysco.",
+            "sources":"https://archive.is/WyXx8"
+         },
+         {
+            "name":"Taco Bell",
+            "urlMatch":"tacobell.",
+            "sources":"https://archive.is/LLY9l"
+         },
+         {
+            "name":"Target",
+            "urlMatch":"target.",
+            "sources":"https://archive.is/YoIrO"
+         },
+         {
+            "name":"TBS",
+            "urlMatch":"tbs.",
+            "sources":"https://archive.is/N0QhU"
+         },
+         {
+            "name":"Tesco",
+            "urlMatch":"tesco.",
+            "sources":"https://archive.is/hZS7B"
+         },
+         {
+            "name":"Ticketmaster",
+            "urlMatch":"ticketmaster.",
+            "sources":"https://archive.is/VkhNC"
+         },
+         {
+            "name":"TikTok",
+            "urlMatch":"tiktok.",
+            "sources":"https://archive.is/bt2vy"
+         },
+         {
+            "name":"Timberland",
+            "urlMatch":"timberland.",
+            "sources":"https://archive.is/HZtxv"
+         },
+         {
+            "name":"Tinder",
+            "urlMatch":"tinder.",
+            "sources":"https://archive.is/YaY2y"
+         },
+         {
+            "name":"T-Mobile",
+            "urlMatch":"t-mobile.",
+            "sources":"https://archive.is/KB2lG"
+         },
+         {
+            "name":"Tumblr",
+            "urlMatch":"tumblr.",
+            "sources":"https://archive.is/i9fMQ"
+         },
+         {
+            "name":"Uber Eats",
+            "urlMatch":"ubereats.",
+            "sources":"https://archive.is/UwwQS"
+         },
+         {
+            "name":"Uber",
+            "urlMatch":"uber.",
+            "sources":"https://archive.is/RrScn"
+         },
+         {
+            "name":"UGG",
+            "urlMatch":"ugg.",
+            "sources":"https://archive.is/YZuWv"
+         },
+         {
+            "name":"Ulta Beauty",
+            "urlMatch":"ulta.",
+            "sources":"https://archive.is/6ZESx"
+         },
+         {
+            "name":"Under Armour",
+            "urlMatch":"underarmour.",
+            "sources":"https://archive.is/WuYMM"
+         },
+         {
+            "name":"UnitedHealth Group",
+            "urlMatch":"unitedhealthgroup.",
+            "sources":"https://archive.is/rzQXF"
+         },
+         {
+            "name":"Vanguard Group",
+            "urlMatch":"vanguard.",
+            "sources":"https://archive.is/Y12IM"
+         },
+         {
+            "name":"Vans",
+            "urlMatch":"vans.",
+            "sources":"https://archive.is/5nYag"
+         },
+         {
+            "name":"VeggieTales",
+            "urlMatch":"veggietales.",
+            "sources":"https://archive.is/ocjzA"
+         },
+         {
+            "name":"Verizon",
+            "urlMatch":"verizon.",
+            "sources":"https://archive.is/hPZoJ"
+         },
+         {
+            "name":"Versace",
+            "urlMatch":"versace.",
+            "sources":"https://archive.is/wWsxK"
+         },
+         {
+            "name":"Vevo",
+            "urlMatch":"vevo.",
+            "sources":"https://archive.is/MVtrR"
+         },
+         {
+            "name":"ViacomCBS",
+            "urlMatch":"viacomcbs.",
+            "sources":"https://archive.is/uCGXy"
+         },
+         {
+            "name":"Virgin Records",
+            "urlMatch":"virgin.",
+            "sources":"https://archive.is/QiykN"
+         },
+         {
+            "name":"VIZ",
+            "urlMatch":"viz.",
+            "sources":"https://archive.is/eMuIW"
+         },
+         {
+            "name":"Vivaldi",
+            "urlMatch":"vivaldi.",
+            "sources":"https://archive.is/QO9do"
+         },
+         {
+            "name":"Warner Bros",
+            "urlMatch":"warnerbros.",
+            "sources":"https://archive.is/F1Tqn"
+         },
+         {
+            "name":"Warner Records",
+            "urlMatch":"warnerrecords.",
+            "sources":"https://archive.is/Mm6qb"
+         },
+         {
+            "name":"Wells Fargo",
+            "urlMatch":"wellsfargo.",
+            "sources":"https://archive.is/CGA4n"
+         },
+         {
+            "name":"Wendy’s",
+            "otherNames":[
+               "Wendy's"
+            ],
+            "urlMatch":"wendys.",
+            "sources":"https://archive.is/7X4Nu"
+         },
+         {
+            "name":"WeWork",
+            "urlMatch":"wework.",
+            "sources":"https://archive.is/TEpa7"
+         },
+         {
+            "name":"Xbox",
+            "urlMatch":"xbox.",
+            "sources":"https://archive.is/6zdVS"
+         },
+         {
+            "name":"Microsoft",
+            "urlMatch":"microsoft.",
+            "sources":"https://archive.is/6zdVS"
+         },
+         {
+            "name":"Yelp",
+            "urlMatch":"yelp.",
+            "sources":"https://archive.is/eU4NS"
+         },
+         {
+            "name":"Zildjian",
+            "urlMatch":"zildjian.",
+            "sources":"https://archive.is/o6Tqi"
+         },
+         {
+            "name":"Zoom",
+            "urlMatch":"zoom.",
+            "sources":"https://archive.is/7o03X"
+         },
+         {
+            "name":"Premier League",
+            "urlMatch":"premierleague.",
+            "sources":"https://archive.is/wip/3kjS2,https://archive.is/wip/STHL6"
+         }
+      ]
+   },
+   {
+      "name":"23andMe",
+      "urlMatch":"23andme.",
+      "text":"23andMe push woke behaviour by supporting riots in the name of social justice.",
+      "sources":"https://archive.is/Mjbwk",
+      "childText":"{1} push woke behaviour by supporting riots in the name of social justice",
+      "children":[
+         {
+            "name":"Airbnb",
+            "urlMatch":"airbnb.",
+            "sources":"https://archive.is/GmMjl"
+         },
+         {
+            "name":"Thrive Market",
+            "urlMatch":"thrivemarket.",
+            "sources":"https://archive.is/XJ6DE"
+         },
+         {
+            "name":"Atlantic Records",
+            "urlMatch":"atlanticrecords.",
+            "sources":"https://archive.is/65QQq"
+         },
+         {
+            "name":"AXE",
+            "urlMatch":"axe.",
+            "sources":"https://archive.is/Xpxhw"
+         },
+         {
+            "name":"Bungie",
+            "urlMatch":"bungie.",
+            "sources":"https://archive.is/81KHV"
+         },
+         {
+            "name":"Cisco",
+            "urlMatch":"cisco.",
+            "sources":"https://archive.is/fNvdP"
+         },
+         {
+            "name":"Conde Nast",
+            "urlMatch":"condenast.",
+            "sources":"https://archive.is/ChMdI"
+         },
+         {
+            "name":"Criterion Collection",
+            "urlMatch":"criterion.",
+            "sources":"https://archive.is/JZ2Sd"
+         },
+         {
+            "name":"Devolver Digital",
+            "urlMatch":"devolverdigital.",
+            "sources":"https://archive.is/xcaEH"
+         },
+         {
+            "name":"DoorDash",
+            "urlMatch":"doordash.",
+            "sources":"https://archive.is/vhTW2"
+         },
+         {
+            "name":"Dropbox",
+            "urlMatch":"dropbox.",
+            "sources":"https://archive.is/O2ygm"
+         },
+         {
+            "name":"Fitbit",
+            "urlMatch":"fitbit.",
+            "sources":"https://archive.is/Smx2g"
+         },
+         {
+            "name":"Gatorade",
+            "urlMatch":"gatorade.",
+            "sources":"https://archive.is/fo7wl"
+         },
+         {
+            "name":"Glossier",
+            "urlMatch":"glossier.",
+            "sources":"https://archive.is/IYlXB"
+         },
+         {
+            "name":"Gumroad",
+            "urlMatch":"gumroad.",
+            "sources":"https://archive.is/oZMr7"
+         },
+         {
+            "name":"Gushers",
+            "urlMatch":"gushers.",
+            "sources":"https://archive.is/3Dju7"
+         },
+         {
+            "name":"Headup",
+            "urlMatch":"headupgames.",
+            "sources":"https://archive.is/G8ygg"
+         },
+         {
+            "name":"Help Scout",
+            "urlMatch":"helpscout.",
+            "sources":"https://archive.is/D8DCs"
+         },
+         {
+            "name":"Intel",
+            "urlMatch":"intel.",
+            "sources":"https://archive.is/93D5q"
+         },
+         {
+            "name":"Pokémon",
+            "otherNames":[
+               "Pokemon"
+            ],
+            "urlMatch":"pokemon.",
+            "sources":"https://archive.is/p9zuP"
+         },
+         {
+            "name":"PUMA",
+            "urlMatch":"puma.",
+            "sources":"https://archive.is/lHx9j"
+         },
+         {
+            "name":"Square Enix",
+            "urlMatch":"square-enix.",
+            "sources":"https://archive.is/qmPIX"
+         },
+         {
+            "name":"Supreme New York",
+            "urlMatch":"supremenewyork.",
+            "sources":"https://archive.is/KqeQs"
+         },
+         {
+            "name":"thatgamecompany",
+            "otherNames":[
+               "Thatgamecompany"
+            ],
+            "urlMatch":"thatgamecompany.",
+            "sources":"https://archive.is/7po1C"
+         },
+         {
+            "name":"Ubisoft",
+            "urlMatch":"ubisoft.",
+            "sources":"https://archive.is/0qMff"
+         }
+      ]
+   }
+]

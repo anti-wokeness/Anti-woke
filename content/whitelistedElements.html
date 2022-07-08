@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			body{
+				margin: 10px;
+			}
+			.messageFreedom{
+				margin: 10px 5px;
+				font-size: 14px;
+			   padding: 0;
+			}
+			.headerElementFreedom{
+				font-weight: bold;
+				font-size: 15px;
+				margin-top: 10px;
+			}
+			.itemElementFreedom{
+				font-size: 14px;
+				margin-left: 10px;
+				font-weight: normal;
+			}
+			.itemElementParentFreedom{
+				margin-top: 5px;
+			}
+			
+			.itemListElementParentFreedom{
+				margin-top: 5px;
+				display: flex;
+			}
+			.headerListElementFreedom .itemListElementParentFreedom:hover {
+				background-color: #eee; 
+			}
+			li .urlLinkSmallFreedom{
+				color: #850e0c !important;
+			}
+			.headerListElementFreedom{
+				font-weight: bold;
+				font-size: 15px;
+				margin-top: 10px;
+				list-style: none;
+			}
+			.itemListElementFreedom{
+				font-size: 12px;
+				font-weight: normal; 
+				padding-left: 5px;
+				margin: 5px;
+			}
+			.limitWidthFreedom{
+				width: 20%;
+				min-width: 100px;
+				max-width: 200px;
+			}
+			
+			#searchFieldFreedom {
+				width: 100%; 
+				font-size: 14px; 
+				padding: 10px; 
+				border: 1px solid #ddd;
+				margin-top: 10px;
+			}
+			#buttonFreedom{
+				margin-left: 5px;
+			}
+			.lastUpdatedFreedom{
+				font-size: 10px;
+				margin-bottom: 12px;
+			}
+			#hiddenFreedom{
+				display: none;
+				font-size: 18px;
+				margin-top: 15px;
+				font-weight: bold;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="versionDivFreedom" class="messageFreedom">Version: </div>
+		
+		<div id="messageFreedom" class="messageFreedom">
+			See something wrong or have a suggestion for a website or company that should be added or removed? <br/>
+			Send an email explaining why (including sources) to: <a href="mailto:anti-wokeness@protonmail.com">anti-wokeness@protonmail.com</a>
+		</div>
+
+		<div id="buttonFreedom" class="buttonBaseFreedom buttonBlackFreedom">Clear saved data</div>
+		
+		<div id="hiddenFreedom"></div>
+		
+		<div id="whitelistDivFreedom" class="messageFreedom"></div>
+		
+		<input type="search" id="searchFieldFreedom" placeholder="Search company name...">
+		
+		<div id="synchDivFreedom" class="lastUpdatedFreedom">Last Synched: </div>
+
+		<div id="itemsDivFreedom" class="messageFreedom"></div>		
+	</body>
+	
+	<script src="storage.js"></script>
+	<script src="helper.js"></script>
+	<script src="whitelistedElements.js"></script>
+</html>

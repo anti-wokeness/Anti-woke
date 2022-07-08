@@ -1,0 +1,33 @@
+{
+	"manifest_version": 3,
+	"name": "Anti-woke",
+	"version": "1.5.0.6",
+	"description": "The anti-wokeness extension. Shows warnings about woke companies and companies that engage in cancel culture.",
+	"permissions" : ["storage"],
+	"host_permissions": ["https://api.npoint.io/*"],
+	"options_ui": { "page": "content/options.html" },
+	"background": { "service_worker": "background.js" },
+	"content_scripts": [
+		{
+			"matches": ["*://*/*"],
+			"js": ["content/helper.js","content/content.js", "content/storage.js", "content/popper.js", "content/jquery.js"]
+		}
+	],
+	"web_accessible_resources": [{ 
+		"resources": ["urlsToWarn.json", "content/*.png"],
+		"matches": ["<all_urls>"]
+	}],
+	"action": {
+		"default_popup": "content/popup.html",
+		"default_icon": {
+			"16": "icons/16.png",
+			"32": "icons/32.png"
+		}
+	},
+	"icons": {
+		"16": "icons/16.png",
+		"32": "icons/32.png",
+		"48": "icons/48.png",
+		"128": "icons/128.png"
+	}
+}

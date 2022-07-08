@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			body{
+				margin: 10px;
+				min-width: 450px;
+				min-height: 190px;
+			}
+			.optionFreedom{
+				height: 30px;
+				margin-bottom: 5px;
+			}
+			.placeLeftFreedom{
+				float: left;
+				margin-right: 10px;
+				margin-top: -3px;
+			}
+			.messageFreedom{
+				margin: 5px 5px 15px 5px;
+				font-size: 14px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="optionFreedom">
+			<input class="toggleFreedom" id="checkbox1Freedom" type="checkbox"/>
+			<label class="toggleButtonFreedom placeLeftFreedom" data-tg-off="Off" data-tg-on="On" for="checkbox1Freedom"></label>
+			<div class="toggleTextFreedom">Show warning on top of websites</div>
+		</div>		
+		<div class="optionFreedom">
+			<input class="toggleFreedom" id="checkbox2Freedom" type="checkbox"/>
+			<label class="toggleButtonFreedom placeLeftFreedom" data-tg-off="Off" data-tg-on="On" for="checkbox2Freedom"></label>
+			<div class="toggleTextFreedom">Underline words for information</div>
+		</div>
+		
+		<div id="messageFreedom" class="messageFreedom">
+			See something wrong or have a suggestion for a website or company that should be added or removed? <br/>
+			Send an email explaining why (including sources) to: <br/>
+			<a href="mailto:anti-wokeness@protonmail.com">anti-wokeness@protonmail.com</a>
+		</div>
+		
+		<div id="buttonPopup" class="buttonBaseFreedom buttonBlackFreedom">Hidden words and websites</div>				
+	</body>
+	<script src="helper.js"></script>
+	<script src="options.js"></script>
+</html>

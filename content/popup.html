@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			body{
+				width: 270px;
+			}
+			
+			.optionFreedom{
+				height: 35px;
+				display: flex;
+			}
+			.limitWidthFreedom{
+				width: 80%;
+			}
+			.optionsIconFreedom{
+				height: 15px;
+				position: absolute;
+				right: 2px;
+				top: 2px;
+				cursor: pointer;
+				border-radius: 8px;
+			}
+			.optionsIconFreedom:hover{
+				box-shadow: 0 0 5px 1px #999999;
+			}
+			.optionsIconFreedom:active{
+				box-shadow: 0 0 10px 1px #999999;
+			}
+			
+			.messageFreedom{
+				font-size: 14px;
+			}
+			.lastUpdatedFreedom{
+				font-size: 10px;
+			}			
+			.itemElementParentFreedom{
+				margin-top: 5px;
+			}
+			
+			.headerListElementFreedom .itemListElementParentFreedom:hover {
+				background-color: #eee; 
+			}
+			li .urlLinkSmallFreedom{
+				color: #850e0c !important;
+			}
+			.headerListElementFreedom{
+				list-style: none;
+			}
+			.itemListElementFreedom{
+				font-size: 12px;
+				font-weight: normal; 
+				padding-left: 0px;
+				margin: 5px;
+			}
+			.limitFlexWidth1Freedom{
+				display: inline-block;
+				width: 85px;
+				vertical-align: top;
+			}
+			.limitFlexWidth2Freedom{
+				display: inline-block;
+				width: 165px;
+			}
+			
+			#searchFieldFreedom {
+				width: 100%; 
+				font-size: 14px; 
+				padding: 10px; 
+				border: 1px solid #ddd;
+				margin-top: 10px;
+			}
+			.hiddenFreedom{
+				display: none;
+			}
+		</style>
+	</head>
+	<body>
+		<img id="optionsFreedom" class="optionsIconFreedom" src="options.png">
+		
+		<div class="optionFreedom">
+			<div class="toggleTextFreedom limitWidthFreedom">Show warning on top of websites</div>
+			<input class="toggleFreedom" id="checkbox1Freedom" type="checkbox"/>
+			<label class="toggleButtonFreedom" data-tg-off="Off" data-tg-on="On" for="checkbox1Freedom"></label>
+		</div>		
+		<div class="optionFreedom">
+			<div class="toggleTextFreedom limitWidthFreedom">Underline words for information</div>
+			<input class="toggleFreedom" id="checkbox2Freedom" type="checkbox"/>
+			<label class="toggleButtonFreedom" data-tg-off="Off" data-tg-on="On" for="checkbox2Freedom"></label>
+		</div>
+		
+		<div id="buttonPopup" class="buttonBaseFreedom buttonBlackFreedom">Hidden words and websites</div>
+		
+		<input type="search" id="searchFieldFreedom" placeholder="Search company name...">
+		
+		<div id="synchDivFreedom" class="lastUpdatedFreedom"></div>
+		
+		<div id="itemsDivFreedom" class="messageFreedom"></div>		
+		
+	</body>
+	<script src="storage.js"></script>
+	<script src="helper.js"></script>
+	<script src="popup.js"></script>
+</html>
