@@ -3,12 +3,12 @@ function isEmpty(object) {
 	return object == null || (Object.keys(object).length === 0 && object.constructor === Object) || object == '';
 }
 
-function isDateInPast(dateString, extraDays = 0){
+function isDateInPast(dateString, daysInPast = 0){
 	if(isEmpty(dateString))
 		return true;
 	
 	const date = dateString.split('/');
-	const today = getTodayFormatted(extraDays).split('/');
+	const today = getTodayFormatted(daysInPast).split('/');
 	
 	if(today[2] > date[2])
 		return true;
@@ -20,9 +20,9 @@ function isDateInPast(dateString, extraDays = 0){
 	return false;
 }
 
-function getTodayFormatted(extraDays = 0){
+function getTodayFormatted(daysInPast = 0){
 	const today = new Date();
-	today.setDate(today.getDate() + extraDays);
+	today.setDate(today.getDate() - daysInPast);
 	const dd = String(today.getDate()).padStart(2, '0');
 	const mm = String(today.getMonth() + 1).padStart(2, '0');
 	const yyyy = today.getFullYear();
@@ -39,7 +39,9 @@ function flattenUrlsToWarn(urlsToWarn){
 		{
 			let itemCopy = Object.assign({}, item);
 			itemCopy.name = item.otherNames[otherName];
-			flattened.push(itemCopy);
+						
+			if(item.name.toLowerCase() != itemCopy.name.toLowerCase())
+				flattened.push(itemCopy);
 		}
 		
 		for(child in item.children){
@@ -61,10 +63,13 @@ function flattenUrlsToWarn(urlsToWarn){
 			{
 				let itemCopy = Object.assign({}, itemChild);
 				itemCopy.name = itemChild.otherNames[otherName];
-				flattened.push(itemCopy);
+							
+				if(itemCopy.name.toLowerCase() != itemChild.name.toLowerCase())
+					flattened.push(itemCopy);
 			}
 
-			flattened.push(itemChild);
+			if(item.name.toLowerCase() != itemChild.name.toLowerCase())
+				flattened.push(itemChild);
 		}
 		item.children = null;
 	}
@@ -195,11 +200,7 @@ function getOrCreateTooltip(){
 
 function showTooltip(selectorId, popperInstance, tooltipText, item) {
 	const tooltip = document.getElementById(selectorId);
-	
-	console.log("tooltip ", tooltip);
-	console.log("tooltip.childNodes[2] ", tooltip.childNodes[2]);
-	console.log("tooltipText ", tooltipText);
-	
+		
 	tooltip.childNodes[2].textContent = '';
 	tooltip.childNodes[2].appendChild(tooltipText);
 	
@@ -241,13 +242,26 @@ function getBodyNodes(){
 	});
 }
 
+function sanitize(str) {
+	return str.replace(/[`’]/g,"'");
+}
+
 function underlineWords(flattenedUrlsToWarn){
 	let nodeNumber = 0;
 	let containedItems = [];
-	
 	getBodyNodes().filter(function(node){ 
 		return flattenedUrlsToWarn.filter(function(item) {
-			const newItem = node.textContent.indexOf(item.name) > -1 && !containedItems.includes(item);			
+			let nodeText = sanitize(node.textContent);
+			let itemName = sanitize(item.name);
+			item.name = itemName;
+			
+			if(item.ignoreCase != undefined){
+				nodeText = nodeText.toLowerCase();
+				itemName = itemName.toLowerCase();
+			}
+			
+			const newItem = nodeText.indexOf(itemName) > -1 && !containedItems.includes(item);
+			
 			if(newItem)
 				containedItems.push(item);
 			return newItem;
@@ -256,17 +270,24 @@ function underlineWords(flattenedUrlsToWarn){
 		let regexItems = [];
 		let regexes = [];
 		let regexStrings = '';
+		let nodeText = sanitize(node.textContent);
 		
 		for(containedItem in containedItems)
 		{
 			const item = containedItems[containedItem];
-			const regexString = '((?<!\\p{Alpha})' + item.name + '(?!\\p{Alpha}))';
-			const regex = new RegExp(regexString, 'u');
+			let itemName = item.name;
+			let regexArgument = 'u';
 			
-			if(regex.test(node.textContent))
+			if(item.ignoreCase != undefined)
+				regexArgument += 'i';
+			
+			const regexString = '((?<!\\p{Alpha})' + item.name + '(?!\\p{Alpha}))';
+			const regex = new RegExp(regexString, regexArgument);
+			
+			if(regex.test(nodeText))
 			{
-				regexItems.push(item);
 				regexes.push(regex);
+				regexItems.push(item);
 				
 				if(regexStrings != '')
 					regexStrings += '|';
@@ -274,8 +295,7 @@ function underlineWords(flattenedUrlsToWarn){
 			}
 		}
 		
-		const nodeContentSplit = node.textContent.split(new RegExp(regexStrings, 'u')).filter(i => !isEmpty(i));
-		
+		const nodeContentSplit = nodeText.split(new RegExp(regexStrings, 'ui')).filter(i => !isEmpty(i) && i.length > 1);
 		let parentNode = document.createElement('text');
 		let tooltipHoverElements = [];
 		let hoverItems = [];
@@ -289,7 +309,7 @@ function underlineWords(flattenedUrlsToWarn){
 				if(regexes[i].test(nodeItem))
 				{
 					let tooltipHoverElement = document.createElement('text');
-					tooltipHoverElement.textContent = regexItems[i].name;
+					tooltipHoverElement.textContent = nodeItem;
 					tooltipHoverElement.classList.add('tooltipHoverFreedom');
 					tooltipHoverElement.id = 'HoverFreedom' + '-' + (nodeNumber++);
 					
@@ -309,8 +329,8 @@ function underlineWords(flattenedUrlsToWarn){
 			const tooltipTextElement = getOrCreateTooltip();
 			for(let i = 0; i < tooltipHoverElements.length; i++){
 				const item = hoverItems[i];
-				const tooltipDisplayText = getExplanationText(item);
 				const hoverSelector = tooltipHoverElements[i];
+				const tooltipDisplayText = getExplanationText(item);
 				const popper = Popper.createPopper(hoverSelector, tooltipTextElement);
 				
 				$('#' + hoverSelector.id).mouseenter( function(e) {
@@ -559,6 +579,7 @@ function setStyles(){
 	}
 
 	.arrowFreedom {
+		margin-bottom: 0;
 		visibility: hidden;
 	}
 	.arrowFreedom,

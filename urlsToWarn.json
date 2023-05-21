@@ -1,21 +1,368 @@
 [
    {
-      "name":"Twitter",
-      "urlMatch":"twitter.",
-      "text":"Twitter bans users for arbitrary reasons without warning and push wokeness.",
-      "sources":"https://archive.is/WezKD,https://archive.is/wip/y1wpg"
-   },
-   {
       "name":"New York Yankees",
       "urlMatch":"mlb.com/yankees",
-      "text":"New York Yankees push wokeness using slurs such as latinx for Hispanic people.",
+      "text":"New York Yankees push wokeness and use slurs, such as latinx, for Hispanic people.",
       "sources":"https://archive.ph/wip/XsgQK"
+   },
+   {
+      "name":"Jean Paul",
+      "urlMatch":"jeanpaulgaultier.com",
+      "text":"Jean Paul push wokeness.",
+      "sources":"https://archive.is/TxXyT"
+   },
+   {
+      "name":"Theatre Royal Stratford East",
+      "urlMatch":"stratfordeast.com",
+      "text":"Theatre Royal Stratford East push wokeness and racism.",
+      "sources":"https://archive.is/pAwsj"
+   },
+   {
+      "name":"Bunnings Warehouse",
+      "urlMatch":"bunnings.com.au",
+      "text":"Bunnings Warehouse push wokeness.",
+      "sources":"https://archive.is/wip/FtvlT"
+   },
+   {
+      "name":"United Air Temp",
+      "urlMatch":"unitedairtemp.com",
+      "text":"United Air Temp push wokeness.",
+      "sources":"https://archive.is/mFiVO"
+   },
+   {
+      "name":"NYC Health + Hospitals",
+      "urlMatch":"nychealthandhospitals.org",
+      "text":"NYC Health + Hospitals push wokeness.",
+      "sources":"https://archive.is/aFMg2"
+   },
+   {
+      "name":"Brand Federation",
+      "urlMatch":"brandfederation.com",
+      "text":"Brand Federation push wokeness.",
+      "sources":"https://archive.is/wip/e8kFb"
+   },
+   {
+      "name":"Papillon Bergen",
+      "urlMatch":"papillonbergen.no",
+      "text":"Papillon Bergen push wokeness.",
+      "sources":"https://archive.is/wip/lmxgf"
+   },
+   {
+      "name":"Center for Global Development",
+      "urlMatch":"cgdev.org",
+      "text":"Center for Global Development push wokeness.",
+      "sources":"https://archive.is/r0cga"
+   },
+   {
+      "name":"Corporate Equality Index",
+      "urlMatch":"thehrcfoundation.org",
+      "text":"Corporate Equality Index push wokeness.",
+      "sources":"https://archive.is/7msmv"
+   },
+   {
+      "name":"2Bears Tavern Group",
+      "urlMatch":"2bearstaverngroup.com",
+      "text":"2Bears Tavern Group push wokeness.",
+      "sources":"https://archive.is/BD5yu"
+   },
+   {
+      "name":"Woolworths Supermarkets",
+      "urlMatch":"woolworths.com.au",
+      "text":"Woolworths Supermarkets push wokeness.",
+      "sources":"https://archive.is/wip/C5sf9"
+   },
+   {
+      "name":"Miller Lite",
+      "urlMatch":"millerlite.com",
+      "text":"Miller Lite push wokeness.",
+      "sources":"https://archive.is/wip/Vd8QP"
+   },
+   {
+      "name":"Wesfarmers",
+      "urlMatch":"wesfarmers.com.au",
+      "text":"Wesfarmers push wokeness.",
+      "sources":"https://archive.is/wip/mP4W2"
+   },
+   {
+      "name":"Quantas",
+      "urlMatch":"qantas.com",
+      "text":"Quantas push wokeness.",
+      "sources":"https://archive.is/wip/xYRxd"
+   },
+   {
+      "name":"WEF",
+      "otherNames":[
+         "World Economic Forum"
+      ],
+      "urlMatch":"weforum.org",
+      "text":"WEF push wokeness.",
+      "sources":"https://archive.is/wip/P2Bgs",
+      "childText":"{1} push wokeness.",
+      "children":[
+         {
+            "name":"Ginkgo Bioworks",
+            "urlMatch":"ginkgobioworks.com"
+         },
+         {
+            "name":"Cargill",
+            "urlMatch":"cargill.com"
+         },
+         {
+            "name":"Ecolab",
+            "urlMatch":"ecolab.com"
+         },
+         {
+            "name":"Jacobs",
+            "urlMatch":"jacobs.com"
+         },
+         {
+            "name":"Visa",
+            "urlMatch":"usa.visa.com"
+         }
+      ]
+   },
+   {
+      "name":"Molson Coors",
+      "urlMatch":"molsoncoors.com",
+      "text":"Molson Coors push wokeness.",
+      "sources":"https://archive.is/wip/KjowM,https://archive.is/wip/rYHch"
+   },
+   {
+      "name":"Change.org",
+      "urlMatch":"change.org",
+      "text":"Change.org push wokeness.",
+      "sources":"https://archive.is/RcgA7"
+   },
+   {
+      "name":"NewsGuard",
+      "urlMatch":"newsguardtech.com",
+      "text":"NewsGuard push wokeness and cancel culture.",
+      "sources":"https://archive.is/tepQt"
+   },
+   {
+      "name":"Check My Ads",
+      "urlMatch":"checkmyads.org",
+      "text":"Check My Ads push wokeness and cancel culture.",
+      "sources":"https://archive.is/fUGUZ"
+   },
+   {
+      "name":"Streets Pub and Grub",
+      "otherNames":[
+         "Streets Pub & Grub"
+      ],
+      "urlMatch":"streetspubandgrub.com",
+      "text":"Streets Pub and Grub push wokeness.",
+      "sources":"https://archive.is/wip/Iqu4k"
+   },
+   {
+      "name":"University of Groningen",
+      "urlMatch":"rug.nl",
+      "text":"University of Groningen push wokeness and sexism.",
+      "sources":"https://archive.is/wip/SOtOC"
+   },
+   {
+      "name":"Cappelen Damm",
+      "urlMatch":"cappelendamm.no",
+      "text":"Cappelen Damm push wokeness.",
+      "sources":"https://archive.is/wip/RTfEU"
+   },
+   {
+      "name":"HarperCollins",
+      "urlMatch":"harpercollins.com",
+      "text":"HarperCollins push wokeness.",
+      "sources":"https://archive.is/iFI0n"
+   },
+   {
+      "name":"CDC",
+      "otherNames":[
+         "Centers for Disease Control"
+      ],
+      "urlMatch":"cdc.gov",
+      "text":"The CDC push wokeness.",
+      "sources":"https://archive.is/U8MgW"
+   },
+   {
+      "name":"Time magazine",
+      "urlMatch":"time.com",
+      "text":"Time magazine push wokeness and racism.",
+      "sources":"https://archive.is/rfSo4,https://archive.is/EfomR"
+   },
+   {
+      "name":"Stanford University",
+      "urlMatch":"stanford.edu",
+      "text":"Stanford University push wokeness and racism.",
+      "sources":"https://archive.is/XUkRx"
+   },
+   {
+      "name":"Artef",
+      "otherNames":[
+         "Anti-Racism Taskforce for European Film"
+      ],
+      "urlMatch":"artef.org",
+      "text":"Artef push wokeness and racism.",
+      "sources":"https://archive.is/wip/9smlO"
+   },
+   {
+      "name":"Dartmouth College",
+      "urlMatch":"dartmouth.edu",
+      "text":"Dartmouth College push wokeness and racism.",
+      "sources":"https://archive.is/WhM0t"
+   },
+   {
+      "name":"Gender Museum",
+      "text":"Gender Museum push wokeness.",
+      "sources":"https://archive.is/PEBxA"
+   },
+   {
+      "name":"Rocket Mortgage",
+      "urlMatch":"rocketmortgage.com",
+      "text":"Rocket Mortgage push wokeness.",
+      "sources":"https://archive.is/wip/aZUTJ"
+   },
+   {
+      "name":"ChatGPT",
+	  "ignoreCase": "1",
+      "text":"ChatGPT push wokeness.",
+      "sources":"https://archive.is/F1dRc,https://archive.is/fl9c8"
+   },
+   {
+      "name":"Global Disinformation Index",
+      "otherNames":[
+         "Disinformation Index LTD"
+      ],
+      "urlMatch":"disinformationindex.org",
+      "text":"Disinformation Index push wokeness.",
+      "sources":"https://archive.is/XSgeu,https://archive.is/wip/KLvXn,https://archive.is/wip/qluBu"
+   },
+   {
+      "name":"Limited Run Games",
+      "urlMatch":"limitedrungames.com",
+      "text":"Limited Run Games push wokeness.",
+      "sources":"https://archive.is/wip/pt03h"
+   },
+   {
+      "name":"Nexus Mods",
+      "urlMatch":"nexusmods.com",
+      "text":"Nexus Mods push wokeness.",
+      "sources":"https://archive.is/Ubplu,https://archive.is/wip/LrUXw"
+   },
+   {
+      "name":"ModDB",
+      "urlMatch":"moddb.com",
+      "text":"ModDB push wokeness.",
+      "sources":"https://archive.is/Ubplu"
+   },
+   {
+      "name":"Virgin Atlantic",
+      "urlMatch":"virginatlantic.com",
+      "text":"Virgin Atlantic push wokeness with actions like \"pronoun badges\".",
+      "sources":"https://archive.ph/wip/WMViK",
+      "childText":"{1} push wokeness with actions like \"pronoun badges\".",
+      "children":[
+         {
+            "name":"Virgin Atlantic",
+            "urlMatch":"virgin.com"
+         }
+      ]
+   },
+   {
+      "name":"EIN Presswire",
+      "urlMatch":"einpresswire.com",
+      "text":"EIN Presswire bans users for arbitrary reasons without warning and push wokeness",
+      "sources":"https://archive.ph/6Geb5",
+      "childText":"{1} bans users for arbitrary reasons without warning and push wokeness.",
+      "children":[
+         {
+            "name":"Newsmatics ",
+            "urlMatch":"newsmatics.com"
+         }
+      ]
+   },
+   {
+      "name":"Royal Air Force",
+      "urlMatch":"raf.mod.uk",
+      "text":"Royal Air Force push wokeness and sexism.",
+      "sources":"https://archive.ph/4xaur"
+   },
+   {
+      "name":"Reissa Foundation",
+      "urlMatch":"reissa.org",
+      "text":"Reissa Foundation push wokeness.",
+      "sources":"https://archive.vn/wip/JZ4IM"
+   },
+   {
+      "name":"Dis-Chem",
+      "urlMatch":"dischem.co.za",
+      "text":"Dis-Chem engage in racism and wokeness.",
+      "sources":"https://archive.ph/wip/XT5wd"
+   }, 
+   {
+      "name":"University of Manchester",
+      "urlMatch":"manchester.ac.uk",
+      "text":"University of Manchester push wokeness.",
+      "sources":"https://archive.ph/IOm55"
+   },
+   {
+      "name":"Minneapolis Federation of Teachers",
+      "urlMatch":"mft59.org",
+      "text":"Minneapolis Federation of Teachers push wokeness and racism.",
+      "sources":"https://archive.ph/wip/fWhJN"
    },
    {
       "name":"Milwaukee Brewers",
       "urlMatch":"mlb.com/brewers",
       "text":"Milwaukee Brewers push wokeness.",
       "sources":"https://archive.ph/aYHc2"
+   },
+   {
+      "name":"Shakespeare's Globe",
+      "urlMatch":"shakespearesglobe.com",
+      "text":"Shakespeare's Globe push wokeness, trying to erase women from history.",
+      "sources":"https://archive.ph/65CTZ"
+   },
+   {
+      "name":"Zalando",
+      "urlMatch":"zalando.",
+      "text":"Zalando push wokeness.",
+      "sources":"https://archive.is/wip/SuQYj,https://archive.is/wip/Z6c7w"
+   },
+   {
+      "name":"Duolingo",
+      "urlMatch":"duolingo.com",
+      "text":"Duolingo push wokeness.",
+      "sources":"https://archive.is/v9Wpk"
+   },
+   {
+      "name":"National Lawyers Guild",
+      "urlMatch":"nlg.org",
+      "text":"National Lawyers Guild push wokeness and racism.",
+      "sources":"https://archive.is/wip/MFOLL"
+   },
+   {
+      "name":"Comcast",
+      "urlMatch":"comcast.com",
+      "text":"Comcast push wokeness and racism.",
+      "sources":"https://archive.is/wip/yDgMM,https://archive.is/dqQuX",
+	  "childText":"{1}'s owner {2}",
+	  "children":[
+         {
+            "name":"Xfinity",
+			"ignoreCase": "1",
+            "urlMatch":"xfinity.com"
+         }
+      ]
+   },
+   {
+      "name":"IDG",
+      "urlMatch":"idg.se",
+      "text":"IDG push wokeness.",
+      "sources":"https://archive.is/wip/b554U"
+   },
+   {
+      "name":"Tractor Supply Company",
+      "urlMatch":"tractorsupply.com",
+      "text":"Tractor Supply Company push wokeness and racism.",
+      "sources":"https://archive.is/wip/n0DV1"
    },
    {
       "name":"National Archives",
@@ -28,6 +375,13 @@
       "urlMatch":"unconventionalventures.com",
       "text":"Unconventional Ventures select projects based on the owners skin color, gender, and sexuality.",
       "sources":"https://archive.ph/wip/D0ja1"
+   },
+   {
+      "name":"HOPE not hate",
+	  "ignoreCase": "1",
+      "urlMatch":"hopenothate.org.uk",
+      "text":"HOPE not hate is an extremist group pushing cancel culture and wokeness.",
+      "sources":"https://archive.ph/eY4Ca, https://archive.is/LdYSY"
    },
    {
       "name":"Halifax UK",
@@ -46,9 +400,7 @@
    },
    { 
       "name":"Coles Supermarkets",
-      "otherNames":[
-         "Coles supermarkets"
-      ],
+	  "ignoreCase": "1",
       "urlMatch":"coles.com.au",
       "text":"Coles push wokeness and discrimination based on self-identification.",
       "sources":"https://archive.ph/wip/Kdcre"
@@ -91,7 +443,7 @@
    {
       "name":"Outbrain",
       "urlMatch":"outbrain.com",
-      "text":"Outbrain push wokeness for social justice and deplatform users for arbitrary reasons without warning",
+      "text":"Outbrain push wokeness and deplatform users for arbitrary reasons without warning",
       "sources":"https://archive.is/kboH4,https://archive.is/kdsbz"
    },
    {
@@ -108,9 +460,7 @@
    },
    {
       "name":"ResetEra",
-      "otherNames":[
-         "ResetERA"
-      ],
+	  "ignoreCase": "1",
       "urlMatch":"metacritic.com",
       "text":"ResetEra is a hate group forum pushing wokeness.",
       "sources":"https://archive.is/3P4gT"
@@ -136,9 +486,7 @@
       "children":[
          {
             "name":"Nivea",
-            "otherNames":[
-               "NIVEA"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"nivea."
          },
          {
@@ -168,6 +516,12 @@
       "sources":"https://archive.md/j8c0G"
    },
    {
+      "name":"Cracker Barrel",
+      "urlMatch":"crackerbarrel.com",
+      "text":"Cracker Barrel push wokeness.",
+      "sources":"https://archive.is/wip/t7BGm,https://archive.is/rkKqQ"
+   },
+   {
       "name":"Electronic Frontier Foundation",
       "otherNames":[
          "EFF"
@@ -192,10 +546,13 @@
       "sources":"https://archive.is/Xj1Nd,https://archive.is/CZyAJ,https://archive.is/wip/ss7HS"
    },
    {
+      "name":"Boston Children's Hospital",
+      "urlMatch":"childrenshospital.org",
+      "text":"Boston Children's Hospital push wokeness.",
+      "sources":"https://archive.is/wip/xLWDz"
+   },
+   {
       "name":"Professional Golfers' Association",
-      "otherNames":[
-         "Professional Golfers’ Association "
-      ],
       "urlMatch":"pga.com",
       "text":"PGA push wokeness and cancel culture.",
       "sources":"https://archive.is/wip/Wmr2W,https://archive.is/wip/0w55I"
@@ -211,6 +568,19 @@
       "urlMatch":"perkinscoie.com",
       "text":"Perkins Coie push wokeness and cancel culture.",
       "sources":"https://archive.is/cDqhx,https://archive.is/uLbAE"
+   },
+   {
+      "name":"Volkswagen",
+      "urlMatch":"vw.com",
+      "text":"Volkswagen push wokeness and cancel culture.",
+      "sources":"https://archive.ph/jym7x",
+	  "childText":"{1} push wokeness and cancel culture.",
+	  "children":[
+         {
+            "name":"Havas Media",
+            "urlMatch":"havasmediagroup.com"
+         }
+      ]
    },
    {
       "name":"Allegiant Air",
@@ -311,7 +681,7 @@
       "name":"National Education Association",
       "urlMatch":"nea.org",
       "text":"The National Education Association push wokeness and racism.",
-      "sources":"https://archive.today/rAfJV"
+      "sources":"https://archive.today/rAfJV,https://archive.ph/wip/plqyz"
    },
    {
       "name":"Zinn Education Project",
@@ -345,9 +715,7 @@
    },
    {
       "name":"Standard (Oslo)",
-      "otherNames":[
-         "STANDARD (OSLO)"
-      ],
+	  "ignoreCase": "1",
       "urlMatch":"standardoslo.no",
       "text":"Standard (Oslo) push wokeness.",
       "sources":"https://archive.md/wip/oSrww"
@@ -403,14 +771,12 @@
    {
       "name":"Snapchat",
       "urlMatch":"snapchat.",
-      "text":"Snapchat push wokeness for social justice.",
+      "text":"Snapchat push wokeness.",
       "sources":"https://archive.is/HcGGQ,https://archive.is/IsnIX"
    },
    {
       "name":"Tedx",
-	  "otherNames":[
-	    "TEDx"
-	  ],
+	  "ignoreCase": "1",
       "urlMatch":"ted.com",
       "text":"Tedx push wokeness.",
       "sources":"https://archive.ph/63eLW"
@@ -422,21 +788,55 @@
       "sources":"https://archive.ph/Fu1gg"
    },
    {
+      "name":"Gap",
+      "urlMatch":"gapinc.com",
+      "text":"Gap push cancel culture, racism, and wokeness.",
+      "sources":"https://archive.ph/wip/arUbB,https://archive.ph/dAoDa",
+	  "childText":"{1} push cancel culture, racism, and wokeness.",
+      "children":[
+         {
+            "name":"MRC",
+            "urlMatch":"mrcentertainment.com"
+         },
+         {
+            "name":"Balenciaga",
+            "urlMatch":"balenciaga.com"
+         }
+      ]
+   },
+   {
+      "name":"Endeavor",
+      "urlMatch":"sheffieldcitytrust.org",
+      "text":"Endeavor Air push wokeness.",
+      "sources":"https://archive.ph/wip/7hfPH"
+   },
+   {
+      "name":"General Mills",
+      "urlMatch":"generalmills.com",
+      "text":"General Mills push cancel culture and wokeness.",
+      "sources":"https://archive.ph/jHnzW",
+	  "childText":"{1} push cancel culture and wokeness.",
+      "children":[
+         {
+            "name":"Audi",
+            "urlMatch":"audiusa.com"
+         },
+         {
+            "name":"Audi",
+            "urlMatch":"audi."
+         }
+      ]
+   },
+   {
       "name":"Vipps",
       "urlMatch":"vipps.no",
       "text":"Vipps push wokeness.",
       "sources":"https://archive.md/wip/URirA,https://archive.md/wip/9syBi"
    },
    {
-      "name":"DNB",
-      "urlMatch":"dnb.no",
-      "text":"DNB push wokeness for social justice.",
-      "sources":"https://archive.md/wip/tg7Ot"
-   },
-   {
       "name":"GEN",
       "urlMatch":"gen.medium.",
-      "text":"GEN push wokeness for social justice.",
+      "text":"GEN push wokeness.",
       "sources":"https://archive.is/4UlOk"
    },
    {
@@ -454,7 +854,7 @@
    {
       "name":"Gmail",
       "urlMatch":"mail.google.",
-      "text":"Gmail's owner Alphabet push cancel culture across it's various platforms and push wokeness.",
+      "text":"Gmail's owner Alphabet push cancel culture across its various platforms and push wokeness.",
       "linkUrl":"protonmail.com",
       "linkText":"Protonmail",
       "sources":"https://archive.is/DK2T8,https://archive.is/PsEoZ"
@@ -471,7 +871,7 @@
    {
       "name":"Google maps",
       "urlMatch":"google.|maps",
-      "text":"Google's owner Alphabet push cancel culture across it's various platforms and push wokeness.",
+      "text":"Google's owner Alphabet push cancel culture across its various platforms and push wokeness.",
       "linkUrl":"openstreetmap.org",
       "linkText":"OpenStreetMap",
       "styling":"margin-left: 480px;",
@@ -480,8 +880,14 @@
    {
       "name":"Google",
       "urlMatch":"google.",
-      "text":"Google's owner Alphabet push cancel culture across it's various platforms and push wokeness.",
+      "text":"Google's owner Alphabet push cancel culture across its various platforms and push wokeness.",
       "sources":"https://archive.is/DK2T8,https://archive.is/PsEoZ"
+   },
+   {
+      "name":"OKCupid",
+      "urlMatch":"okcupid.com",
+      "text":"OKCupid push wokeness.",
+      "sources":"https://archive.ph/wip/nOc07,https://archive.ph/wip/tke8W"
    },
    {
       "name":"Twitch",
@@ -551,10 +957,7 @@
             "urlMatch":"heavenhilldistillery.com"
          },
          {
-            "name":"Admiral Nelson's Premium Spiced Rums",
-            "otherNames":[
-               "Admiral Nelson’s Premium Spiced Rums"
-            ]
+            "name":"Admiral Nelson's Premium Spiced Rums"
          },
          {
             "name":"Ansac Cognac"
@@ -569,16 +972,10 @@
             "name":"Blackheart Premium Spiced Rum"
          },
          {
-            "name":"Burnett's London Dry Gin",
-            "otherNames":[
-               "Burnett’s London Dry Gin"
-            ]
+            "name":"Burnett's London Dry Gin"
          },
          {
-            "name":"Burnett's Vodkas",
-            "otherNames":[
-               "Burnett’s London Dry Gin"
-            ]
+            "name":"Burnett's Vodkas"
          },
          {
             "name":"Carolans Irish Cream Liqueur"
@@ -617,10 +1014,7 @@
             "name":"Fighting Cock Bourbon"
          },
          {
-            "name":"Fulton's Harvest Cream Liqueur",
-            "otherNames":[
-               "Fulton’s Harvest Cream Liqueur"
-            ]
+            "name":"Fulton's Harvest Cream Liqueur"
          },
          {
             "name":"Georgia Moon Corn Whiskey"
@@ -650,10 +1044,7 @@
             "name":"PAMA Pomegranate Liqueur"
          },
          {
-            "name":"Parker's Heritage Collection",
-            "otherNames":[
-               "Fulton’s Harvest Cream Liqueur"
-            ]
+            "name":"Parker's Heritage Collection"
          },
          {
             "name":"Pikesville Straight Rye Whiskey"
@@ -687,10 +1078,7 @@
       "sources":"https://archive.is/wip/8fjEq"
    },
    {
-      "name":"Penzeys Spices",
-		"otherNames":[
-		   "Penzeys"
-		],
+      "name":"Penzeys",
       "urlMatch":"penzeys.com",
       "text":"Penzeys Spices push wokeness and racism.",
       "sources":"https://archive.is/wip/WaNky"
@@ -723,7 +1111,7 @@
    {
       "name":"Deutsche Bank",
       "urlMatch":"db.",
-      "text":"Deutsche Bank bans people from usings it's services for arbitrary reasons.",
+      "text":"Deutsche Bank bans people from usings its services for arbitrary reasons.",
       "sources":"https://archive.is/wip/B1nbz"
    },
    {
@@ -735,7 +1123,7 @@
    {
       "name":"Apple",
       "urlMatch":"apple.",
-      "text":"Apple removes applications from it's appstore based on political ideology and push wokeness.",
+      "text":"Apple removes applications from its appstore based on political ideology and push wokeness.",
       "sources":"https://archive.is/cj97E"
    },
    {
@@ -758,6 +1146,148 @@
       ]
    },
    {
+      "name":"Clorox",
+      "urlMatch":"clorox.com",
+      "text":"Clorox push wokeness.",
+      "sources":"https://archive.is/wip/x3RHN",
+      "childText":"{1}'s owner pushes wokeness.",
+      "children":[
+         {
+            "name":"Agua Jane"
+         },
+         {
+            "name":"Ayudin"
+         },
+         {
+            "name":"Handi Wipes",
+            "urlMatch":"handiwipes.com"
+         },
+         {
+            "name":"KC Masterpiece",
+            "urlMatch":"kcmasterpiece.com"
+         },
+         {
+            "name":"Kingsford",
+            "urlMatch":"kingsford.com"
+         },
+         {
+            "name":"Natural Vitality"
+         },
+         {
+            "name":"Neocell"
+         },
+         {
+            "name":"PinoLuz"
+         },
+         {
+            "name":"Poett",
+            "urlMatch":"poett.com"
+         },
+         {
+            "name":"Rainbow Light"
+         },
+         {
+            "name":"Ready Mop",
+            "urlMatch":"cloroxtools.com"
+         },
+         {
+            "name":"RenewLife",
+            "urlMatch":"betteryourhealth.com"
+         },
+         {
+            "name":"Selton"
+         },
+         {
+            "name":"Scoop Away",
+            "urlMatch":"kingsford.com"
+         },
+         {
+            "name":"Soy Vay",
+            "urlMatch":"soyvay.com"
+         },
+         {
+            "name":"Stop Aging Now",
+            "urlMatch":"stopagingnow.com"
+         },
+         {
+            "name":"Tilex"
+         },
+         {
+            "name":"Trenet",
+            "urlMatch":"trenet.com"
+         },
+         {
+            "name":"True Health",
+            "urlMatch":"truehealth.com"
+         },
+         {
+            "name":"Wash N Dri"
+         },
+         {
+            "name":"Kitchen Bouquet"
+         },
+         {
+            "name":"Lestoil"
+         },
+         {
+            "name":"Limpido"
+         },
+         {
+            "name":"Liquid-Plumr",
+            "urlMatch":"liquidplumr.com"
+         },
+         {
+            "name":"Match Light"
+         },
+         {
+            "name":"Mistolin",
+            "urlMatch":"mistolin.co"
+         },
+         {
+            "name":"Mortimer"
+         },
+         {
+            "name":"Chux",
+            "urlMatch":"chux.com"
+         },
+         {
+            "name":"Clorinda"
+         },
+         {
+            "name":"Ever Clean",
+            "urlMatch":"everclean.com"
+         },
+         {
+            "name":"Formula 409",
+            "urlMatch":"formula409.com"
+         },
+         {
+            "name":"Gumption Cleanser"
+         },
+         {
+            "name":"Pine-Sol",
+            "urlMatch":"pinesol.com"
+         },
+         {
+            "name":"Brita",
+            "urlMatch":"brita.com"
+         },
+         {
+            "name":"Hidden Valley",
+            "urlMatch":"hiddenvalley.com"
+         },
+         {
+            "name":"Fresh Step",
+            "urlMatch":"freshstep.com"
+         },
+         {
+            "name":"Burt's Bees",
+            "urlMatch":"burtsbees.com",
+            "sources":"https://archive.is/4NbLi"
+         }
+      ]
+   },
+   {
       "name":"GCHQ",
       "urlMatch":"gchq.gov.uk",
       "text":"GCHQ engage in racism and push wokeness.",
@@ -770,9 +1300,15 @@
       "sources":"https://archive.is/yTIaS"
    },
    {
+      "name":"Northern School of Contemporary Dance",
+      "urlMatch":"nscd.ac.uk",
+      "text":"Northern School of Contemporary Dance push wokeness and racism.",
+      "sources":"https://archive.ph/6e5G5"
+   },
+   {
       "name":"Stripe",
       "urlMatch":"stripe.",
-      "text":"Stripe bans people from usings it's payment services for arbitrary rwweasons.",
+      "text":"Stripe bans people from usings its payment services for arbitrary reasons.",
       "sources":"https://archive.is/wip/sV89G,https://archive.is/UshUE"
    },
    {
@@ -803,26 +1339,21 @@
    },
    {
       "name":"Broders' Restaurants",
-      "otherNames":[
-         "Broders’ Restaurants"
-      ],
       "urlMatch":"brodersrestaurants.com",
       "text":"Broders' Restaurants push wokeness and racism.",
       "sources":"https://archive.md/wip/nWfzO"
    },
    {
       "name":"PayPal",
-      "otherNames":[
-         "Paypal"
-      ],
+	  "ignoreCase": "1",
       "urlMatch":"paypal.",
-      "text":"PayPal engages in wokeness and cancel culture, banning people and companies from their service based on arbitrary political reasons.",
+      "text":"PayPal engages in wokeness, banning people and companies from their service based on arbitrary political reasons.",
       "sources":"https://archive.is/wip/La4eJ,https://archive.is/ID68p"
    },
    {
       "name":"Venmo",
       "urlMatch":"venmo.com",
-      "text":"Venmo engages in wokeness and cancel culture, banning people and companies from their service based on arbitrary political reasons.",
+      "text":"Venmo engages in wokeness, banning people and companies from their service based on arbitrary political reasons.",
       "sources":"https://archive.is/ID68p,https://archive.is/wip/La4eJ"
    },
    {
@@ -859,7 +1390,7 @@
    {
       "name":"Harris Teeter",
       "urlMatch":"harristeeter.com",
-      "text":"Harris Teeter bans pro-America items from it's stores.",
+      "text":"Harris Teeter bans pro-America items from its stores.",
       "sources":"https://archive.ph/Lpe5k"
    },
    {
@@ -870,11 +1401,7 @@
    },
    {
       "name":"Dick's",
-	  "otherNames":[
-		 "Dick’s",
-		 "DICK'S",
-		 "DICK’S"
-	  ],
+	  "ignoreCase": "1",
       "urlMatch":"dickssportinggoods.com",
       "text":"Dick's removes items from its store for political reasons.",
       "sources":"https://archive.ph/wip/3dpMA,https://archive.ph/ulCYm"
@@ -882,7 +1409,7 @@
    {
       "name":"State Farm",
       "urlMatch":"statefarm.com",
-      "text":"State Farm push wokeness for social justice.",
+      "text":"State Farm push wokeness.",
       "sources":"https://archive.ph/dJTt4,https://archive.ph/wip/k3Ejh"
    },
    {
@@ -891,15 +1418,14 @@
          "Bed Bath & Beyond"
       ],
       "urlMatch":"bedbathandbeyond.",
-      "text":"Bed Bath & Beyond bans products from it's stores based on the product owners political belief.",
+      "text":"Bed Bath & Beyond bans products from its stores based on the product owners political belief.",
       "sources":"https://archive.is/Dqs3v,https://archive.is/oT4Jd",
-      "childText":"{1} bans products from it's stores based on the product owners political belief.",
+      "childText":"{1} bans products from its stores based on the product owners political belief.",
       "children":[
          {
             "name":"Kohls",
             "otherNames":[
-               "Kohl's",
-               "Kohl’s"
+               "Kohl's"
             ],
             "urlMatch":"kohls."
          },
@@ -921,15 +1447,11 @@
          },
          {
             "name":"BJ's Wholesale Club",
-            "otherNames":[
-               "BJ’s Wholesale Club"
-            ],
             "urlMatch":"bjs.com"
          },
          {
             "name":"Today's Shopping Choice",
             "otherNames":[
-               "Today’s Shopping Choice",
                "The Shopping Channel"
             ],
             "urlMatch":"tsc.ca"
@@ -956,9 +1478,6 @@
          },
          {
             "name":"Coborn's",
-            "otherNames":[
-               "Coborn’"
-            ],
             "urlMatch":"coborns.com"
          },
          {
@@ -970,10 +1489,7 @@
             "urlMatch":"costco."
          },
          {
-            "name":"Sam’s Club",
-            "otherNames":[
-               "Sam's Club"
-            ],
+            "name":"Sam's Club",
             "urlMatch":"samsclub."
          }
       ]
@@ -1026,9 +1542,7 @@
    },
    {
       "name":"LEGO",
-      "otherNames":[
-         "Lego"
-      ],
+	  "ignoreCase": "1",
       "urlMatch":"lego.com",
       "text":"LEGO engages in wokeness pushing social justice.",
       "sources":"https://archive.is/wip/92asf"
@@ -1149,16 +1663,37 @@
       "sources":"https://archive.is/hZEBP,https://archive.is/wip/XjzYZ"
    },
    {
+      "name":"Penguin Books",
+      "urlMatch":"penguin.com",
+      "text":"Penguin Books push wokeness",
+      "sources":"https://archive.is/wip/ZWMMb"
+   },
+   {
+      "name":"Puffin",
+      "text":"The publisher Puffin push wokeness",
+      "sources":"https://archive.is/wip/ZWMMb"
+   },
+   {
       "name":"Wizards of the Coast",
       "urlMatch":"company.wizards",
       "text":"Wizards of the Coast push wokeness",
-      "sources":"https://archive.is/N9poK"
+      "sources":"https://archive.is/N9poK,https://archive.is/0EFag"
+   },
+   {
+      "name":"Dungeons & Dragons",
+      "urlMatch":"dnd.wizards",
+      "text":"Dungeons & Dragons push wokeness and racism",
+      "sources":"https://archive.is/N9poK,https://archive.is/0EFag"
+   },
+   {
+      "name":"Magic: The Gathering",
+      "urlMatch":"magic.wizards.",
+      "text":"Magic: The Gathering push woke behavior, banning playing cards they claim contain \"racist depictions\".",
+      "sources":"https://archive.is/QA1au"
    },
    {
       "name":"USA TODAY",
-      "otherNames":[
-         "USA Today"
-      ],
+	  "ignoreCase": "1",
       "urlMatch":"usatoday.com",
       "text":"USA TODAY push wokeness",
       "sources":"https://archive.is/MVHdS"
@@ -1167,7 +1702,6 @@
       "name":"Kellogg's",
       "otherNames":[
          "Kellogg Company",
-         "Kellogg’s",
          "Kelloggs"
       ],
       "urlMatch":"kelloggs.com",
@@ -1181,10 +1715,68 @@
       "sources":"https://archive.is/oeOHL"
    },
    {
+      "name":"Honey Birdette",
+      "urlMatch":"honeybirdette.com",
+      "text":"Honey Birdette push wokeness",
+      "sources":"https://archive.is/wip/sy490,https://archive.is/wip/5K0In,https://archive.is/wip/wJJcM"
+   },
+   {
       "name":"Naughty Dog",
       "urlMatch":"naughtydog.com",
       "text":"Naughty Dog try to deplatform or shut down people who critizise them for pushing wokeness",
       "sources":"https://archive.is/tjdrw"
+   },
+   {
+      "name":"Fairfax Bar and Grill",
+      "urlMatch":"thefairfaxbloomington.com",
+      "text":"Fairfax Bar and Grill push wokeness",
+      "sources":"https://archive.is/wip/pTt8b,https://archive.is/ZV0Je"
+   },
+   {
+      "name":"Anheuser-Busch",
+      "urlMatch":"anheuser-busch.com",
+	  "otherNames":[
+		"Anheuser Busch"
+	  ],
+      "text":"Anheuser-Busch's brands push wokeness.",
+      "sources":"https://archive.is/wip/vTAOY,https://archive.is/XDGwV,https://archive.is/NUtDT",
+      "childText":"{1}'s parent company push wokeness.",
+      "children":[
+         {
+            "name":"Bud Light",
+            "urlMatch":"budlight.com"
+         },
+         {
+            "name":"Budweiser",
+            "urlMatch":"budweiser.com"
+         },
+         {
+            "name":"Big Wave"
+         },
+         {
+            "name":"Michelob Ultra",
+            "urlMatch":"michelobultra.com"
+         },
+         {
+            "name":"Stella Artois",
+            "urlMatch":"stellaartois.com"
+         },
+         {
+            "name":"Cutwater Spirits",
+            "urlMatch":"cutwaterspirits.com"
+         },
+         {
+            "name":"Busch Light",
+            "urlMatch":"busch.com"
+         },
+         {
+            "name":"Estrella Jalisco",
+            "urlMatch":"estrellajalisco.com"
+         },
+         {
+            "name":"Nütrl"
+         }
+      ]
    },
    {
       "name":"Leesa",
@@ -1400,9 +1992,7 @@
    },
    {
       "name":"Diplom-is",
-      "otherNames":[
-         "Diplom-Is"
-      ],
+	  "ignoreCase": "1",
       "urlMatch":"diplom-is.no",
       "text":"Diplom-is push wokeness, changing branding that depicts indigenous people.",
       "linkUrl":"hennig-olsen.no",
@@ -1465,18 +2055,21 @@
    },
    {
       "name":"Barnardo's",
-      "otherNames":[
-         "Barnardo’s"
-      ],
       "urlMatch":"barnardos.org.uk",
       "text":"Barnardo's push wokeness and racism.",
       "sources":"https://archive.md/wip/dhHMb"
    },
    {
+      "name":"Metzger Bar and Butchery",
+	  "otherNames":[
+		"Metzger Bar & Butchery"
+	  ],
+      "urlMatch":"metzgerbarandbutchery.com",
+      "text":"Metzger Bar & Butchery push wokeness and cancel culture.",
+      "sources":"https://archive.ph/wip/FdRb9"
+   },
+   {
       "name":"Sainsbury's",
-      "otherNames":[
-         "Sainsbury’s"
-      ],
       "urlMatch":"sainsburys.co.uk",
       "text":"Sainsbury's push wokeness and racism.",
       "sources":"https://archive.md/wip/D4pwL,https://archive.md/glIVh"
@@ -1485,12 +2078,24 @@
       "name":"Wikipedia",
       "urlMatch":"wikipedia.",
       "text":"Wikipedia edits articles based on political ideology and push social justice naratives.",
-      "sources":"https://archive.md/wip/DrbUX,https://archive.is/HBFwM,https://archive.today/OVhRh"
+      "sources":"https://archive.md/wip/DrbUX,https://archive.is/HBFwM,https://archive.today/OVhRh.https://archive.ph/YsYkh"
+   }, 
+   {
+      "name":"Wikimedia",
+      "urlMatch":"wikipedia.org",
+      "text":"Wikimedia administers Wikipedio who edits articles based on political ideology and push social justice naratives.",
+      "sources":"https://archive.md/wip/DrbUX,https://archive.is/HBFwM,https://archive.today/OVhRh,https://archive.ph/YsYkh"
+   },
+   {
+      "name":"University of Minnesota",
+      "urlMatch":"twin-cities.umn.edu",
+      "text":"University of Minnesota push wokeness.",
+      "sources":"https://archive.ph/4sRvi"
    },
    {
       "name":"Amazon",
       "urlMatch":"amazon.",
-      "text":"Amazon push wokeness, deplatform customers, and support riots for social justice.",
+      "text":"Amazon push wokeness, deplatform customers, and support riots.",
       "sources":"https://archive.is/lBR4u,https://archive.today/71mqi,https://archive.is/wip/bA23R",
       "childText":"{1}'s owner {2}",
       "children":[
@@ -1630,19 +2235,14 @@
          },
          {
             "name":"Honey Maid",
-            "otherNames":[
-               "HONEY MAID"
-            ]
+			"ignoreCase": "1"
          },
          {
             "name":"Hu Products"
          },
          {
             "name":"Lu Biscuits",
-            "otherNames":[
-               "LU Biscuits",
-               "lu biscuits"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"lu.fr"
          },
          {
@@ -1659,7 +2259,7 @@
          {
             "name":"Oreo",
             "urlMatch":"oreo.",
-            "text":"Oreo push wokeness and diversity for social justice.",
+            "text":"Oreo push wokeness.",
             "sources":"https://archive.is/Fb5NM"
          },
          {
@@ -1717,6 +2317,18 @@
       "sources":"https://archive.is/wip/8pVKb,https://archive.is/tR9kr"
    },
    {
+      "name":"First-avenue Minneapolis",
+      "urlMatch":"first-avenue.com",
+      "text":"First-avenue push wokeness and racism.",
+      "sources":"https://archive.ph/YBFkA"
+   },
+   {
+      "name":"Chanhassen Dinner Theatres",
+      "urlMatch":"chanhassendt.com",
+      "text":"Chanhassen Dinner Theatres push wokeness and racism.",
+      "sources":"https://archive.ph/b8UZ5"
+   },
+   {
       "name":"DC Entertainment",
       "text":"DC Entertainment push wokeness in their comics.",
       "sources":"https://archive.is/wip/8pVKb,https://archive.is/tR9kr"
@@ -1740,6 +2352,12 @@
       "sources":"https://archive.is/wip/DVxkK"
    },
    {
+      "name":"Stonewall",
+      "urlMatch":"stonewall.org.uk",
+      "text":"Stonewall push wokeness and try to groom children.",
+      "sources":"https://archive.ph/CF00M"
+   },
+   {
       "name":"Delta Airlines",
       "otherNames":[
          "Delta Air Lines"
@@ -1750,9 +2368,7 @@
    },
    {
       "name":"NBCUniversal",
-      "otherNames":[
-         "NBCUNIVERSAL"
-      ],
+	  "ignoreCase": "1",
       "urlMatch":"nbcuniversal.",
       "text":"NBCUniversal push woke behavior by deleting old series and shows based on modern views on \"racism\".",
       "sources":"https://archive.is/wip/L8eyH"
@@ -1795,9 +2411,7 @@
    },
    {
       "name":"Foodora",
-      "otherNames":[
-         "foodora"
-      ],
+	  "ignoreCase": "1",
       "urlMatch":"foodora.",
       "text":"Foodora push woke behavior by increasing prices for men on womens day."
    },
@@ -1817,22 +2431,20 @@
       "name":"Merriam-Webster",
       "urlMatch":"merriam-webster.",
       "text":"Merriam-Webster push wokeness, changing definitions of words based on political ideology.",
-      "sources":"https://archive.is/aqhWY"
+      "sources":"https://archive.is/aqhWY,https://archive.ph/wip/dPjjh"
+   },
+   {
+      "name":"Cambridge Dictionary",
+      "urlMatch":"dictionary.cambridge.org",
+      "text":"Cambridge Dictionary push wokeness, changing definitions of words based on political ideology.",
+      "sources":"https://archive.vn/wip/0KyrL,https://archive.vn/rb2Pm"
    },
    {
       "name":"Ebay",
-      "otherNames":[
-         "eBay"
-      ],
+	  "ignoreCase": "1",
       "urlMatch":"ebay.",
       "text":"Ebay push wokness supporting riots in the name of social justice and ban normal books such as Dr Seuss.",
       "sources":"https://archive.is/TYTIz,https://archive.is/wip/kau3L"
-   },
-   {
-      "name":"Magic: The Gathering",
-      "urlMatch":"magic.wizards.",
-      "text":"Magic: The Gathering push woke behavior, banning playing cards they claim contain \"racist depictions\".",
-      "sources":"https://archive.is/QA1au"
    },
    {
       "name":"Major League Baseball",
@@ -1840,7 +2452,7 @@
          "MLB"
       ],
       "urlMatch":"mlb.com",
-      "text":"Major League Baseball push wokeness for social justice and cancel culture.",
+      "text":"Major League Baseball push wokeness and cancel culture.",
       "sources":"https://archive.is/wip/shndE",
       "childText":"{1} push wokeness, changing branding that depicts indigenous people.",
       "children":[
@@ -1888,13 +2500,13 @@
    {
       "name":"American Booksellers Association",
       "urlMatch":"bookweb.org",
-      "text":"American Booksellers Association push wokeness for social justice.",
+      "text":"American Booksellers Association push wokeness.",
       "sources":"https://archive.ph/wip/HZsjc"
    },
    {
       "name":"United Airlines",
       "urlMatch":"united.com",
-      "text":"United Airlines push wokeness for social justice",
+      "text":"United Airlines push wokeness",
       "sources":"https://archive.is/wip/cqItT"
    },
    {
@@ -1911,7 +2523,7 @@
       "urlMatch":"nbc.",
       "text":"NBC push wokeness.",
       "sources":"https://archive.is/wip/MS8Nw,https://archive.is/wip/QS9jM",
-      "childText":"{1} push cancel culture and push wokeness for social justice",
+      "childText":"{1} push cancel culture and push wokeness",
       "children":[
          {
             "name":"Dick Clark Productions",
@@ -2071,9 +2683,6 @@
          },
          {
             "name":"Mott's",
-            "otherNames":[
-               "Mott’s"
-            ],
             "urlMatch":"motts.com"
          },
          {
@@ -2088,16 +2697,10 @@
          },
          {
             "name":"Tully's Coffee",
-            "otherNames":[
-               "Tully’s Coffee"
-            ],
             "urlMatch":".tullys."
          },
          {
             "name":"Timothy's World Coffee",
-            "otherNames":[
-               "Timothy’s World Coffee"
-            ],
             "urlMatch":"timothyscafes.com"
          },
          {
@@ -2115,10 +2718,7 @@
             "urlMatch":"canadadry.com"
          },
          {
-            "name":"Canfield's",
-            "otherNames":[
-               "Canfield’s"
-            ]
+            "name":"Canfield's"
          },
          {
             "name":"Clamato brand",
@@ -2173,9 +2773,6 @@
          },
          {
             "name":"Stewart's Fountain Classics",
-            "otherNames":[
-               "Stewart’s Fountain Classics"
-            ],
             "urlMatch":"drinkstewarts.com"
          },
          {
@@ -2197,7 +2794,7 @@
    {
       "name":"PepsiCo",
       "urlMatch":"pepsico.",
-      "text":"PepsiCo push wokeness for social justice.",
+      "text":"PepsiCo push wokeness.",
       "sources":"https://archive.is/a3Zfo",
       "childText":"{1}'s owner {2}",
       "children":[
@@ -2223,9 +2820,6 @@
          },
          {
             "name":"Cap'n Crunch",
-            "otherNames":[
-               "Cap’n Crunch"
-            ],
             "urlMatch":"capncrunch.com"
          },
          {
@@ -2260,9 +2854,7 @@
          },
          {
             "name":"IZZE ",
-            "otherNames":[
-               "Izze"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"izze.com"
          }
       ]
@@ -2417,15 +3009,15 @@
          {
             "name":"JPMorgan Chase",
             "otherNames":[
-               "Chase Bank"
+               "Chase Bank", 
+			   "J.P. Morgan", 
+			   "JP Morgan Chase"
             ],
             "urlMatch":"jpmorganchase."
          },
          {
             "name":"Aflac",
-            "otherNames":[
-               "AFLAC"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"aflac."
          },
          {
@@ -2670,9 +3262,7 @@
          },
          {
             "name":"EOS Lip Balm",
-            "otherNames":[
-               "Eos Lip Balm"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"evolutionofsmooth.com"
          },
          {
@@ -2720,9 +3310,7 @@
          },
          {
             "name":"GC Ungo Immigration Law",
-            "otherNames":[
-               "GC UNGO IMMIGRATION LAW"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"gcungoimmigration.com"
          },
          {
@@ -3033,9 +3621,7 @@
          },
          {
             "name":"Participant Inc",
-            "otherNames":[
-               "PARTICIPANT INC"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"participant.com"
          },
          {
@@ -3208,9 +3794,7 @@
          },
          {
             "name":"Sweetgreen",
-            "otherNames":[
-               "sweetgreen"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"sweetgreen.com"
          },
          {
@@ -3403,7 +3987,7 @@
    {
       "name":"Procter & Gamble",
       "urlMatch":"pgcareers.",
-      "text":"Procter & Gamble push wokeness for social justice.",
+      "text":"Procter & Gamble push wokeness.",
       "sources":"https://archive.is/JSMO4",
       "childText":"{1}'s owner {2}",
       "children":[
@@ -3507,9 +4091,7 @@
          },
          {
             "name":"Mr.Clean",
-            "otherNames":[
-               "mr.Clean"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"mrclean."
          },
          {
@@ -3611,7 +4193,7 @@
          {
             "name":"Gillette",
             "urlMatch":"gillette.",
-            "text":"Gillette push wokeness  for social justice and accuse men of \"toxic masculinity\".",
+            "text":"Gillette push wokeness and accuse men of \"toxic masculinity\".",
             "sources":"https://archive.is/JSMO4,https://archive.is/VxAyc"
          }
       ]
@@ -3619,7 +4201,7 @@
    {
       "name":"Unilever",
       "urlMatch":"unilever.",
-      "text":"Unilever push wokeness for social justice.",
+      "text":"Unilever push wokeness.",
       "sources":"https://archive.is/Ve2ZC",
       "childText":"{1}'s owner {2}",
       "children":[
@@ -3670,9 +4252,9 @@
          {
             "name":"PONDS",
             "otherNames":[
-               "Pond's",
-               "Ponds"
+               "Pond's"
             ],
+			"ignoreCase": "1",
             "urlMatch":"ponds."
          },
          {
@@ -3829,14 +4411,14 @@
    {
       "name":"72andSunny",
       "urlMatch":"72andsunny.",
-      "text":"72andSunny push wokeness for social justice.",
+      "text":"72andSunny push wokeness.",
       "sources":"https://archive.is/B1x7Y",
-      "childText":"{1} push wokeness for social justice",
+      "childText":"{1} push wokeness",
       "children":[
          {
             "name":"Human Rights Campaign",
             "urlMatch":"hrc.org",
-            "sources":"https://archive.is/WvPIe"
+            "sources":"https://archive.is/wip/YtvXb"
          },
          {
             "name":"Nestlé",
@@ -3888,7 +4470,7 @@
          {
             "name":"Ford",
             "urlMatch":"ford.",
-            "sources":"https://archive.is/mhQMT"
+            "sources":"https://archive.is/wip/JDCY6"
          },
          {
             "name":"MSI",
@@ -3919,7 +4501,7 @@
                "BBC"
             ],
             "urlMatch":"bbc.",
-            "text":"BBC push racism and wokeness for social justice.",
+            "text":"BBC push racism and wokeness.",
             "sources":"https://archive.today/IWQtV,https://archive.is/wip/iRAcy"
          },
          {
@@ -4036,8 +4618,9 @@
          },
          {
             "name":"Adidas",
+			"ignoreCase": "1",
             "urlMatch":"adidas.",
-            "sources":"https://archive.is/ezQ22"
+            "sources":"https://archive.is/ezQ22,https://archive.is/yqsKI"
          },
          {
             "name":"Barclays Bank",
@@ -4138,14 +4721,6 @@
             "sources":"https://archive.is/ha0jP"
          },
          {
-            "name":"Burt’s Bees",
-            "otherNames":[
-               "Burt's Bees"
-            ],
-            "urlMatch":"burts.",
-            "sources":"https://archive.is/4NbLi"
-         },
-         {
             "name":"Cadillac",
             "urlMatch":"cadillac.",
             "sources":"https://archive.is/bS60C"
@@ -4197,9 +4772,7 @@
          },
          {
             "name":"CORSAIR",
-            "otherNames":[
-               "Corsair"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"corsair.",
             "sources":"https://archive.is/5S5DY"
          },
@@ -4221,7 +4794,7 @@
          {
             "name":"CVS",
             "urlMatch":"cvs.",
-            "sources":"https://archive.is/DbBSV"
+            "sources":"https://archive.is/DbBSV,https://archive.is/wip/3sL0I"
          },
          {
             "name":"DHL Express",
@@ -4235,16 +4808,14 @@
          },
          {
             "name":"DIRECTV",
-			"otherNames":[
-				"DirecTV "
-			],
+			"ignoreCase": "1",
             "urlMatch":"directv.",
-            "sources":"https://archive.is/hhBG4,https://archive.is/wip/y5pge"
+            "sources":"https://archive.is/hhBG4"
          },
          {
             "name":"Maybelline",
             "urlMatch":"maybelline.",
-            "sources":"https://archive.is/wip/YBjSq"
+            "sources":"https://archive.is/wip/YBjSq,https://archive.is/PZmNh"
          },
          {
             "name":"Doritos",
@@ -4393,10 +4964,7 @@
             "sources":"https://archive.is/B81pI"
          },
          {
-            "name":"Harry’s",
-            "otherNames":[
-               "Harry's"
-            ],
+            "name":"Harry's",
             "urlMatch":"harrys.",
             "sources":"https://archive.is/mE4NN"
          },
@@ -4416,10 +4984,7 @@
             "sources":"https://archive.is/oiUyY"
          },
          {
-            "name":"Hershey’s",
-            "otherNames":[
-               "Hershey's"
-            ],
+            "name":"Hershey's",
             "urlMatch":"thehersheycompany.",
             "sources":"https://archive.is/ZQ5zD"
          },
@@ -4458,9 +5023,7 @@
          },
          {
             "name":"Holzweiler",
-            "otherNames":[
-               "HOLZWEILER"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"holzweileroslo.",
             "sources":"https://archive.is/wip/gjSWC"
          },
@@ -4543,9 +5106,8 @@
             "sources":"https://archive.is/T7nwc"
          },
          {
-            "name":"Levi’s",
+            "name":"Levi's",
             "otherNames":[
-               "Levi's",
                "Levi Strauss"
             ],
             "urlMatch":"levi.",
@@ -4562,7 +5124,7 @@
             "sources":"https://archive.is/sX5zb"
          },
          {
-            "name":"L’Oreal Paris",
+            "name":"L'Oréal",
             "urlMatch":"lorealparis.",
             "sources":"https://archive.is/Jfelo"
          },
@@ -4572,10 +5134,7 @@
             "sources":"https://archive.is/vf6J7"
          },
          {
-            "name":"Lowe’s",
-            "otherNames":[
-               "Lowe's"
-            ],
+            "name":"Lowe's",
             "urlMatch":"lowes.",
             "sources":"https://archive.is/V5UFz"
          },
@@ -4620,10 +5179,7 @@
             "sources":"https://archive.is/IGXA1"
          },
          {
-            "name":"McDonald’s",
-            "otherNames":[
-               "McDonald's"
-            ],
+            "name":"McDonald's",
             "urlMatch":"mcdonalds.",
             "sources":"https://archive.is/jOZ65"
          },
@@ -4654,9 +5210,7 @@
          },
          {
             "name":"NCSOFT",
-            "otherNames":[
-               "NCsoft"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"ncsoft.",
             "sources":"https://archive.is/OVPVP"
          },
@@ -4747,10 +5301,7 @@
             "sources":"https://archive.is/9szCf"
          },
          {
-            "name":"Popeye’s",
-            "otherNames":[
-               "Popeye's"
-            ],
+            "name":"Popeye's",
             "urlMatch":"popeyes.",
             "sources":"https://archive.is/CzlHd"
          },
@@ -4810,10 +5361,7 @@
             "sources":"https://archive.is/v0nat"
          },
          {
-            "name":"Reese’s",
-            "otherNames":[
-               "Reese's"
-            ],
+            "name":"Reese's",
             "urlMatch":"thehersheycompany.",
             "sources":"https://archive.is/Rc4pJ"
          },
@@ -4840,7 +5388,7 @@
          {
             "name":"Scholastic",
             "urlMatch":"scholastic.",
-            "sources":"https://archive.is/fFmX3"
+            "sources":"https://archive.is/fFmX3,https://archive.is/wip/ZWMMb"
          },
          {
             "name":"Sega",
@@ -4930,9 +5478,9 @@
          {
             "name":"Grammys",
             "otherNames":[
-               "GRAMMYs",
                "Grammy Award"
             ],
+			"ignoreCase": "1",
             "urlMatch":"grammy.",
             "sources":"https://archive.is/xWhY9"
          },
@@ -5100,10 +5648,7 @@
             "sources":"https://archive.is/CGA4n"
          },
          {
-            "name":"Wendy’s",
-            "otherNames":[
-               "Wendy's"
-            ],
+            "name":"Wendy's",
             "urlMatch":"wendys.",
             "sources":"https://archive.is/7X4Nu"
          },
@@ -5271,9 +5816,7 @@
          },
          {
             "name":"thatgamecompany",
-            "otherNames":[
-               "Thatgamecompany"
-            ],
+			"ignoreCase": "1",
             "urlMatch":"thatgamecompany.",
             "sources":"https://archive.is/7po1C"
          },

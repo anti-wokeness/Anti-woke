@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": "Anti-woke",
-	"version": "1.5.0.6",
+	"version": "1.5.1.0",
 	"description": "The anti-wokeness extension. Shows warnings about woke companies and companies that engage in cancel culture.",
 	"permissions" : ["storage"],
 	"host_permissions": ["https://api.npoint.io/*"],

@@ -2,7 +2,7 @@
 function isEmpty(object) {
 	return object == null || (Object.keys(object).length === 0 && object.constructor === Object) || object == '';
 }
-
+ 
 function clearHidden(){
 	chrome.storage.local.remove(['hide'],function(){
 		var error = chrome.runtime.lastError;
