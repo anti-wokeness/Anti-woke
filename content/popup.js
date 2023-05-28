@@ -1,4 +1,3 @@
-
 const checkbox1 = document.getElementById('checkbox1Freedom');
 const checkbox2 = document.getElementById('checkbox2Freedom');
 
@@ -30,6 +29,16 @@ function addListItemElement(item, parentElement){
 	element1.classList.add('limitFlexWidth1Freedom');
 	element1.innerText = item.name;
 	
+	if(!isEmpty(item.searchNames)){
+		for(let i = 0; i < item.searchNames.length; i++)
+		{
+			let element3 = document.createElement('div');
+			element3.innerText = item.searchNames[i];
+			element3.style.display = 'none';
+			element1.appendChild(element3);
+		}
+	}
+	
 	let element2 = document.createElement('ul');
 	element2.classList.add('itemListElementFreedom');
 	element2.classList.add('limitFlexWidth2Freedom');
@@ -44,64 +53,92 @@ function addListItemElement(item, parentElement){
 	parentElement.appendChild(elementParent);
 }
 
-document.getElementById('searchFieldFreedom').addEventListener('keyup', function(){
-	let liElements = document.getElementById('itemsDivFreedom').firstChild.getElementsByTagName('li');
+function setUpFromList(json, itemsDiv){
+	let flattenedUrlsToWarn = flattenUrlsToWarn(json);
+	flattenedUrlsToWarn.sort(function(a,b) {return (a.name.toLowerCase() > b.name.toLowerCase()) ? 1 : ((b.name.toLowerCase() > a.name.toLowerCase()) ? -1 : 0);} );
 	
-	let displayable = [];
+	headerListElement = document.createElement('li');
+	headerListElement.classList.add('headerListElementFreedom');
 	
-	for (let i = 0; i < liElements.length; i++) {
-		const content = liElements[i].getElementsByTagName('ul')[0];
-		const txtValue = content.textContent || content.innerText;
-	 
-		if (txtValue.toUpperCase().indexOf(this.value.toUpperCase()) > -1)
-		{
-			liElements[i].style.display = 'inline-block';
-			displayable.push(liElements[i]);
+	for(item in flattenedUrlsToWarn)
+	{
+		let flatItem = flattenedUrlsToWarn[item];
+		if(!flatItem.duplicate){
+			addListItemElement(flatItem, headerListElement);
 		}
-		else
-			liElements[i].style.display = 'none';
+	}
+	itemsDiv.appendChild(headerListElement);
+}
+
+function resetSearch(){
+	let liElements = itemsDivWoke.firstChild.getElementsByTagName('li');
+	
+	let displayable = 0;
+	for (let i = 0; i < liElements.length; i++) {
+		liElements[i].style.display = 'block';
+		displayable++;
 	}
 
-	synchDivFreedom.textContent =  displayable.length + ' searchable results';
-	if(displayable.length <= 40)
+	synchDiv.textContent =  displayable + ' searchable results';
+	if(displayable <= 40)
 		headerListElement.classList.remove('hiddenFreedom');
 	else
 		headerListElement.classList.add('hiddenFreedom');
-});
-
-let headerListElement = document.createElement('li');
-let synchDivFreedom = document.getElementById('synchDivFreedom');
-async function main(result){	
-	if(isEmpty(result.urlsToWarn))
-		result.urlsToWarn = await getUrlsToWarnBackup();
-	
-	const whitelistDiv = document.getElementById('whitelistDivFreedom');
-	
-	let flattenedUrlsToWarn = flattenUrlsToWarn(result.urlsToWarn);
-	flattenedUrlsToWarn.sort(function(a,b) {return (a.name.toLowerCase() > b.name.toLowerCase()) ? 1 : ((b.name.toLowerCase() > a.name.toLowerCase()) ? -1 : 0);} );
-	const itemsDiv = document.getElementById('itemsDivFreedom');
-	
-	headerListElement.classList.add('headerListElementFreedom');
-	headerListElement.classList.add('hiddenFreedom');
-	
-	for(item in flattenedUrlsToWarn)
-		addListItemElement(flattenedUrlsToWarn[item], headerListElement);
-	
-	itemsDiv.appendChild(headerListElement);
-	synchDivFreedom.textContent =  flattenedUrlsToWarn.length + ' searchable results';
 }
 
-chrome.storage.local.get(['lastSync', 'urlsToWarn'], function(result){
+let searchField;
+let synchDiv;
+let itemsDivWoke;
+let headerListElement;
+
+async function main(result){
+	searchField = document.getElementById('searchFieldFreedom');
+	synchDiv = document.getElementById('synchDivFreedom');
+	itemsDivWoke = document.getElementById('itemsDivFreedom');
+	
+	searchField.addEventListener('keyup', function(){
+		let liElements = document.getElementById('itemsDivFreedom').firstChild.getElementsByTagName('li');
+		
+		let displayable = 0;
+		for (let i = 0; i < liElements.length; i++) {
+			const content = liElements[i].getElementsByTagName('ul')[0];
+			const txtValue = content.textContent || content.innerText;
+			
+			if((similarity(txtValue, this.value) > 0.5) || (txtValue.toUpperCase().indexOf(this.value.toUpperCase()) > -1))
+			{
+				liElements[i].style.display = 'inline-block';
+				displayable++;
+			}
+			else
+				liElements[i].style.display = 'none';
+		}
+
+		synchDiv.textContent =  displayable + ' searchable results';
+		if(displayable <= 40)
+			headerListElement.classList.remove('hiddenFreedom');
+		else
+			headerListElement.classList.add('hiddenFreedom');
+	});
+	
+	if(isEmpty(result.woke))
+		result.woke = await getBackup('woke.json');
+	
+	setUpFromList(result.woke, itemsDivWoke);
+	resetSearch();
+}
+
+chrome.storage.local.get(['lastSync', 'woke'], function(result){
 	if(isDateInPast(result.lastSync)) 
 	{
-		fetch('https://api.npoint.io/284bf5ccecabbad9c324')
-		.then(response => response.json())
-		.then(urlsToWarnJson => {
-			chrome.storage.local.set({'lastSync': getTodayFormatted(), 'urlsToWarn': urlsToWarnJson});
-			result.urlsToWarn = urlsToWarnJson;
+		const urls = [getWokeUrl()];
+		Promise.all(
+			urls.map(url => fetch(url).then(json => json.json()))
+		).then(data => {
+			chrome.storage.local.set({'lastSync': getTodayFormatted(), 'woke': data[0]});
+			result.woke = data[0];
 			main(result);
 		}).catch(err => {
-			console.log('Failed to fetch urlsToWarn: ' + err);
+			console.log('Failed to fetch json: ' + err);
 			main(result);
 		});
 	}

@@ -43,8 +43,8 @@ function whitelistItem(storageKey, itemText, hideBackgroundElement){
 	storeItem(storageKey, itemText, hideBackgroundElement);
 }
 
-async function getUrlsToWarnBackup(){	
-	return await fetch(chrome.runtime.getURL('urlsToWarn.json'))
+async function getBackup(name){	
+	return await fetch(chrome.runtime.getURL(name))
 	.then(response => response.json())
 	.then(json => {
 		return json;

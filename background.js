@@ -10,8 +10,8 @@ function clearHidden(){
 			console.error(error);
 	});
 }
-
-function isVersionLowerThan(version, versionToCheck){
+	
+function isNewVersion(version, versionToCheck){
 	let versionSplit = version.split('.');
 	let checkSplit = versionToCheck.split('.');
 	
@@ -26,18 +26,26 @@ function isVersionLowerThan(version, versionToCheck){
 	
 	return false;
 }
-	
+
 chrome.runtime.onInstalled.addListener(function(details){
 	chrome.storage.local.get(['showBanner', 'underlineWords', 'version'], function(result){
 		if(details.reason == "install"){
 			if(isEmpty(result.showBanner))
 				chrome.storage.local.set({'showBanner': true});		
+			
 			if(isEmpty(result.underlineWords))
 				chrome.storage.local.set({'underlineWords': true});
 			
 			if(isEmpty(result.version))
 				chrome.runtime.openOptionsPage();
+			
 			chrome.storage.local.set({'version': chrome.runtime.getManifest().version});
+			
+			chrome.storage.local.remove(['lastSync'],function(){
+				var error = chrome.runtime.lastError;
+				if (error)
+					console.error(error);
+			});
 		}
 	});
 });

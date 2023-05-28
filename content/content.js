@@ -68,7 +68,6 @@ function createWarningBanner(warningElement, item){
 }
 
 function showBannerItem(flattenedUrlsToWarn, result){
-	
 	const whitelistURLs = [].concat(result.whitelist, result.hide).filter(function(url) { 
 		return url !== undefined && urlMatch(window.location.href, url.toString()); 
 	});
@@ -112,10 +111,10 @@ function showBannerItem(flattenedUrlsToWarn, result){
 }
 
 async function main(result){
-	if(isEmpty(result.urlsToWarn))
-		result.urlsToWarn = await getUrlsToWarnBackup();
+	if(isEmpty(result.woke))
+		result.woke = await getBackup('woke.json');
 	
-	const flattenedUrlsToWarn = flattenUrlsToWarn(result.urlsToWarn);
+	const flattenedUrlsToWarn = flattenUrlsToWarn(result.woke);
 	
 	if(result.underlineWords){
 		const underlineWhitelist = result.underlineWhitelist?.filter(function(item) { return item !== undefined; });
@@ -125,29 +124,32 @@ async function main(result){
 		
 		underlineWords(flattenedUrlsForUnderline, result);
 	}
-	
+		
 	if(result.showBanner)
-		showBannerItem(flattenedUrlsToWarn, result);
+		showBannerItem(flattenedUrlsToWarn, result);	
 }
 
-chrome.storage.local.get(['lastSync', 'urlsToWarn', 'whitelist', 'underlineWhitelist', 'hide', 'showBanner', 'underlineWords'], function(result){
-	if(!result.underlineWords && !result.showBanner)
-		return;
-	
-	if(isDateInPast(result.lastSync, 2))
-	{
-		fetch('https://api.npoint.io/284bf5ccecabbad9c324')
-		.then(response => response.json())
-		.then(urlsToWarnJson => {
-			chrome.storage.local.set({'lastSync': getTodayFormatted(), 'urlsToWarn': urlsToWarnJson});
-			result.urlsToWarn = urlsToWarnJson;
+if(!urlMatch(window.location.href, 'https://anti-woke.net')){
+	chrome.storage.local.get(['lastSync', 'woke', 'whitelist', 'underlineWhitelist', 'hide', 'showBanner', 'underlineWords'], function(result){
+		if(!result.underlineWords && !result.showBanner)
+			return;
+		
+		if(isDateInPast(result.lastSync))
+		{
+			const urls = [getWokeUrl(), getNotWokeUrl()];
+			Promise.all(
+				urls.map(url => fetch(url).then(json => json.json()))
+			).then(data => {
+				chrome.storage.local.set({'lastSync': getTodayFormatted(), 'woke': data[0]});
+				result.woke = data[0];
+				main(result);
+			}).catch(err => {
+				console.log('Failed to fetch json: ' + err);
+				main(result);
+			});
+		}
+		else {
 			main(result);
-		}).catch(err => {
-			console.log('Failed to fetch urlsToWarn: ' + err);
-			main(result);
-		});
-	}
-	else {
-		main(result);
-	}
-});
+		}
+	});
+}

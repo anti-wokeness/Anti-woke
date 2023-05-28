@@ -1,9 +1,56 @@
 
+function getWokeUrl(){
+	return 'https://api.npoint.io/f998e9a09ba383f73981';
+}
+function getNotWokeUrl() {
+	return 'https://api.npoint.io/c680525c1d05a9a8ebff';
+}
+
+function similarity(s1, s2) {
+	var longer = s1;
+	var shorter = s2;
+	if (s1.length < s2.length) {
+		longer = s2;
+		shorter = s1;
+	}
+	var longerLength = longer.length;
+	if (longerLength == 0) {
+		return 1.0;
+	}
+	return (longerLength - editDistance(longer, shorter)) / parseFloat(longerLength);
+}
+
+function editDistance(s1, s2) {
+	s1 = s1.toLowerCase();
+	s2 = s2.toLowerCase();
+
+	var costs = new Array();
+	for (var i = 0; i <= s1.length; i++) {
+		var lastValue = i;
+		for (var j = 0; j <= s2.length; j++) {
+			if (i == 0)
+				costs[j] = j;
+			else {
+				if (j > 0) {
+					var newValue = costs[j - 1];
+					if (s1.charAt(i - 1) != s2.charAt(j - 1))
+						newValue = Math.min(Math.min(newValue, lastValue), costs[j]) + 1;
+				costs[j - 1] = lastValue;
+				lastValue = newValue;
+				}
+			}
+		}
+		if (i > 0)
+			costs[s2.length] = lastValue;
+	}
+	return costs[s2.length];
+}
+
 function isEmpty(object) {
 	return object == null || (Object.keys(object).length === 0 && object.constructor === Object) || object == '';
 }
 
-function isDateInPast(dateString, daysInPast = 0){
+function isDateInPast(dateString, daysInPast = 1){
 	if(isEmpty(dateString))
 		return true;
 	
@@ -31,27 +78,43 @@ function getTodayFormatted(daysInPast = 0){
 
 function flattenUrlsToWarn(urlsToWarn){	
 	let flattened = [];
-	for(url in urlsToWarn){
-		let item = urlsToWarn[url];
+	const wokeText = urlsToWarn.woke;
+	const wokeRacistText = urlsToWarn.wokeRacist;
+	const companies = urlsToWarn.companies;
+	
+	for(url in companies){
+		let item = companies[url];
+		
+		if(isEmpty(item.text))
+			item.text = item.name + wokeText;
+		else if(item.text == '{wokeRacist}')
+			item.text = wokeRacistText;
+		
 		flattened.push(item);
+		item.searchNames = [];
 		
 		for(otherName in item.otherNames)
 		{
 			let itemCopy = Object.assign({}, item);
 			itemCopy.name = item.otherNames[otherName];
-						
+			itemCopy.duplicate = true;
+			item.searchNames.push(itemCopy.name);
 			if(item.name.toLowerCase() != itemCopy.name.toLowerCase())
 				flattened.push(itemCopy);
 		}
 		
 		for(child in item.children){
 			const itemChild = item.children[child];
+			itemChild.searchNames = [];
 			
 			if(isEmpty(itemChild.sources))
 				itemChild.sources = item.sources;
 			
 			if(isEmpty(itemChild.text)){
 				let childText = item.childText;
+				
+				if(isEmpty(childText))
+					childText = itemChild.name + wokeText
 				if(childText.includes('{1}'))
 					childText = childText.replace('{1}', itemChild.name);
 				if(childText.includes('{2}'))
@@ -63,13 +126,16 @@ function flattenUrlsToWarn(urlsToWarn){
 			{
 				let itemCopy = Object.assign({}, itemChild);
 				itemCopy.name = itemChild.otherNames[otherName];
-							
+				itemCopy.duplicate = true;
+				itemChild.searchNames.push(itemCopy.name);
 				if(itemCopy.name.toLowerCase() != itemChild.name.toLowerCase())
 					flattened.push(itemCopy);
 			}
-
+			
 			if(item.name.toLowerCase() != itemChild.name.toLowerCase())
+			{
 				flattened.push(itemChild);
+			}
 		}
 		item.children = null;
 	}

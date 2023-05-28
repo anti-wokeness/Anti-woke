@@ -1,7 +1,7 @@
 
 chrome.storage.local.get(['version'], function(result){
 	document.getElementById('versionDivFreedom').textContent = 'Version: ' + result.version;
-});
+}); 
 
 chrome.storage.local.get(['lastSync'], function(result){
 	const  months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
@@ -19,8 +19,7 @@ chrome.storage.local.get(['lastSync'], function(result){
 		todaySplit[1] = months[parseInt(todaySplit[1]) - 1];
 		displayString = todaySplit.join('-');
 	}
-	
-	document.getElementById('synchDivFreedom').textContent = 'Last updated: ' + displayString;
+	document.getElementById('updatedDivFreedom').textContent = 'Last updated: ' + displayString;
 });
 
 document.getElementById('buttonFreedom').addEventListener('click', function(){
@@ -78,11 +77,22 @@ function addListItemElement(item, parentElement){
 	
 	let element1 = document.createElement('ul');
 	element1.classList.add('itemListElementFreedom');
-	element1.classList.add('limitWidthFreedom');
+	element1.classList.add('limitWidth1');
 	element1.innerText = item.name;
+	
+	if(!isEmpty(item.searchNames)){
+		for(let i = 0; i < item.searchNames.length; i++)
+		{
+			let element3 = document.createElement('div');
+			element3.innerText = item.searchNames[i];
+			element3.style.display = 'none';
+			element1.appendChild(element3);
+		}
+	}
 	
 	let element2 = document.createElement('ul');
 	element2.classList.add('itemListElementFreedom');
+	element2.classList.add('limitWidth2');
 	
 	let div = document.createElement('span');
 	div.textContent = item.text;
@@ -94,23 +104,117 @@ function addListItemElement(item, parentElement){
 	parentElement.appendChild(elementParent);
 }
 
-document.getElementById('searchFieldFreedom').addEventListener('keyup', function(){
-  let liElements = document.getElementById('itemsDivFreedom').firstChild.getElementsByTagName('li');
+function DisplayNotWoke(){
+	itemsDivNotWoke.style.display = 'block';
+	itemsDivWoke.style.display = 'none';
+	resetSearch();
+}
+function DisplayWoke(){
+	itemsDivNotWoke.style.display = 'none';
+	itemsDivWoke.style.display = 'block';
+	resetSearch();
+}
 
-  for (let i = 0; i < liElements.length; i++) {
-    const content = liElements[i].getElementsByTagName('ul')[0];
-    const txtValue = content.textContent || content.innerText;
+function setUpFromList(json, itemsDiv){
+	let flattenedUrlsToWarn = flattenUrlsToWarn(json);
+	flattenedUrlsToWarn.sort(function(a,b) {return (a.name.toLowerCase() > b.name.toLowerCase()) ? 1 : ((b.name.toLowerCase() > a.name.toLowerCase()) ? -1 : 0);} );
 	
-    if (txtValue.toUpperCase().indexOf(this.value.toUpperCase()) > -1)
-		liElements[i].style.display = 'flex';
-    else
-		liElements[i].style.display = 'none';
-  }
-});
+	let headerListElement = document.createElement('li');
+	headerListElement.classList.add('headerListElementFreedom');
+	
+	for(item in flattenedUrlsToWarn)
+	{
+		let flatItem = flattenedUrlsToWarn[item];
+		if(!flatItem.duplicate)
+			addListItemElement(flatItem, headerListElement);
+	}
+	itemsDiv.appendChild(headerListElement);
+}
+
+function resetSearch(){
+	let liElements;
+	if(itemsDivWoke.style.display === 'block')
+		liElements = itemsDivWoke.firstChild.getElementsByTagName('li');
+	else
+		liElements = itemsDivNotWoke.firstChild.getElementsByTagName('li');
+	
+	let displayable = 0;
+	for (let i = 0; i < liElements.length; i++) {
+		liElements[i].style.display = 'block';
+		displayable++;
+	}
+
+	searchField.value = '';
+	synchDiv.textContent = displayable + ' searchable results.';
+}
+
+function openTab(evt, name, woke) {
+	var i, tabcontent, tablinks;
+	tabcontent = document.getElementsByClassName('tabcontent');
+	for (i = 0; i < tabcontent.length; i++) 
+		tabcontent[i].style.display = 'none';
+		
+	tablinks = document.getElementsByClassName('tablinks');
+	for (i = 0; i < tablinks.length; i++) 
+		tablinks[i].className = tablinks[i].className.replace(' active', '');
+	
+	let elem = document.getElementById(name);
+	elem.style.display = 'block';
+	evt.currentTarget.className += ' active';
+	
+	if(woke)
+		DisplayWoke();
+	else
+		DisplayNotWoke();
+}
+
+let searchField;
+let synchDiv;
+let itemsDivWoke;
+let itemsDivNotWoke;
 
 async function main(result){
-	if(isEmpty(result.urlsToWarn))
-		result.urlsToWarn = await getUrlsToWarnBackup();
+	synchDiv = document.getElementById('synchDivFreedom');
+	itemsDivWoke = document.getElementById('itemsDivWoke');
+	itemsDivNotWoke = document.getElementById('itemsDivNotWoke');
+	searchField = document.getElementById('searchFieldFreedom');
+	
+	document.getElementById('wokeButton').addEventListener('click', function (evt) { openTab(evt, 'woke', true); } );
+	document.getElementById('notWokeButton').addEventListener('click', function (evt) { openTab(evt, 'notWoke'); } );
+	
+	searchField.addEventListener('keyup', function(){
+		let liElements;
+		if(itemsDivWoke.style.display === 'block')
+			liElements = itemsDivWoke.firstChild.getElementsByTagName('li');
+		else
+			liElements = itemsDivNotWoke.firstChild.getElementsByTagName('li');
+
+		let displayable = 0;
+		for (let i = 0; i < liElements.length; i++) {
+			const content = liElements[i].getElementsByTagName('ul')[0];
+			const txtValue = content.textContent || content.innerText;
+			
+			if((similarity(txtValue, this.value) > 0.5) || (txtValue.toUpperCase().indexOf(this.value.toUpperCase()) > -1))
+			{
+				liElements[i].style.display = 'block';
+				displayable++;
+			}
+			else
+				liElements[i].style.display = 'none';
+		}
+		
+		synchDiv.textContent = displayable + ' searchable results.';
+	});
+
+	if(isEmpty(result.woke))
+		result.woke = await getBackup('woke.json');
+	if(isEmpty(result.notWoke))
+		result.notWoke = await getBackup('notWoke.json');
+	
+	setUpFromList(result.woke, itemsDivWoke);
+	setUpFromList(result.notWoke, itemsDivNotWoke);
+	resetSearch();
+	document.getElementById('wokeButton').click();	
 	
 	const whitelistDiv = document.getElementById('whitelistDivFreedom');	
 	const underlineWhitelist = [].concat(result.underlineWhitelist).filter(function(x) { return x !== undefined; })
@@ -138,32 +242,21 @@ async function main(result){
 			addItemElement(tempHiddenURLs[item], headerElement, 'hide');
 		whitelistDiv.appendChild(headerElement);
 	}
-		
-	let flattenedUrlsToWarn = flattenUrlsToWarn(result.urlsToWarn);
-	flattenedUrlsToWarn.sort(function(a,b) {return (a.name.toLowerCase() > b.name.toLowerCase()) ? 1 : ((b.name.toLowerCase() > a.name.toLowerCase()) ? -1 : 0);} );
-	const itemsDiv = document.getElementById('itemsDivFreedom');
-	
-	let headerListElement = document.createElement('li');
-	headerListElement.innerText = 'Websites';
-	headerListElement.classList.add('headerListElementFreedom');
-
-	for(item in flattenedUrlsToWarn)
-		addListItemElement(flattenedUrlsToWarn[item], headerListElement);
-	
-	itemsDiv.appendChild(headerListElement);
 }
 
-chrome.storage.local.get(['lastSync', 'urlsToWarn', 'whitelist', 'underlineWhitelist', 'hide'], function(result){
+chrome.storage.local.get(['lastSync', 'woke', 'notWoke', 'whitelist', 'underlineWhitelist', 'hide'], function(result){
 	if(isDateInPast(result.lastSync)) 
 	{
-		fetch('https://api.npoint.io/284bf5ccecabbad9c324')
-		.then(response => response.json())
-		.then(urlsToWarnJson => {
-			chrome.storage.local.set({'lastSync': getTodayFormatted(), 'urlsToWarn': urlsToWarnJson});
-			result.urlsToWarn = urlsToWarnJson;
+		const urls = [getWokeUrl(), getNotWokeUrl()];
+		Promise.all(
+			urls.map(url => fetch(url).then(json => json.json()))
+		).then(data => {
+			chrome.storage.local.set({'lastSync': getTodayFormatted(), 'woke': data[0], 'notWoke': data[1]});
+			result.woke = data[0];
+			result.notWoke = data[1];
 			main(result);
 		}).catch(err => {
-			console.log('Failed to fetch urlsToWarn: ' + err);
+			console.log('Failed to fetch json: ' + err);
 			main(result);
 		});
 	}

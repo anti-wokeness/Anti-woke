@@ -1,0 +1,5621 @@
+{
+   "woke":" push wokeness.",
+   "wokeRacist":" push wokeness and racism.",
+   "companies":[
+	   {
+		  "name":"New York Yankees",
+		  "urlMatch":"mlb.com/yankees",
+		  "sources":"https://archive.ph/wip/XsgQK"
+	   },
+	   {
+		  "name":"Redd Barna",
+		  "urlMatch":"reddbarna.no",
+		  "sources":"https://archive.is/wip/th5ir"
+	   },
+	   {
+		  "name":"Jean Paul",
+		  "urlMatch":"jeanpaulgaultier.com",
+		  "sources":"https://archive.is/TxXyT"
+	   },
+	   {
+		  "name":"Gay, Lesbian, and Straight Education Network",
+		  "otherNames":[
+			 "GLSEN"
+		  ],
+		  "urlMatch":"glsen.org",
+		  "sources":"https://archive.is/GqyCQ,https://archive.is/wip/FdF5f"
+	   },
+	   {
+		  "name":"UC Berkeley",
+		  "urlMatch":"berkeley.edu",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/DUeSl"
+	   },
+	   {
+		  "name":"George Washington University",
+		  "urlMatch":"gwu.edu",
+		  "sources":"https://archive.is/V85MO"
+	   },
+	   {
+		  "name":"Los Angeles Dodgers",
+		  "otherNames":[
+			 "LA Dodgers"
+		  ],
+		  "urlMatch":"berkeley.edu",
+		  "sources":"https://archive.is/wip/UhzIa,https://archive.is/wip/m2S9B"
+	   },
+	   {
+		  "name":"Alorica",
+		  "urlMatch":"alorica.com",
+		  "sources":"https://archive.is/wip/vowo9"
+	   },
+	   {
+		  "name":"Theatre Royal Stratford East",
+		  "urlMatch":"stratfordeast.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/pAwsj"
+	   },
+	   {
+		  "name":"Bunnings Warehouse",
+		  "urlMatch":"bunnings.com.au",
+		  "sources":"https://archive.is/wip/FtvlT"
+	   },
+	   {
+		  "name":"United Air Temp",
+		  "urlMatch":"unitedairtemp.com",
+		  "sources":"https://archive.is/mFiVO"
+	   },
+	   {
+		  "name":"NYC Health + Hospitals",
+		  "urlMatch":"nychealthandhospitals.org",
+		  "sources":"https://archive.is/aFMg2"
+	   },
+	   {
+		  "name":"Brand Federation",
+		  "urlMatch":"brandfederation.com",
+		  "sources":"https://archive.is/wip/e8kFb"
+	   },
+	   {
+		  "name":"Papillon Bergen",
+		  "urlMatch":"papillonbergen.no",
+		  "sources":"https://archive.is/wip/lmxgf"
+	   },
+	   {
+		  "name":"Center for Global Development",
+		  "urlMatch":"cgdev.org",
+		  "sources":"https://archive.is/r0cga"
+	   },
+	   {
+		  "name":"Corporate Equality Index",
+		  "urlMatch":"thehrcfoundation.org",
+		  "sources":"https://archive.is/7msmv"
+	   },
+	   {
+		  "name":"2Bears Tavern Group",
+		  "urlMatch":"2bearstaverngroup.com",
+		  "sources":"https://archive.is/BD5yu"
+	   },
+	   {
+		  "name":"Woolworths Supermarkets",
+		  "urlMatch":"woolworths.com.au",
+		  "sources":"https://archive.is/wip/C5sf9"
+	   },
+	   {
+		  "name":"Miller Lite",
+		  "urlMatch":"millerlite.com",
+		  "sources":"https://archive.is/wip/Vd8QP"
+	   },
+	   {
+		  "name":"Wesfarmers",
+		  "urlMatch":"wesfarmers.com.au",
+		  "sources":"https://archive.is/wip/mP4W2"
+	   },
+	   {
+		  "name":"Quantas",
+		  "urlMatch":"qantas.com",
+		  "sources":"https://archive.is/wip/xYRxd"
+	   },
+	   {
+		  "name":"World Economic Forum",
+		  "otherNames":[
+			 "WEF"
+		  ],
+		  "urlMatch":"weforum.org",
+		  "sources":"https://archive.is/wip/P2Bgs",
+		  "children":[
+			 {
+				"name":"Ginkgo Bioworks",
+				"urlMatch":"ginkgobioworks.com"
+			 },
+			 {
+				"name":"Cargill",
+				"urlMatch":"cargill.com"
+			 },
+			 {
+				"name":"Ecolab",
+				"urlMatch":"ecolab.com"
+			 },
+			 {
+				"name":"Jacobs",
+				"urlMatch":"jacobs.com"
+			 },
+			 {
+				"name":"Visa",
+				"urlMatch":"usa.visa.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Molson Coors",
+		  "urlMatch":"molsoncoors.com",
+		  "sources":"https://archive.is/wip/KjowM,https://archive.is/wip/rYHch"
+	   },
+	   {
+		  "name":"Change.org",
+		  "urlMatch":"change.org",
+		  "sources":"https://archive.is/RcgA7"
+	   },
+	   {
+		  "name":"NewsGuard",
+		  "urlMatch":"newsguardtech.com",
+		  "sources":"https://archive.is/tepQt"
+	   },
+	   {
+		  "name":"Check My Ads",
+		  "urlMatch":"checkmyads.org",
+		  "sources":"https://archive.is/fUGUZ"
+	   },
+	   {
+		  "name":"Streets Pub and Grub",
+		  "otherNames":[
+			 "Streets Pub & Grub"
+		  ],
+		  "urlMatch":"streetspubandgrub.com",
+		  "sources":"https://archive.is/wip/Iqu4k"
+	   },
+	   {
+		  "name":"University of Groningen",
+		  "urlMatch":"rug.nl",
+		  "text":"University of Groningen push wokeness and sexism.",
+		  "sources":"https://archive.is/wip/SOtOC"
+	   },
+	   {
+		  "name":"Cappelen Damm",
+		  "urlMatch":"cappelendamm.no",
+		  "sources":"https://archive.is/wip/RTfEU"
+	   },
+	   {
+		  "name":"HarperCollins",
+		  "urlMatch":"harpercollins.com",
+		  "sources":"https://archive.is/iFI0n"
+	   },
+	   {
+		  "name":"Centers for Disease Control",
+		  "otherNames":[
+			 "CDC"
+		  ],
+		  "urlMatch":"cdc.gov",
+		  "sources":"https://archive.is/U8MgW"
+	   },
+	   {
+		  "name":"Time magazine",
+		  "urlMatch":"time.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/rfSo4,https://archive.is/EfomR"
+	   },
+	   {
+		  "name":"Stanford University",
+		  "urlMatch":"stanford.edu",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/XUkRx"
+	   },
+	   {
+		  "name":"Anti-Racism Taskforce for European Film",
+		  "otherNames":[
+			 "Artef"
+		  ],
+		  "urlMatch":"artef.org",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/wip/9smlO"
+	   },
+	   {
+		  "name":"Dartmouth College",
+		  "urlMatch":"dartmouth.edu",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/WhM0t"
+	   },
+	   {
+		  "name":"Gender Museum",
+		  "sources":"https://archive.is/PEBxA"
+	   },
+	   {
+		  "name":"Rocket Mortgage",
+		  "urlMatch":"rocketmortgage.com",
+		  "sources":"https://archive.is/wip/aZUTJ"
+	   },
+	   {
+		  "name":"ChatGPT",
+		  "ignoreCase": "1",
+		  "sources":"https://archive.is/F1dRc,https://archive.is/fl9c8"
+	   },
+	   {
+		  "name":"Global Disinformation Index",
+		  "otherNames":[
+			 "Disinformation Index LTD"
+		  ],
+		  "urlMatch":"disinformationindex.org",
+		  "sources":"https://archive.is/XSgeu,https://archive.is/wip/KLvXn,https://archive.is/wip/qluBu"
+	   },
+	   {
+		  "name":"Limited Run Games",
+		  "urlMatch":"limitedrungames.com",
+		  "sources":"https://archive.is/wip/pt03h"
+	   },
+	   {
+		  "name":"Nexus Mods",
+		  "urlMatch":"nexusmods.com",
+		  "sources":"https://archive.is/Ubplu,https://archive.is/wip/LrUXw"
+	   },
+	   {
+		  "name":"ModDB",
+		  "urlMatch":"moddb.com",
+		  "sources":"https://archive.is/Ubplu"
+	   },
+	   {
+		  "name":"Virgin Atlantic",
+		  "urlMatch":"virginatlantic.com",
+		  "sources":"https://archive.ph/wip/WMViK",
+		  "children":[
+			 {
+				"name":"Virgin Atlantic",
+				"urlMatch":"virgin.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"EIN Presswire",
+		  "urlMatch":"einpresswire.com",
+		  "sources":"https://archive.ph/6Geb5",
+		  "children":[
+			 {
+				"name":"Newsmatics ",
+				"urlMatch":"newsmatics.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Royal Air Force",
+		  "urlMatch":"raf.mod.uk",
+		  "sources":"https://archive.ph/4xaur"
+	   },
+	   {
+		  "name":"Reissa Foundation",
+		  "urlMatch":"reissa.org",
+		  "sources":"https://archive.vn/wip/JZ4IM"
+	   },
+	   {
+		  "name":"Dis-Chem",
+		  "urlMatch":"dischem.co.za",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.ph/wip/XT5wd"
+	   }, 
+	   {
+		  "name":"University of Manchester",
+		  "urlMatch":"manchester.ac.uk",
+		  "sources":"https://archive.ph/IOm55"
+	   },
+	   {
+		  "name":"Minneapolis Federation of Teachers",
+		  "urlMatch":"mft59.org",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.ph/wip/fWhJN"
+	   },
+	   {
+		  "name":"Milwaukee Brewers",
+		  "urlMatch":"mlb.com/brewers",
+		  "sources":"https://archive.ph/aYHc2"
+	   },
+	   {
+		  "name":"Shakespeare's Globe",
+		  "urlMatch":"shakespearesglobe.com",
+		  "sources":"https://archive.ph/65CTZ"
+	   },
+	   {
+		  "name":"Zalando",
+		  "urlMatch":"zalando.",
+		  "sources":"https://archive.is/wip/SuQYj,https://archive.is/wip/Z6c7w"
+	   },
+	   {
+		  "name":"Duolingo",
+		  "urlMatch":"duolingo.com",
+		  "sources":"https://archive.is/v9Wpk"
+	   },
+	   {
+		  "name":"National Lawyers Guild",
+		  "urlMatch":"nlg.org",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/wip/MFOLL"
+	   },
+	   {
+		  "name":"Comcast",
+		  "urlMatch":"comcast.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/wip/yDgMM,https://archive.is/dqQuX",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			 {
+				"name":"Xfinity",
+				"ignoreCase": "1",
+				"urlMatch":"xfinity.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"IDG",
+		  "urlMatch":"idg.se",
+		  "sources":"https://archive.is/wip/b554U"
+	   },
+	   {
+		  "name":"Tractor Supply Company",
+		  "urlMatch":"tractorsupply.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/wip/n0DV1"
+	   },
+	   {
+		  "name":"National Archives",
+		  "urlMatch":"archives.gov",
+		  "sources":"https://archive.ph/wip/1fAuD,https://archive.ph/wip/rVzUG"
+	   },
+	   {
+		  "name":"Unconventional Ventures",
+		  "urlMatch":"unconventionalventures.com",
+		  "text":"Unconventional Ventures push wokeness, racism, and sexism.",
+		  "sources":"https://archive.ph/wip/D0ja1"
+	   },
+	   {
+		  "name":"HOPE not hate",
+		  "ignoreCase": "1",
+		  "urlMatch":"hopenothate.org.uk",
+		  "sources":"https://archive.ph/eY4Ca,https://archive.is/LdYSY"
+	   },
+	   {
+		  "name":"Halifax UK",
+		  "otherNames":[
+			 "HalifaxBank"
+		  ],
+		  "urlMatch":"halifax.co.uk",
+		  "sources":"https://archive.ph/oatsn"
+	   },
+	   {
+		  "name":"Lagkagehuset",
+		  "urlMatch":"lagkagehuset.dk",
+		  "sources":"https://archive.ph/wip/qq2oW"
+	   },
+	   { 
+		  "name":"Coles Supermarkets",
+		  "ignoreCase": "1",
+		  "urlMatch":"coles.com.au",
+		  "sources":"https://archive.ph/wip/Kdcre"
+	   },
+	   {
+		  "name":"YouTube",
+		  "urlMatch":"youtube.",
+		  "styling":"margin-top: 60px;",
+		  "sources":"https://archive.is/5qz6a"
+	   },
+	   {
+		  "name":"Facebook messenger",
+		  "urlMatch":"facebook.|mess",
+		  "linkUrl":"signal.org",
+		  "linkText":"Signal",
+		  "styling":"margin-left: 370px; margin-top: 65px;",
+		  "sources":"https://archive.is/sAQye"
+	   },
+	   {
+		  "name":"Facebook",
+		  "urlMatch":"facebook.",
+		  "styling":"margin-top: 60px;",
+		  "sources":"https://archive.is/sAQye"
+	   },
+	   {
+		  "name":"Instagram",
+		  "urlMatch":"instagram.",
+		  "sources":"https://archive.is/sAQye"
+	   },
+	   {
+		  "name":"Rotten Tomatoes",
+		  "urlMatch":"rottentomatoes.com",
+		  "sources":"https://archive.is/CFMHk,https://archive.is/GShD1"
+	   },
+	   {
+		  "name":"Outbrain",
+		  "urlMatch":"outbrain.com",
+		  "sources":"https://archive.is/kboH4,https://archive.is/kdsbz"
+	   },
+	   {
+		  "name":"IMDb",
+		  "urlMatch":"imdb.com",
+		  "sources":"https://archive.is/wip/f5axW,https://archive.is/wip/bY7OK"
+	   },
+	   {
+		  "name":"Preston Grasshoppers",
+		  "urlMatch":"pgrfc.co.uk",
+		  "sources":"https://archive.md/PIep3"
+	   },
+	   {
+		  "name":"ResetEra",
+		  "ignoreCase": "1",
+		  "urlMatch":"metacritic.com",
+		  "sources":"https://archive.is/3P4gT"
+	   },
+	   {
+		  "name":"Mermaids UK",
+		  "urlMatch":"mermaidsuk.org.uk",
+		  "sources":"https://archive.is/wip/tUyRh"
+	   },
+	   {
+		  "name":"Norfolk Police Department",
+		  "urlMatch":"norfolk.gov/305/Police",
+		  "sources":"https://archive.md/wip/5NuRq"
+	   },
+	   {
+		  "name":"Kopparberg",
+		  "urlMatch":"kopparberg.com",
+		  "sources":"https://archive.md/wip/AtG8Y,https://archive.md/wip/bhzBB",
+		  "children":[
+			 {
+				"name":"Nivea",
+				"ignoreCase": "1",
+				"urlMatch":"nivea."
+			 },
+			 {
+				"name":"Grolsch",
+				"urlMatch":"grolsch.com"
+			 },
+			 {
+				"name":"Octopus Energy",
+				"urlMatch":"octo3pus.energy"
+			 },
+			 {
+				"name":"Open University",
+				"urlMatch":"openuniversity.edu"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"erp²",
+		  "urlMatch":"erp2.co.uk",
+		  "sources":"https://archive.is/wip/mY2DD"
+	   },
+	   {
+		  "name":"Realtor.com",
+		  "urlMatch":"Realtor.com",
+		  "sources":"https://archive.md/j8c0G"
+	   },
+	   {
+		  "name":"Cracker Barrel",
+		  "urlMatch":"crackerbarrel.com",
+		  "sources":"https://archive.is/wip/t7BGm,https://archive.is/rkKqQ"
+	   },
+	   {
+		  "name":"Electronic Frontier Foundation",
+		  "otherNames":[
+			 "EFF"
+		  ],
+		  "urlMatch":"eff.org",
+		  "sources":"https://archive.is/Hya9V,https://archive.is/wip/23E02"
+	   },
+	   {
+		  "name":"Redfin",
+		  "urlMatch":"Redfin.com",
+		  "sources":"https://archive.md/j8c0G"
+	   },
+	   {
+		  "name":"White Coats for Black Lives",
+		  "otherNames":[
+			 "WC4BL "
+		  ],
+		  "urlMatch":"whitecoats4blacklives.org",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/Xj1Nd,https://archive.is/CZyAJ,https://archive.is/wip/ss7HS"
+	   },
+	   {
+		  "name":"Boston Children's Hospital",
+		  "urlMatch":"childrenshospital.org",
+		  "sources":"https://archive.is/wip/xLWDz"
+	   },
+	   {
+		  "name":"Professional Golfers' Association",
+		  "urlMatch":"pga.com",
+		  "sources":"https://archive.is/wip/Wmr2W,https://archive.is/wip/0w55I"
+	   },
+	   {
+		  "name":"PGA",
+		  "urlMatch":"pgatour.com",
+		  "sources":"https://archive.is/wip/Wmr2W,https://archive.is/wip/0w55I"
+	   },
+	   {
+		  "name":"Perkins Coie",
+		  "urlMatch":"perkinscoie.com",
+		  "sources":"https://archive.is/cDqhx,https://archive.is/uLbAE"
+	   },
+	   {
+		  "name":"Volkswagen",
+		  "urlMatch":"vw.com",
+		  "sources":"https://archive.ph/jym7x",
+		  "children":[
+			 {
+				"name":"Havas Media",
+				"urlMatch":"havasmediagroup.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Allegiant Air",
+		  "urlMatch":"allegiantair.com",
+		  "sources":"https://archive.is/HgTNx"
+	   },
+	   {
+		  "name":"Toronto-Dominion Bank",
+		  "urlMatch":"td.com",
+		  "sources":"https://archive.is/wip/9gVw1"
+	   },
+	   {
+		  "name":"TD Bank",
+		  "urlMatch":"tdbank.com",
+		  "sources":"https://archive.is/wip/9gVw1"
+	   },
+	   {
+		  "name":"University of Bristol",
+		  "otherNames":[
+			 "Bristol University"
+		  ],
+		  "urlMatch":"bristol.ac.uk",
+		  "sources":"https://archive.is/uMoyz"
+	   },
+	   {
+		  "name":"Heartland Financial",
+		  "urlMatch":"htlf.com",
+		  "sources":"https://archive.is/wip/IWkHy,https://archive.is/0K6Tc"
+	   },
+	   {
+		  "name":"Minnesota Bank & Trust",
+		  "urlMatch":"mnbankandtrust.com",
+		  "sources":"https://archive.is/wip/IWkHy,https://archive.is/0K6Tc"
+	   },
+	   {
+		  "name":"Jet Propulsion Laboratory",
+		  "urlMatch":"jpl.nasa.gov",
+		  "sources":"https://archive.is/wip/GVT3X"
+	   },
+	   {
+		  "name":"Native Engagement in Building a Unified Leadership Alliance",
+		  "otherNames":[
+			 "NEBULA "
+		  ],
+		  "sources":"https://archive.is/wip/GVT3X"
+	   },
+	   {
+		  "name":"Illinois State University",
+		  "urlMatch":"illinoisstate.edu",
+		  "sources":"https://archive.md/wip/Fuu8T"
+	   },
+	   {
+		  "name":"Pizza Hut",
+		  "urlMatch":"pizzahut.",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/EzuTK"
+	   },
+	   {
+		  "name":"National Geographic",
+		  "urlMatch":"nationalgeographic.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.today/ogvCq"
+	   },
+	   {
+		  "name":"Raytheon",
+		  "urlMatch":"rtx.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.today/Qa29I",
+		  "children":[
+			 {
+				"name":"Raytheon",
+				"urlMatch":"raytheon.com"
+			 },
+			 {
+				"name":"Raytheon",
+				"urlMatch":"raytheonmissilesanddefense.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Oxfam",
+		  "urlMatch":"oxfam.",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.md/wip/WIAdN"
+	   },
+	   {
+		  "name":"National Education Association",
+		  "urlMatch":"nea.org",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.today/rAfJV,https://archive.ph/wip/plqyz"
+	   },
+	   {
+		  "name":"Zinn Education Project",
+		  "urlMatch":"zinnedproject.org",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.today/HmQSI"
+	   },
+	   {
+		  "name":"National Public Radio",
+		  "urlMatch":"npr.org",
+		  "sources":"https://archive.today/oO4q0"
+	   },
+	   {
+		  "name":"Giant Food",
+		  "urlMatch":"giantfood.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.today/JM6ls"
+	   },
+	   {
+		  "name":"University Hospitals Sussex",
+		  "urlMatch":"uhsussex.nhs.uk",
+		  "sources":"https://archive.today/C3DLY"
+	   },
+	   {
+		  "name":"Brighton and Sussex University Hospitals",
+		  "urlMatch":"bsuh.nhs.uk",
+		  "sources":"https://archive.today/C3DLY"
+	   },
+	   {
+		  "name":"Standard (Oslo)",
+		  "ignoreCase": "1",
+		  "urlMatch":"standardoslo.no",
+		  "sources":"https://archive.md/wip/oSrww"
+	   },
+	   {
+		  "name":"First Book",
+		  "urlMatch":"firstbook.org",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/EzuTK"
+	   },
+	   {
+		  "name":"English Touring Opera",
+		  "urlMatch":"englishtouringopera.org.uk",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.vn/wip/uwYhv"
+	   },
+	   {
+		  "name":"Lloyds Bank",
+		  "otherNames":[
+			 "Lloyds Banking Group"
+		  ],
+		  "urlMatch":"lloydsbankinggroup.com",
+		  "sources":"https://archive.md/wip/PPYLY,https://archive.md/wip/D3YzZ"
+	   },
+	   {
+		  "name":"Minotenk",
+		  "urlMatch":"minotenk.no",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.md/wip/LFJmQ"
+	   },
+	   {
+		  "name":"National Health Service",
+		  "urlMatch":"nhs.uk",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.vn/wip/sS64D"
+	   },
+	   {
+		  "name":"London North East Railway",
+		  "otherNames":[
+			 "LNER"
+		  ],
+		  "urlMatch":"lner.co.uk",
+		  "sources":"https://archive.today/Stq9H"
+	   },
+	   {
+		  "name":"iHeart",
+		  "urlMatch":"iheart.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/MLA17"
+	   },
+	   {
+		  "name":"Snapchat",
+		  "urlMatch":"snapchat.",
+		  "sources":"https://archive.is/HcGGQ,https://archive.is/IsnIX"
+	   },
+	   {
+		  "name":"Tedx",
+		  "ignoreCase": "1",
+		  "urlMatch":"ted.com",
+		  "sources":"https://archive.ph/63eLW"
+	   },
+	   {
+		  "name":"Sheffield City Trust",
+		  "urlMatch":"sheffieldcitytrust.org",
+		  "sources":"https://archive.ph/Fu1gg"
+	   },
+	   {
+		  "name":"Gap",
+		  "urlMatch":"gapinc.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.ph/wip/arUbB,https://archive.ph/dAoDa",
+		  "children":[
+			 {
+				"name":"MRC",
+				"urlMatch":"mrcentertainment.com"
+			 },
+			 {
+				"name":"Balenciaga",
+				"urlMatch":"balenciaga.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Endeavor",
+		  "urlMatch":"sheffieldcitytrust.org",
+		  "sources":"https://archive.ph/wip/7hfPH"
+	   },
+	   {
+		  "name":"General Mills",
+		  "urlMatch":"generalmills.com",
+		  "sources":"https://archive.ph/jHnzW",
+		  "children":[
+			 {
+				"name":"Audi USA",
+				"urlMatch":"audiusa.com"
+			 },
+			 {
+				"name":"Audi",
+				"urlMatch":"audi."
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Vipps",
+		  "urlMatch":"vipps.no",
+		  "sources":"https://archive.md/wip/URirA,https://archive.md/wip/9syBi"
+	   },
+	   {
+		  "name":"GEN",
+		  "urlMatch":"gen.medium.",
+		  "sources":"https://archive.is/4UlOk"
+	   },
+	   {
+		  "name":"MEDIUM",
+		  "urlMatch":"medium.com",
+		  "sources":"https://archive.is/wip/TUv6e"
+	   },
+	   {
+		  "name":"Stop Funding Hate",
+		  "urlMatch":"stopfundinghate.info",
+		  "sources":"https://archive.is/iDKJl"
+	   },
+	   {
+		  "name":"Alphabet",
+		  "sources":"https://archive.is/DK2T8,https://archive.is/PsEoZ",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			 {
+				"name":"Google maps",
+				"urlMatch":"google.|maps",
+				"styling":"margin-left: 480px;"
+			 },
+			 {
+				"name":"Google",
+				"urlMatch":"google."
+			 },
+			 {
+				"name":"Gmail",
+				"urlMatch":"mail.google.",
+				"linkUrl":"protonmail.com",
+				"linkText":"Protonmail"
+			 },
+			 {
+				"name":"Google search",
+				"urlMatch":"google.|search",
+				"linkUrl":"search.brave.com",
+				"linkText":"Brave",
+				"styling":"margin-top: 130px; z-index: 123"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"OKCupid",
+		  "urlMatch":"okcupid.com",
+		  "sources":"https://archive.ph/wip/nOc07,https://archive.ph/wip/tke8W"
+	   },
+	   {
+		  "name":"Twitch",
+		  "urlMatch":"twitch.",
+		  "sources":"https://archive.is/eOHWr,https://archive.is/DAmR5"
+	   },
+	   {
+		  "name":"Countdown Supermarkets",
+		  "urlMatch":"countdown.co.nz",
+		  "sources":"https://archive.is/wip/Zfq1S"
+	   },
+	   {
+		  "name":"American Psychological Association",
+		  "urlMatch":"apa.org",
+		  "sources":"https://archive.is/wip/K84ri,https://archive.is/Cxu4u"
+	   },
+	   {
+		  "name":"Discord",
+		  "urlMatch":"discord.",
+		  "sources":"https://archive.is/hGtDw"
+	   },
+	   {
+		  "name":"Patreon",
+		  "urlMatch":"patreon.",
+		  "linkUrl":"subscribestar.com",
+		  "linkText":"SubscribeStar",
+		  "sources":"https://archive.is/wzfM5"
+	   },
+	   {
+		  "name":"Slow Factory Foundation",
+		  "urlMatch":"slowfactory.foundation",
+		  "sources":"https://archive.is/wip/ED4Nx"
+	   },
+	   {
+		  "name":"Vimeo",
+		  "urlMatch":"vimeo.",
+		  "sources":"https://archive.is/wip/TkPqC,https://archive.is/wip/GY8y1"
+	   },
+	   {
+		  "name":"Lockheed",
+		  "urlMatch":"lockheedmartin.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/nX8uJ"
+	   },
+	   {
+		  "name":"Goodwill",
+		  "urlMatch":"goodwill.",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.md/LJQ3D,https://archive.md/wip/Tnbkh"
+	   },
+	   {
+		  "name":"Heaven Hill",
+		  "urlMatch":"heavenhill.com",
+		  "sources":"https://archive.md/wip/JLPiN",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			 {
+				"name":"Heaven Hill Distillery",
+				"urlMatch":"heavenhilldistillery.com"
+			 },
+			 {
+				"name":"Admiral Nelson's Premium Spiced Rums"
+			 },
+			 {
+				"name":"Ansac Cognac"
+			 },
+			 {
+				"name":"Bernheim Original Wheat Whiskey"
+			 },
+			 {
+				"name":"Black Velvet Canadian Whisky"
+			 },
+			 {
+				"name":"Blackheart Premium Spiced Rum"
+			 },
+			 {
+				"name":"Burnett's London Dry Gin"
+			 },
+			 {
+				"name":"Burnett's Vodkas"
+			 },
+			 {
+				"name":"Carolans Irish Cream Liqueur"
+			 },
+			 {
+				"name":"Christian Brothers Brandies"
+			 },
+			 {
+				"name":"Cinerator Hot Cinnamon Whiskey"
+			 },
+			 {
+				"name":"Copa De Oro Coffee Liqueur"
+			 },
+			 {
+				"name":"Coronet VSQ Brandy"
+			 },
+			 {
+				"name":"Deep Eddy Vodkas"
+			 },
+			 {
+				"name":"Domaine de Canton French Ginger Liqueur"
+			 },
+			 {
+				"name":"Du Bouchett Liqueurs & Cordials"
+			 },
+			 {
+				"name":"Dubonnet Aperitifs"
+			 },
+			 {
+				"name":"Elijah Craig Bourbons"
+			 },
+			 {
+				"name":"Evan Williams Bourbons"
+			 },
+			 {
+				"name":"Fighting Cock Bourbon"
+			 },
+			 {
+				"name":"Fulton's Harvest Cream Liqueur"
+			 },
+			 {
+				"name":"Georgia Moon Corn Whiskey"
+			 },
+			 {
+				"name":"Henry Mckenna Single Barrel"
+			 },
+			 {
+				"name":"HPNOTIQ"
+			 },
+			 {
+				"name":"Irish Mist Liqueur"
+			 },
+			 {
+				"name":"Larceny Bourbon"
+			 },
+			 {
+				"name":"Lunazul Tequilas"
+			 },
+			 {
+				"name":"Mellow Corn Whiskey"
+			 },
+			 {
+				"name":"Old Fitzgerald Bourbon"
+			 },
+			 {
+				"name":"PAMA Pomegranate Liqueur"
+			 },
+			 {
+				"name":"Parker's Heritage Collection"
+			 },
+			 {
+				"name":"Pikesville Straight Rye Whiskey"
+			 },
+			 {
+				"name":"Rittenhouse Straight Rye Whisky"
+			 },
+			 {
+				"name":"Sacred Bond"
+			 },
+			 {
+				"name":"Two Fingers Tequilas"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Salvation Army",
+		  "urlMatch":"salvationarmy.org",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.md/NzP3l"
+	   },
+	   {
+		  "name":"Spirit Airlines",
+		  "urlMatch":"spirit.com",
+		  "sources":"https://archive.is/wip/0XBhJ"
+	   },
+	   {
+		  "name":"M&M",
+		  "sources":"https://archive.is/wip/8fjEq"
+	   },
+	   {
+		  "name":"Penzeys",
+		  "urlMatch":"penzeys.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/wip/WaNky"
+	   },
+	   {
+		  "name":"Nordea",
+		  "urlMatch":"nordea.",
+		  "sources":"https://archive.md/fk1An"
+	   },
+	   {
+		  "name":"Walmart",
+		  "urlMatch":"walmart.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.md/wip/mGpYe,https://archive.md/6Iyh4,https://archive.md/mhQMT"
+	   },
+	   {
+		  "name":"Reddit",
+		  "urlMatch":"reddit.",
+		  "styling":"margin-top: 50px;",
+		  "sources":"https://archive.is/H09M8"
+	   },
+	   {
+		  "name":"GoDaddy",
+		  "urlMatch":"godaddy.",
+		  "sources":"https://archive.is/VEMk4"
+	   },
+	   {
+		  "name":"Deutsche Bank",
+		  "urlMatch":"db.",
+		  "sources":"https://archive.is/wip/B1nbz"
+	   },
+	   {
+		  "name":"Goodyear",
+		  "urlMatch":"goodyear.",
+		  "sources":"https://archive.is/wip/np61R"
+	   },
+	   {
+		  "name":"Apple",
+		  "urlMatch":"apple.",
+		  "sources":"https://archive.is/cj97E"
+	   },
+	   {
+		  "name":"Cambridge Union",
+		  "urlMatch":"cus.org",
+		  "sources":"https://archive.md/cmtYq"
+	   },
+	   {
+		  "name":"State Street",
+		  "urlMatch":"statestreet.",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.md/c3hCd",
+		  "children":[
+			{
+				"name":"State Street Global Advisors",
+				"urlMatch":"ssga."
+			}
+		  ]
+	   },
+	   {
+		  "name":"Clorox",
+		  "urlMatch":"clorox.com",
+		  "sources":"https://archive.is/wip/x3RHN",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			{
+				"name":"Agua Jane"
+			},
+			{
+				"name":"Ayudin"
+			},
+			{
+				"name":"Handi Wipes",
+				"urlMatch":"handiwipes.com"
+			},
+			{
+				"name":"KC Masterpiece",
+				"urlMatch":"kcmasterpiece.com"
+			},
+			{
+				"name":"Kingsford",
+				"urlMatch":"kingsford.com"
+			},
+			{
+				"name":"Natural Vitality"
+			},
+			{
+				"name":"Neocell"
+			},
+			{
+				"name":"PinoLuz"
+			},
+			{
+				"name":"Poett",
+				"urlMatch":"poett.com"
+			},
+			{
+				"name":"Rainbow Light"
+			},
+			{
+				"name":"Ready Mop",
+				"urlMatch":"cloroxtools.com"
+			},
+			{
+				"name":"RenewLife",
+				"urlMatch":"betteryourhealth.com"
+			},
+			{
+				"name":"Selton"
+			},
+			{
+				"name":"Scoop Away",
+				"urlMatch":"kingsford.com"
+			},
+			{
+				"name":"Soy Vay",
+				"urlMatch":"soyvay.com"
+			 },
+			 {
+				"name":"Stop Aging Now",
+				"urlMatch":"stopagingnow.com"
+			 },
+			 {
+				"name":"Tilex"
+			 },
+			 {
+				"name":"Trenet",
+				"urlMatch":"trenet.com"
+			 },
+			 {
+				"name":"True Health",
+				"urlMatch":"truehealth.com"
+			 },
+			 {
+				"name":"Wash N Dri"
+			 },
+			 {
+				"name":"Kitchen Bouquet"
+			 },
+			 {
+				"name":"Lestoil"
+			 },
+			 {
+				"name":"Limpido"
+			 },
+			 {
+				"name":"Liquid-Plumr",
+				"urlMatch":"liquidplumr.com"
+			 },
+			 {
+				"name":"Match Light"
+			 },
+			 {
+				"name":"Mistolin",
+				"urlMatch":"mistolin.co"
+			 },
+			 {
+				"name":"Mortimer"
+			 },
+			 {
+				"name":"Chux",
+				"urlMatch":"chux.com"
+			 },
+			 {
+				"name":"Clorinda"
+			 },
+			 {
+				"name":"Ever Clean",
+				"urlMatch":"everclean.com"
+			 },
+			 {
+				"name":"Formula 409",
+				"urlMatch":"formula409.com"
+			 },
+			 {
+				"name":"Gumption Cleanser"
+			 },
+			 {
+				"name":"Pine-Sol",
+				"urlMatch":"pinesol.com"
+			 },
+			 {
+				"name":"Brita",
+				"urlMatch":"brita.com"
+			 },
+			 {
+				"name":"Hidden Valley",
+				"urlMatch":"hiddenvalley.com"
+			 },
+			 {
+				"name":"Fresh Step",
+				"urlMatch":"freshstep.com"
+			 },
+			 {
+				"name":"Burt's Bees",
+				"urlMatch":"burtsbees.com",
+				"sources":"https://archive.is/4NbLi"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"GCHQ",
+		  "urlMatch":"gchq.gov.uk",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.md/feYkx"
+	   },
+	   {
+		  "name":"Stonewall campaigns",
+		  "urlMatch":"stonewall.org.uk",
+		  "sources":"https://archive.is/yTIaS"
+	   },
+	   {
+		  "name":"Northern School of Contemporary Dance",
+		  "urlMatch":"nscd.ac.uk",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.ph/6e5G5"
+	   },
+	   {
+		  "name":"Stripe",
+		  "urlMatch":"stripe.",
+		  "sources":"https://archive.is/wip/sV89G,https://archive.is/UshUE"
+	   },
+	   {
+		  "name":"Blues Clues",
+		  "sources":"https://archive.is/wip/TeR2l,https://archive.is/KnONc"
+	   },
+	   {
+		  "name":"GoFundMe",
+		  "urlMatch":"gofundme.",
+		  "sources":"https://archive.is/Be0fJ"
+	   },
+	   {
+		  "name":"Paramount+",
+		  "urlMatch":"paramountplus.com",
+		  "sources":"https://archive.is/wip/Aa0GP"
+	   },
+	   {
+		  "name":"Southern Poverty Law Center",
+		  "otherNames":[
+			 "SPLC"
+		  ],
+		  "text": "Southern Poverty Law Center is a hate group that push wokeness",
+		  "urlMatch":"splcenter.org",
+		  "sources":"https://archive.is/wip/f16ji,https://archive.is/1KkHA"
+	   },
+	   {
+		  "name":"Broders' Restaurants",
+		  "urlMatch":"brodersrestaurants.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.md/wip/nWfzO"
+	   },
+	   {
+		  "name":"PayPal",
+		  "ignoreCase": "1",
+		  "urlMatch":"paypal.",
+		  "sources":"https://archive.is/wip/La4eJ,https://archive.is/ID68p"
+	   },
+	   {
+		  "name":"Venmo",
+		  "urlMatch":"venmo.com",
+		  "sources":"https://archive.is/ID68p,https://archive.is/wip/La4eJ"
+	   },
+	   {
+		  "name":"Mozilla",
+		  "urlMatch":"mozilla.",
+		  "linkUrl":"brave.com",
+		  "linkText":"Brave",
+		  "sources":"https://archive.is/JEGZA,https://archive.is/wip/ckMEW,https://archive.is/m1aLg",
+		  "children":[
+			{
+				"name":"Firefox",
+				"urlMatch":"firefox.",
+				"linkUrl":"brave.com",
+				"linkText":"Brave"
+			}
+		  ]
+	   },
+	   {
+		  "name":"University of Michigan",
+		  "urlMatch":"umich.edu",
+		  "sources":"https://archive.md/yU63e,https://archive.md/wip/vuIUo"
+	   },
+	   {
+		  "name":"Canadian Broadcasting Corporation",
+		  "otherNames":[
+			 "CBC"
+		  ],
+		  "urlMatch":"cbc.ca",
+		  "sources":"https://archive.md/GDway,https://archive.md/wip/OgC6S"
+	   },
+	   {
+		  "name":"Harris Teeter",
+		  "urlMatch":"harristeeter.com",
+		  "sources":"https://archive.ph/Lpe5k"
+	   },
+	   {
+		  "name":"Kirkland & Ellis",
+		  "urlMatch":"kirkland.com",
+		  "sources":"https://archive.ph/Ih1Gr"
+	   },
+	   {
+		  "name":"Dick's",
+		  "ignoreCase": "1",
+		  "urlMatch":"dickssportinggoods.com",
+		  "sources":"https://archive.ph/wip/3dpMA,https://archive.ph/ulCYm"
+	   },
+	   {
+		  "name":"State Farm",
+		  "urlMatch":"statefarm.com",
+		  "sources":"https://archive.ph/dJTt4,https://archive.ph/wip/k3Ejh"
+	   },
+	   {
+		  "name":"Bed Bath and Beyond",
+		  "otherNames":[
+			 "Bed Bath & Beyond"
+		  ],
+		  "urlMatch":"bedbathandbeyond.",
+		  "sources":"https://archive.is/Dqs3v,https://archive.is/oT4Jd",
+		  "children":[
+			 {
+				"name":"Kohls",
+				"otherNames":[
+				   "Kohl's"
+				],
+				"urlMatch":"kohls."
+			 },
+			 {
+				"name":"Wayfair",
+				"urlMatch":"wayfair."
+			 },
+			 {
+				"name":"Dollar General",
+				"urlMatch":"dollargeneral.com"
+			 },
+			 {
+				"name":"ShopHQ",
+				"urlMatch":"shophq.com"
+			 },
+			 {
+				"name":"Mattress Firm",
+				"urlMatch":"mattressfirm.com"
+			 },
+			 {
+				"name":"BJ's Wholesale Club",
+				"urlMatch":"bjs.com"
+			 },
+			 {
+				"name":"Today's Shopping Choice",
+				"otherNames":[
+				   "The Shopping Channel"
+				],
+				"urlMatch":"tsc.ca"
+			 },
+			 {
+				"name":"Affirm company",
+				"urlMatch":"affirm.com"
+			 },
+			 {
+				"name":"Fingerhut",
+				"urlMatch":"fingerhut.com"
+			 },
+			 {
+				"name":"Kinney Drugs",
+				"urlMatch":"kinneydrugs.com"
+			 },
+			 {
+				"name":"Chewy.com",
+				"urlMatch":"chewy.com"
+			 },
+			 {
+				"name":"Colony Brands",
+				"urlMatch":"colonybrands.com"
+			 },
+			 {
+				"name":"Coborn's",
+				"urlMatch":"coborns.com"
+			 },
+			 {
+				"name":"Kroger",
+				"urlMatch":"kroger."
+			 },
+			 {
+				"name":"Costco",
+				"urlMatch":"costco."
+			 },
+			 {
+				"name":"Sam's Club",
+				"urlMatch":"samsclub."
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Bank of America",
+		  "urlMatch":"bankofamerica.",
+		  "sources":"https://archive.is/FH1O0"
+	   },
+	   {
+		  "name":"Aunt Jemima",
+		  "urlMatch":"auntjemima.",
+		  "sources":"https://archive.is/wIBS5",
+		  "children":[
+			{
+				"name":"Pearl Milling Company",
+				"urlMatch":"pearlmillingcompany."
+			}
+		  ]
+	   },
+	   {
+		  "name":"Church of England",
+		  "urlMatch":"churchofengland.org",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/wip/hqEkZ,https://archive.is/T67fE"
+	   },
+	   {
+		  "name":"Church of Sweden",
+		  "urlMatch":"svenskakyrkan.se",
+		  "sources":"https://archive.is/wip/eMvaD"
+	   },
+	   {
+		  "name":"Jim Henson Company",
+		  "urlMatch":"henson.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/BAXzV"
+	   },
+	   {
+		  "name":"The Roots",
+		  "sources":"https://archive.is/wip/QNhUG"
+	   },
+	   {
+		  "name":"Calvin Klein",
+		  "sources":"https://archive.ph/clmkL"
+	   },
+	   {
+		  "name":"LEGO",
+		  "ignoreCase": "1",
+		  "urlMatch":"lego.com",
+		  "sources":"https://archive.is/wip/92asf"
+	   },
+	   {
+		  "name":"William Morris Endeavor",
+		  "otherNames":[
+			 "WME"
+		  ],
+		  "urlMatch":"wmeagency.com",
+		  "sources":"https://archive.is/yUKup"
+	   },
+	   {
+		  "name":"Disney",
+		  "urlMatch":"disney.",
+		  "sources":"https://archive.is/wldfM",
+		  "children":[
+			{
+				"name":"Plus",
+				"urlMatch":"disneyplus."
+			}
+		  ]
+	   },
+	   {
+		  "name":"Pixar",
+		  "urlMatch":"pixar.com",
+		  "sources":"https://archive.ph/wip/q371w"
+	   },
+	   {
+		  "name":"Streamlabs",
+		  "urlMatch":"streamlabs.",
+		  "sources":"https://archive.is/wip/Z2lUC"
+	   },
+	   {
+		  "name":"North Western Melbourne Primary Health Network",
+		  "urlMatch":"nwmphn.org.au",
+		  "sources":"https://archive.is/wip/9M9PO"
+	   },
+	   {
+		  "name":"NWMPHN",
+		  "urlMatch":"nwmphn.org.au",
+		  "sources":"https://archive.is/wip/9M9PO"
+	   },
+	   {
+		  "name":"Comweb Corp",
+		  "urlMatch":"pinewoodgroup.com",
+		  "sources":"https://archive.is/wip/xCOUK"
+	   },
+	   {
+		  "name":"Pinewood Toronto Studios",
+		  "urlMatch":"comwebgroup.com",
+		  "sources":"https://archive.is/wip/xCOUK"
+	   },
+	   {
+		  "name":"Land O Lakes",
+		  "urlMatch":"landolakes.",
+		  "sources":"https://archive.is/GABe9"
+	   },
+	   {
+		  "name":"NCAA",
+		  "urlMatch":"ncaa.com",
+		  "sources":"https://archive.is/wip/RiUki"
+	   },
+	   {
+		  "name":"Ruth Sent Us",
+		  "urlMatch":"ruthsent.us",
+		  "sources":"https://archive.ph/6s5av"
+	   },
+	   {
+		  "name":"National Collegiate Athletic Association",
+		  "sources":"https://archive.is/wip/RiUki"
+	   },
+	   {
+		  "name":"The Daily Beast",
+		  "urlMatch":"thedailybeast.",
+		  "sources":"https://archive.is/wip/59Qa9"
+	   },
+	   {
+		  "name":"Vice News",
+		  "urlMatch":"vice.com",
+		  "sources":"https://archive.is/DVCLz",
+		  "children":[
+			{
+				"name":"Vice Media",
+				"urlMatch":"ssga."
+			}
+		  ]
+	   },
+	   {
+		  "name":"Nextdoor",
+		  "urlMatch":"nextdoor.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/fr9H6"
+	   },
+	   {
+		  "name":"VisuWell",
+		  "urlMatch":"visuwell.io",
+		  "sources":"https://archive.is/wip/WAv2S"
+	   },
+	   {
+		  "name":"Media Matters",
+		  "urlMatch":"mediamatters.org",
+		  "sources":"https://archive.is/hZEBP,https://archive.is/wip/XjzYZ"
+	   },
+	   {
+		  "name":"Penguin Books",
+		  "urlMatch":"penguin.com",
+		  "sources":"https://archive.is/wip/ZWMMb"
+	   },
+	   {
+		  "name":"Puffin",
+		  "sources":"https://archive.is/wip/ZWMMb"
+	   },
+	   {
+		  "name":"Wizards of the Coast",
+		  "urlMatch":"company.wizards",
+		  "sources":"https://archive.is/N9poK,https://archive.is/0EFag"
+	   },
+	   {
+		  "name":"Dungeons & Dragons",
+		  "urlMatch":"dnd.wizards",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/N9poK,https://archive.is/0EFag"
+	   },
+	   {
+		  "name":"Magic: The Gathering",
+		  "urlMatch":"magic.wizards.",
+		  "sources":"https://archive.is/QA1au"
+	   },
+	   {
+		  "name":"USA TODAY",
+		  "ignoreCase": "1",
+		  "urlMatch":"usatoday.com",
+		  "sources":"https://archive.is/MVHdS"
+	   },
+	   {
+		  "name":"Kellogg's",
+		  "otherNames":[
+			 "Kellogg Company",
+			 "Kelloggs"
+		  ],
+		  "urlMatch":"kelloggs.com",
+		  "sources":"https://archive.is/oeOHL"
+	   },
+	   {
+		  "name":"GLAAD",
+		  "urlMatch":"glaad.org",
+		  "sources":"https://archive.is/oeOHL"
+	   },
+	   {
+		  "name":"Honey Birdette",
+		  "urlMatch":"honeybirdette.com",
+		  "sources":"https://archive.is/wip/sy490,https://archive.is/wip/5K0In,https://archive.is/wip/wJJcM"
+	   },
+	   {
+		  "name":"Naughty Dog",
+		  "urlMatch":"naughtydog.com",
+		  "sources":"https://archive.is/tjdrw"
+	   },
+	   {
+		  "name":"Fairfax Bar and Grill",
+		  "urlMatch":"thefairfaxbloomington.com",
+		  "sources":"https://archive.is/wip/pTt8b,https://archive.is/ZV0Je"
+	   },
+	   {
+		  "name":"Anheuser-Busch",
+		  "urlMatch":"anheuser-busch.com",
+		  "otherNames":[
+			"Anheuser Busch"
+		  ],
+		  "sources":"https://archive.is/wip/vTAOY,https://archive.is/XDGwV,https://archive.is/NUtDT",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			 {
+				"name":"Bud Light",
+				"urlMatch":"budlight.com"
+			 },
+			 {
+				"name":"Budweiser",
+				"urlMatch":"budweiser.com"
+			 },
+			 {
+				"name":"Big Wave"
+			 },
+			 {
+				"name":"Michelob Ultra",
+				"urlMatch":"michelobultra.com"
+			 },
+			 {
+				"name":"Stella Artois",
+				"urlMatch":"stellaartois.com"
+			 },
+			 {
+				"name":"Cutwater Spirits",
+				"urlMatch":"cutwaterspirits.com"
+			 },
+			 {
+				"name":"Busch Light",
+				"urlMatch":"busch.com"
+			 },
+			 {
+				"name":"Estrella Jalisco",
+				"urlMatch":"estrellajalisco.com"
+			 },
+			 {
+				"name":"Nütrl"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Leesa",
+		  "urlMatch":"leesa.",
+		  "sources":"https://archive.is/wip/p0aRq",
+		  "children":[
+			 {
+				"name":"Mint Mobile",
+				"urlMatch":"mintmobile."
+			 },
+			 {
+				"name":"Red Lobster",
+				"urlMatch":"redlobster."
+			 },
+			 {
+				"name":"Farmers Insurance",
+				"urlMatch":"farmers.com"
+			 },
+			 {
+				"name":"Jaguar",
+				"urlMatch":"jaguar."
+			 },
+			 {
+				"name":"Voya",
+				"urlMatch":"voya."
+			 },
+			 {
+				"name":"Just For Men",
+				"urlMatch":"justformen."
+			 },
+			 {
+				"name":"NerdWallet",
+				"urlMatch":"nerdwallet."
+			 },
+			 {
+				"name":"Sodastream",
+				"urlMatch":"sodastream."
+			 },
+			 {
+				"name":"CareerBuilder",
+				"urlMatch":"careerbuilder."
+			 },
+			 {
+				"name":"TD Ameritrade",
+				"urlMatch":"tdameritrade."
+			 },
+			 {
+				"name":"SCOTTeVEST",
+				"urlMatch":"scottevest."
+			 },
+			 {
+				"name":"Zenni Optical",
+				"urlMatch":"zennioptical."
+			 },
+			 {
+				"name":"IHOP",
+				"urlMatch":"ihop."
+			 },
+			 {
+				"name":"Pacific Life",
+				"urlMatch":"pacificlife."
+			 },
+			 {
+				"name":"Indeed",
+				"urlMatch":"indeed."
+			 },
+			 {
+				"name":"Bowflex",
+				"urlMatch":"bowflex."
+			 },
+			 {
+				"name":"Minted",
+				"urlMatch":"minted."
+			 },
+			 {
+				"name":"Smile Direct Club",
+				"urlMatch":"smiledirectclub."
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Access Now",
+		  "urlMatch":"accessnow.org",
+		  "sources":"https://archive.ph/wip/7MtRS",
+		  "children":[
+			 {
+				"name":"Accountable Tech",
+				"urlMatch":"accountabletech.org"
+			 },
+			 {
+				"name":"Black Lives Matter Global Network Foundation",
+				"urlMatch":"blacklivesmatter.com"
+			 },
+			 {
+				"name":"Center for Countering Digital Hate",
+				"urlMatch":"counterhate.com"
+			 },
+			 {
+				"name":"Empowering Pacific Islander Communities",
+				"urlMatch":"empoweredpi.org"
+			 },
+			 {
+				"name":"Face the Music Collective",
+				"urlMatch":"facethemusiccollective.org"
+			 },
+			 {
+				"name":"Fair Vote UK",
+				"urlMatch":"fairvote.uk"
+			 },
+			 {
+				"name":"Free Press",
+				"urlMatch":"freepress.net"
+			 },
+			 {
+				"name":"Friends of the Earth",
+				"urlMatch":"foei.org"
+			 },
+			 {
+				"name":"Gender Equity Policy Institute",
+				"urlMatch":"thegepi.org"
+			 },
+			 {
+				"name":"Global Project Against Hate and Extremism",
+				"urlMatch":"globalextremism.org"
+			 },
+			 {
+				"name":"Indivisible Northern Nevada",
+				"urlMatch":"indivisiblennv.org"
+			 },
+			 {
+				"name":"MediaJustice",
+				"urlMatch":"mediajustice.org"
+			 },
+			 {
+				"name":"NARAL Pro-Choice America",
+				"urlMatch":"prochoiceamerica.org"
+			 },
+			 {
+				"name":"National Hispanic Media Coalition",
+				"urlMatch":"nhmc.org"
+			 },
+			 {
+				"name":"Religious Coalition for Reproductive Choice",
+				"urlMatch":"rcrc.org"
+			 },
+			 {
+				"name":"Reproaction",
+				"urlMatch":"reproaction.org"
+			 },
+			 {
+				"name":"Stop Online Violence Against Women Inc",
+				"urlMatch":"stoponlinevaw.com"
+			 },
+			 {
+				"name":"The Sparrow Project",
+				"urlMatch":"sparrowmedia.net"
+			 },
+			 {
+				"name":"The Sparrow Project",
+				"urlMatch":"thesparrow-project.com"
+			 },
+			 {
+				"name":"UltraViolet",
+				"urlMatch":"weareultraviolet.org"
+			 },
+			 {
+				"name":"Union of Concerned Scientists",
+				"urlMatch":"ucsusa.org"
+			 },
+			 {
+				"name":"V-Day",
+				"urlMatch":"vday.org"
+			 },
+			 {
+				"name":"One Billion Rising",
+				"urlMatch":"onebillionrising.org"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Pfizer",
+		  "urlMatch":"pfizer.",
+		  "sources":"https://archive.is/A6hby"
+	   },
+	   {
+		  "name":"Lexus",
+		  "urlMatch":"lexus.",
+		  "sources":"https://archive.is/71b2c"
+	   },
+	   {
+		  "name":"Ancestry",
+		  "urlMatch":"ancestry.",
+		  "sources":"https://archive.is/5Q9JW"
+	   },
+	   {
+		  "name":"SAG-AFTRA",
+		  "urlMatch":"sagaftra.",
+		  "sources":"https://archive.is/wip/ewTJN"
+	   },
+	   {
+		  "name":"United Talent Agency",
+		  "urlMatch":"unitedtalent.",
+		  "sources":"https://archive.is/wip/LMwnr"
+	   },
+	   {
+		  "name":"Diplom-is",
+		  "ignoreCase": "1",
+		  "urlMatch":"diplom-is.no",
+		  "linkUrl":"hennig-olsen.no",
+		  "linkText":"Hennig-Olsen",
+		  "sources":"https://archive.is/wip/jiZVh"
+	   },
+	   {
+		  "name":"Hatting",
+		  "urlMatch":"hatting.no",
+		  "sources":"https://archive.is/wip/jiZVh"
+	   },
+	   {
+		  "name":"London School of Hygiene and Tropical Medicine",
+		  "otherNames":[
+			 "LSHTM"
+		  ],
+		  "urlMatch":"lshtm.ac.uk",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.md/wip/344j3,https://archive.md/wip/N8p5i"
+	   },
+	   {
+		  "name":"University of Sheffield",
+		  "otherNames":[
+			 "Sheffield University"
+		  ],
+		  "urlMatch":"sheffield.ac.uk",
+		  "sources":"https://archive.md/wip/xAjHP"
+	   },
+	   {
+		  "name":"Black Rifle Coffee",
+		  "urlMatch":"blackriflecoffee.com",
+		  "sources":"https://archive.md/wip/5H11c,https://archive.md/wip/wIfvI"
+	   },
+	   {
+		  "name":"Lufthansa",
+		  "urlMatch":"lufthansa.com",
+		  "sources":"https://archive.md/wip/F4q8R,https://archive.md/wip/pVMah",
+		  "children":[
+			 {
+				"name":"Austrian Airlines",
+				"urlMatch":"austrian.com"
+			 },
+			 {
+				"name":"Swiss International Air Lines",
+				"otherNames":[
+				   "SWISS"
+				],
+				"urlMatch":"swiss.com"
+			 },
+			 {
+				"name":"Eurowings",
+				"urlMatch":"eurowings.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Barnardo's",
+		  "urlMatch":"barnardos.org.uk",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.md/wip/dhHMb"
+	   },
+	   {
+		  "name":"Metzger Bar and Butchery",
+		  "otherNames":[
+			"Metzger Bar & Butchery"
+		  ],
+		  "urlMatch":"metzgerbarandbutchery.com",
+		  "sources":"https://archive.ph/wip/FdRb9"
+	   },
+	   {
+		  "name":"Sainsbury's",
+		  "urlMatch":"sainsburys.co.uk",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.md/wip/D4pwL,https://archive.md/glIVh"
+	   },
+	   {
+		  "name":"Wikipedia",
+		  "urlMatch":"wikipedia.",
+		  "sources":"https://archive.md/wip/DrbUX,https://archive.is/HBFwM,https://archive.today/OVhRh.https://archive.ph/YsYkh"
+	   }, 
+	   {
+		  "name":"Wikimedia",
+		  "urlMatch":"wikipedia.org",
+		  "sources":"https://archive.md/wip/DrbUX,https://archive.is/HBFwM,https://archive.today/OVhRh,https://archive.ph/YsYkh"
+	   },
+	   {
+		  "name":"University of Minnesota",
+		  "urlMatch":"twin-cities.umn.edu",
+		  "sources":"https://archive.ph/4sRvi,https://archive.is/s6edQ"
+	   },
+	   {
+		  "name":"Amazon",
+		  "urlMatch":"amazon.",
+		  "sources":"https://archive.is/lBR4u,https://archive.today/71mqi,https://archive.is/wip/bA23R",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			 {
+				"name":"Prime Video",
+				"urlMatch":"primevideo."
+			 },
+			 {
+				"name":"Audible",
+				"urlMatch":"audible."
+			 },
+			 {
+				"name":"Box Office Mojo",
+				"urlMatch":"boxofficemojo.com"
+			 },
+			 {
+				"name":"AbeBooks",
+				"urlMatch":"abebooks.com"
+			 },
+			 {
+				"name":"Goodreads",
+				"urlMatch":"goodreads.com"
+			 },
+			 {
+				"name":"Shopbop",
+				"urlMatch":"shopbop.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Jennifer De Chiara Literary Agency",
+		  "urlMatch":"jdlit.",
+		  "sources":"https://archive.is/Oe9PB"
+	   },
+	   {
+		  "name":"YouGov",
+		  "urlMatch":"yougov.",
+		  "sources":"https://archive.is/Wsb09"
+	   },
+	   {
+		  "name":"National Education Union",
+		  "urlMatch":"neu.org.uk",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/wip/wo0Y0",
+		  "children":[
+			 {
+				"name":"National Day Nurseries Association",
+				"urlMatch":"ndna.org.uk"
+			 },
+			 {
+				"name":"Association for Professional Development in Early Years",
+				"urlMatch":"tactyc.org.uk"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Coca-Cola",
+		  "urlMatch":"coca-cola.",
+		  "otherNames":[
+			"Coca Cola"
+		  ],
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/pR0Gm,https://archive.is/61g4h,https://archive.is/bzTHi",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			 {
+				"name":"Powerade",
+				"urlMatch":"powerade."
+			 },
+			 {
+				"name":"Sprite",
+				"urlMatch":"sprite."
+			 },
+			 {
+				"name":"Fanta",
+				"urlMatch":"fanta."
+			 },
+			 {
+				"name":"Dasani",
+				"urlMatch":"dasani."
+			 },
+			 {
+				"name":"Smartwater",
+				"urlMatch":"smartwater."
+			 },
+			 {
+				"name":"Minute Maid",
+				"urlMatch":"minutemaid."
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Mondelēz",
+		  "otherNames":[
+			 "Mondelez"
+		  ],
+		  "urlMatch":"mondelezinternational.com",
+		  "sources":"https://archive.is/l6Yy9,https://archive.is/wip/oLSGI,https://archive.is/wip/zWqJZ",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			 {
+				"name":"Alpen Gold"
+			 },
+			 {
+				"name":"belVita",
+				"urlMatch":"belvitabreakfast.com"
+			 },
+			 {
+				"name":"Bournvita"
+			 },
+			 {
+				"name":"Cadbury",
+				"urlMatch":".cadbury."
+			 },
+			 {
+				"name":"Chips Ahoy"
+			 },
+			 {
+				"name":"Clorets"
+			 },
+			 {
+				"name":"Club Social Original"
+			 },
+			 {
+				"name":"Enjoy Life Foods",
+				"urlMatch":"enjoylifefoods.com"
+			 },
+			 {
+				"name":"Freia Melkesjokolade",
+				"urlMatch":"freia.no"
+			 },
+			 {
+				"name":"Honey Maid",
+				"ignoreCase": "1"
+			 },
+			 {
+				"name":"Hu Products"
+			 },
+			 {
+				"name":"Lu Biscuits",
+				"ignoreCase": "1",
+				"urlMatch":"lu.fr"
+			 },
+			 {
+				"name":"Marabou",
+				"urlMatch":"marabou.se"
+			 },
+			 {
+				"name":"Maynards Bassetts"
+			 },
+			 {
+				"name":"Milka",
+				"urlMatch":"milka.com"
+			 },
+			 {
+				"name":"Oreo",
+				"urlMatch":"oreo.",
+				"text":"Oreo push wokeness.",
+				"sources":"https://archive.is/Fb5NM"
+			 },
+			 {
+				"name":"Perfect Snacks",
+				"urlMatch":"perfectsnacks.com"
+			 },
+			 {
+				"name":"Ritz Crackers",
+				"urlMatch":"ritzcrackers.com"
+			 },
+			 {
+				"name":"Sour Patch Kids",
+				"urlMatch":"sourpatchkids.com"
+			 },
+			 {
+				"name":"Stride Gum"
+			 },
+			 {
+				"name":"Mondelez Tang"
+			 },
+			 {
+				"name":"Tate's Bake Shop",
+				"urlMatch":"tatesbakeshop.com"
+			 },
+			 {
+				"name":"Toblerone",
+				"urlMatch":"Toblerone.fr"
+			 },
+			 {
+				"name":"Triscuit",
+				"urlMatch":"triscuit.com"
+			 },
+			 {
+				"name":"Wheat Thins",
+				"urlMatch":"wheatthins.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Simon & Schuster",
+		  "urlMatch":"simonandschuster.",
+		  "sources":"https://archive.is/bFDms"
+	   },
+	   {
+		  "name":"Marvel",
+		  "urlMatch":"marvel.",
+		  "sources":"https://archive.is/fDLhO,https://archive.is/wip/8et4W"
+	   },
+	   {
+		  "name":"DC Comics",
+		  "urlMatch":"dccomics.",
+		  "sources":"https://archive.is/wip/8pVKb,https://archive.is/tR9kr"
+	   },
+	   {
+		  "name":"First-avenue Minneapolis",
+		  "urlMatch":"first-avenue.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.ph/YBFkA"
+	   },
+	   {
+		  "name":"Chanhassen Dinner Theatres",
+		  "urlMatch":"chanhassendt.com",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.ph/b8UZ5"
+	   },
+	   {
+		  "name":"DC Entertainment",
+		  "sources":"https://archive.is/wip/8pVKb,https://archive.is/tR9kr"
+	   },
+	   {
+		  "name":"Salesforce",
+		  "urlMatch":"salesforce.",
+		  "sources":"https://archive.is/t1qZB"
+	   },
+	   {
+		  "name":"The Higher Path",
+		  "urlMatch":"thehigherpath.",
+		  "sources":"https://archive.is/wip/QDIGM"
+	   },
+	   {
+		  "name":"Hasbro",
+		  "urlMatch":"hasbro.",
+		  "sources":"https://archive.is/wip/DVxkK"
+	   },
+	   {
+		  "name":"Stonewall",
+		  "urlMatch":"stonewall.org.uk",
+		  "sources":"https://archive.ph/CF00M"
+	   },
+	   {
+		  "name":"Delta Airlines",
+		  "otherNames":[
+			 "Delta Air Lines"
+		  ],
+		  "urlMatch":"delta.com",
+		  "sources":"https://archive.is/ENQiS"
+	   },
+	   {
+		  "name":"NBCUniversal",
+		  "ignoreCase": "1",
+		  "urlMatch":"nbcuniversal.",
+		  "sources":"https://archive.is/wip/L8eyH"
+	   },
+	   {
+		  "name":"Peacock TV",
+		  "urlMatch":"peacocktv.",
+		  "sources":"https://archive.is/wip/L8eyH"
+	   },
+	   {
+		  "name":"Girl Scouts",
+		  "urlMatch":"girlscouts.",
+		  "sources":"https://archive.is/wip/akoeK"
+	   },
+	   {
+		  "name":"Bad Robot",
+		  "urlMatch":"badrobot.",
+		  "sources":"https://archive.is/hXOSp"
+	   },
+	   {
+		  "name":"Cartoon Network",
+		  "urlMatch":"cartoonnetwork.",
+		  "sources":"https://archive.is/CxAd7"
+	   },
+	   {
+		  "name":"Sports Illustrated",
+		  "urlMatch":"si.com",
+		  "sources":"https://archive.is/wip/IOKh0"
+	   },
+	   {
+		  "name":"Netflix",
+		  "urlMatch":"netflix.",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.is/wip/dX6Pb,https://archive.is/UVSEr"
+	   },
+	   {
+		  "name":"Urban Dictionary",
+		  "urlMatch":"urbandictionary.",
+		  "sources":"https://archive.is/y8ZHX"
+	   },
+	   {
+		  "name":"Novant Health",
+		  "urlMatch":"novanthealth.org",
+		  "text":"{wokeRacist}",
+		  "sources":"https://archive.md/fG8CD"
+	   },
+	   {
+		  "name":"Merriam-Webster",
+		  "urlMatch":"merriam-webster.",
+		  "sources":"https://archive.is/aqhWY,https://archive.ph/wip/dPjjh"
+	   },
+	   {
+		  "name":"Cambridge Dictionary",
+		  "urlMatch":"dictionary.cambridge.org",
+		  "sources":"https://archive.vn/wip/0KyrL,https://archive.vn/rb2Pm"
+	   },
+	   {
+		  "name":"Ebay",
+		  "ignoreCase": "1",
+		  "urlMatch":"ebay.",
+		  "sources":"https://archive.is/TYTIz,https://archive.is/wip/kau3L"
+	   },
+	   {
+		  "name":"Major League Baseball",
+		  "otherNames":[
+			 "MLB"
+		  ],
+		  "urlMatch":"mlb.com",
+		  "sources":"https://archive.is/wip/shndE",
+		  "children":[
+			 {
+				"name":"Washington Football Team",
+				"urlMatch":"washingtonfootball.com",
+				"sources":"https://archive.md/wip/H32nu"
+			 },
+			 {
+				"name":"Cleveland Indians",
+				"otherNames":[
+				   "Cleveland Guardians"
+				],
+				"sources":"https://archive.md/wip/H32nu"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Tyson Foods",
+		  "urlMatch":"tysonfoods.com",
+		  "sources":"https://archive.md/wip/Jas4u",
+		  "children":[
+			 {
+				"name":"Saks Fifth Avenue",
+				"urlMatch":"saksfifthavenue.com"
+			 },
+			 {
+				"name":"Morgan Stanley",
+				"urlMatch":"morganstanley.com"
+			 },
+			 {
+				"name":"The Washington Post",
+				"urlMatch":"washingtonpost.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"HFPA",
+		  "urlMatch":"HFPA.",
+		  "sources":"https://archive.is/wip/vXpRe"
+	   },
+	   {
+		  "name":"American Booksellers Association",
+		  "urlMatch":"bookweb.org",
+		  "sources":"https://archive.ph/wip/HZsjc"
+	   },
+	   {
+		  "name":"United Airlines",
+		  "urlMatch":"united.com",
+		  "sources":"https://archive.is/wip/cqItT"
+	   },
+	   {
+		  "name":"Anti-Defamation League",
+		  "otherNames":[
+			 "ADL"
+		  ],
+		  "urlMatch":"adl.org",
+		  "sources":"https://archive.is/wip/zcDuL,https://archive.is/vf7cL"
+	   },
+	   {
+		  "name":"NBC",
+		  "urlMatch":"nbc.",
+		  "sources":"https://archive.is/wip/MS8Nw,https://archive.is/wip/QS9jM",
+		  "children":[
+			 {
+				"name":"Dick Clark Productions",
+				"urlMatch":"dickclark."
+			 },
+			 {
+				"name":"ID PR",
+				"urlMatch":"id-pr."
+			 },
+			 {
+				"name":"Viewpoint Public Relations",
+				"urlMatch":"viewpointpublicrelations."
+			 },
+			 {
+				"name":"The Lede Company",
+				"urlMatch":"ledecompany."
+			 },
+			 {
+				"name":"True Public Relations",
+				"urlMatch":"truepublicrelations."
+			 },
+			 {
+				"name":"Shelter PR",
+				"urlMatch":"shelterpr."
+			 },
+			 {
+				"name":"Relevant PR",
+				"urlMatch":"relevant-pr."
+			 },
+			 {
+				"name":"Kovert Creative",
+				"urlMatch":"kovertcreative."
+			 },
+			 {
+				"name":"Rogers & Cowan",
+				"urlMatch":"rogersandcowanpmk."
+			 },
+			 {
+				"name":"Narrative PR",
+				"urlMatch":"narrative."
+			 },
+			 {
+				"name":"ImPRint",
+				"urlMatch":"imprintpr."
+			 },
+			 {
+				"name":"Slate PR",
+				"urlMatch":"slate-pr."
+			 },
+			 {
+				"name":"Independent Public Relations",
+				"urlMatch":"independentpublicrelations."
+			 },
+			 {
+				"name":"Wolf | Kasteler",
+				"urlMatch":"wk-pr."
+			 },
+			 {
+				"name":"RMG PR",
+				"urlMatch":"rmgandco."
+			 },
+			 {
+				"name":"The Chambers Group",
+				"urlMatch":"thechambergroup."
+			 },
+			 {
+				"name":"The Collins Jackson Agency",
+				"urlMatch":"thecollinsjacksonagency."
+			 },
+			 {
+				"name":"Ascend PR Group",
+				"urlMatch":"ascendprgroup."
+			 },
+			 {
+				"name":"Red Sea Entertainment",
+				"urlMatch":"redseaentertainment."
+			 },
+			 {
+				"name":"SYE Publicity",
+				"urlMatch":"sye-publicity."
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Paul, Weiss",
+		  "urlMatch":"paulweiss.com",
+		  "sources":"https://archive.is/PBGZ1",
+		  "children":[
+			 {
+				"name":"Simpson Thacher",
+				"urlMatch":"stblaw.com"
+			 },
+			 {
+				"name":"Skadden",
+				"urlMatch":"skadden.com"
+			 },
+			 {
+				"name":"Akin Gump",
+				"urlMatch":"akingump.com"
+			 },
+			 {
+				"name":"Cravath, Swaine & Moore",
+				"urlMatch":"cravath.com"
+			 },
+			 {
+				"name":"Ropes & Gray",
+				"urlMatch":"ropesgray.com"
+			 },
+			 {
+				"name":"Sullivan & Cromwell",
+				"urlMatch":"sullcrom.com"
+			 },
+			 {
+				"name":"Weil, Gotshal & Manges",
+				"urlMatch":"weil.com"
+			 },
+			 {
+				"name":"Wachtel Lipton",
+				"urlMatch":"wlrk.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Dr Pepper",
+		  "urlMatch":"drpepper.com",
+		  "sources":"https://archive.is/l6Yy9,https://archive.is/wip/zWqJZ,https://archive.is/wip/oLSGI",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			 {
+				"name":"Dr Pepper",
+				"urlMatch":"keurigdrpepper.com"
+			 },
+			 {
+				"name":"7 Up",
+				"otherNames":[
+				   "7UP"
+				],
+				"urlMatch":"7up.com"
+			 },
+			 {
+				"name":"Keurig",
+				"urlMatch":"keurig.com"
+			 },
+			 {
+				"name":"A&W Root Beer",
+				"urlMatch":"rootbeer.com"
+			 },
+			 {
+				"name":"A&W Cream Soda"
+			 },
+			 {
+				"name":"Mr & Mrs T",
+				"urlMatch":"mrandmrst.com"
+			 },
+			 {
+				"name":"Mott's",
+				"urlMatch":"motts.com"
+			 },
+			 {
+				"name":"Sussex Golden Ginger Ale"
+			 },
+			 {
+				"name":"C'plus"
+			 },
+			 {
+				"name":"Van Houtte",
+				"urlMatch":"vanhoutte.com"
+			 },
+			 {
+				"name":"Tully's Coffee",
+				"urlMatch":".tullys."
+			 },
+			 {
+				"name":"Timothy's World Coffee",
+				"urlMatch":"timothyscafes.com"
+			 },
+			 {
+				"name":"Diedrich Coffee"
+			 },
+			 {
+				"name":"Bai Brands",
+				"urlMatch":"drinkbai.com"
+			 },
+			 {
+				"name":"Cactus Cooler"
+			 },
+			 {
+				"name":"Canada Dry",
+				"urlMatch":"canadadry.com"
+			 },
+			 {
+				"name":"Canfield's"
+			 },
+			 {
+				"name":"Clamato brand",
+				"urlMatch":"clamato.com"
+			 },
+			 {
+				"name":"Dejà Blue",
+				"otherNames":[
+				   "Deja Blue"
+				]
+			 },
+			 {
+				"name":"Diet Rite"
+			 },
+			 {
+				"name":"Hawaiian Punch"
+			 },
+			 {
+				"name":"Hires Root Beer"
+			 },
+			 {
+				"name":"Mistic Beverages"
+			 },
+			 {
+				"name":"Nantucket Nectars"
+			 },
+			 {
+				"name":"Nehi"
+			 },
+			 {
+				"name":"IBC Root Beer",
+				"urlMatch":"ibcrootbeer.com"
+			 },
+			 {
+				"name":"ReaLemon",
+				"urlMatch":"realemon.ca"
+			 },
+			 {
+				"name":"ReaLime"
+			 },
+			 {
+				"name":"Schweppes",
+				"urlMatch":"schweppes."
+			 },
+			 {
+				"name":"Snapple",
+				"urlMatch":"snapple.com"
+			 },
+			 {
+				"name":"Squirt Soda",
+				"urlMatch":"squirtsoda.com"
+			 },
+			 {
+				"name":"Stewart's Fountain Classics",
+				"urlMatch":"drinkstewarts.com"
+			 },
+			 {
+				"name":"Tahitian Treat"
+			 },
+			 {
+				"name":"Venom Energy",
+				"urlMatch":"venomenergy.com"
+			 },
+			 {
+				"name":"Vernors "
+			 },
+			 {
+				"name":"Yoo-hoo",
+				"urlMatch":"yoo-hoo.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"PepsiCo",
+		  "urlMatch":"pepsico.",
+		  "sources":"https://archive.is/a3Zfo",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			 {
+				"name":"Green Mountain Coffee",
+				"urlMatch":"gmcr.com"
+			 },
+			 {
+				"name":"Tropicana Products",
+				"urlMatch":"tropicana.com"
+			 },
+			 {
+				"name":"Mountain Dew",
+				"urlMatch":"mountaindew.com"
+			 },
+			 {
+				"name":"Alvalle",
+				"urlMatch":"alvalle.com"
+			 },
+			 {
+				"name":"Aquafina",
+				"urlMatch":"aquafina.com"
+			 },
+			 {
+				"name":"Cap'n Crunch",
+				"urlMatch":"capncrunch.com"
+			 },
+			 {
+				"name":"Cheetos",
+				"urlMatch":"cheetos.com"
+			 },
+			 {
+				"name":"Cracker Jack",
+				"urlMatch":"crackerjack.com"
+			 },
+			 {
+				"name":"Elma Chips"
+			 },
+			 {
+				"name":"Duyvis",
+				"urlMatch":"duyvis.nl"
+			 },
+			 {
+				"name":"Frito-Lay",
+				"urlMatch":"fritolay.com"
+			 },
+			 {
+				"name":"FritoLay",
+				"urlMatch":"fritolayemployment.com"
+			 },
+			 {
+				"name":"Fritos",
+				"urlMatch":"fritos.com"
+			 },
+			 {
+				"name":"Imunele"
+			 },
+			 {
+				"name":"IZZE ",
+				"ignoreCase": "1",
+				"urlMatch":"izze.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Dansk Industri",
+		  "urlMatch":"danskindustri.dk",
+		  "sources":"https://archive.is/wip/0ugxl,https://archive.is/wip/xIW5U",
+		  "children":[
+			 {
+				"name":"Atkins",
+				"urlMatch":"atkins."
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Atlassian",
+		  "urlMatch":"atlassian.com",
+		  "sources":"https://archive.is/l6Yy9,https://archive.is/wip/oLSGI,https://archive.is/wip/zWqJZ",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			 {
+				"name":"Jira"
+			 },
+			 {
+				"name":"Bitbucket",
+				"urlMatch":"bitbucket.org"
+			 },
+			 {
+				"name":"Trello",
+				"urlMatch":"trello.com"
+			 },
+			 {
+				"name":"Sourcetree",
+				"urlMatch":"sourcetreeapp.com"
+			 },
+			 {
+				"name":"Statuspage",
+				"urlMatch":"statuspage.io"
+			 },
+			 {
+				"name":"Mindville",
+				"urlMatch":"mindville.com"
+			 },
+			 {
+				"name":"Halp",
+				"urlMatch":"halp.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"American Civil Liberties Union",
+		  "otherNames":[
+			 "ACLU"
+		  ],
+		  "urlMatch":"aclu.org",
+		  "sources":"https://archive.is/l6Yy9,https://archive.is/wip/oLSGI,https://archive.is/wip/zWqJZ",
+		  "children":[
+			 {
+				"name":"NAACP",
+				"urlMatch":"naacp.org"
+			 },
+			 {
+				"name":"National Association for the Advancement of Colored People"
+			 },
+			 {
+				"name":"Berkshire Hathaway",
+				"urlMatch":"berkshirehathaway.com"
+			 },
+			 {
+				"name":"Synchrony",
+				"urlMatch":"synchrony.com"
+			 },
+			 {
+				"name":"My Synchrony",
+				"urlMatch":"mysynchrony.com"
+			 },
+			 {
+				"name":"Synchrony Business",
+				"urlMatch":"synchronybusiness.com"
+			 },
+			 {
+				"name":"Synchrony Careers",
+				"urlMatch":"synchronycareers.com"
+			 },
+			 {
+				"name":"Synchrony Bank",
+				"urlMatch":"synchronybank.com"
+			 },
+			 {
+				"name":"BlackRock",
+				"urlMatch":"blackrock.com"
+			 },
+			 {
+				"name":"Brennan Center for Justice",
+				"otherNames":[
+				   "Brennan Justice Center"
+				],
+				"urlMatch":"brennancenter.org",
+				"sources":"https://archive.is/od7e9"
+			 },
+			 {
+				"name":"TIAA",
+				"urlMatch":"tiaa.org"
+			 },
+			 {
+				"name":"Ariel Investments",
+				"urlMatch":"arielinvestments."
+			 },
+			 {
+				"name":"Vista Equity Partners",
+				"urlMatch":"vistaequitypartners."
+			 },
+			 {
+				"name":"Merck",
+				"urlMatch":"merckgroup."
+			 },
+			 {
+				"name":"Patagonia",
+				"urlMatch":"patagonia."
+			 },
+			 {
+				"name":"Civic Alliance",
+				"urlMatch":"civicalliance."
+			 },
+			 {
+				"name":"Zillow",
+				"urlMatch":"Zillow.com"
+			 },
+			 {
+				"name":"Mailchimp",
+				"otherNames":[
+				   "Mail Chimp"
+				],
+				"urlMatch":"mailchimp.",
+				"sources":"https://archive.is/lFqEN,https://archive.is/wip/AvlEM,https://archive.is/wip/xo75N"
+			 },
+			 {
+				"name":"WordPress",
+				"urlMatch":"wordpress.com",
+				"sources":"https://archive.is/wip/tOaID"
+			 },
+			 {
+				"name":"Business Roundtable",
+				"urlMatch":"businessroundtable."
+			 },
+			 {
+				"name":"JPMorgan Chase",
+				"otherNames":[
+				   "Chase Bank", 
+				   "J.P. Morgan", 
+				   "JP Morgan Chase"
+				],
+				"urlMatch":"jpmorganchase."
+			 },
+			 {
+				"name":"Aflac",
+				"ignoreCase": "1",
+				"urlMatch":"aflac."
+			 },
+			 {
+				"name":"Abercrombie & Fitch",
+				"urlMatch":"abercrombie."
+			 },
+			 {
+				"name":"Cardinal Health",
+				"urlMatch":"cardinalhealth."
+			 },
+			 {
+				"name":"Estée Lauder",
+				"otherNames":[
+				   "Estee Lauder"
+				],
+				"urlMatch":"esteelauder."
+			 },
+			 {
+				"name":"Southwest Airlines",
+				"urlMatch":"southwest.com"
+			 },
+			 {
+				"name":"88 ACRES",
+				"urlMatch":"88acres."
+			 },
+			 {
+				"name":"A to Z Wineworks",
+				"urlMatch":"atozwineworks."
+			 },
+			 {
+				"name":"Air Cloud collaboration",
+				"urlMatch":"air.inc"
+			 },
+			 {
+				"name":"airCFO",
+				"urlMatch":"aircfo.com"
+			 },
+			 {
+				"name":"Akamai",
+				"urlMatch":"akamai.com"
+			 },
+			 {
+				"name":"ALOHA",
+				"urlMatch":"aloha.com"
+			 },
+			 {
+				"name":"Anonymous Content",
+				"urlMatch":"anonymouscontent."
+			 },
+			 {
+				"name":"Antiva Biosciences",
+				"urlMatch":"antivabio.com"
+			 },
+			 {
+				"name":"American Prison Data Systems",
+				"urlMatch":"apdscorporate.com"
+			 },
+			 {
+				"name":"Arborview Capital",
+				"urlMatch":"arborviewcapital.com"
+			 },
+			 {
+				"name":"ASCAP",
+				"urlMatch":"ascap.com"
+			 },
+			 {
+				"name":"Atlanta Hawks",
+				"urlMatch":"nba.com/hawks"
+			 },
+			 {
+				"name":"Avenue Agency",
+				"urlMatch":"avenueagency.com"
+			 },
+			 {
+				"name":"Avocado Green Brands",
+				"urlMatch":"avocadogreenbrands.com"
+			 },
+			 {
+				"name":"Azavea",
+				"urlMatch":"azavea.com"
+			 },
+			 {
+				"name":"B Lab",
+				"urlMatch":"bcorporation."
+			 },
+			 {
+				"name":"Bain & Company",
+				"urlMatch":"bain.com"
+			 },
+			 {
+				"name":"Balanced Blends",
+				"urlMatch":"balancedblends.com"
+			 },
+			 {
+				"name":"bambu",
+				"urlMatch":"bambuhome.com"
+			 },
+			 {
+				"name":"Bark Media",
+				"urlMatch":"barkmediaco.com"
+			 },
+			 {
+				"name":"Beehive Strategic Communication",
+				"urlMatch":"beehivepr."
+			 },
+			 {
+				"name":"Better Mortgage",
+				"urlMatch":"better.com"
+			 },
+			 {
+				"name":"Bird Rides",
+				"urlMatch":"bird.co"
+			 },
+			 {
+				"name":"The Black Tux",
+				"urlMatch":"theblacktux.com"
+			 },
+			 {
+				"name":"Blackbird Benefits Collective",
+				"urlMatch":"blackbirdbenefits.org"
+			 },
+			 {
+				"name":"Blue Apron",
+				"urlMatch":"blueapron.com"
+			 },
+			 {
+				"name":"Bombas",
+				"urlMatch":"bombas.com"
+			 },
+			 {
+				"name":"Boston Consulting Group",
+				"urlMatch":"bcg.com"
+			 },
+			 {
+				"name":"Burton ",
+				"urlMatch":"burton.com"
+			 },
+			 {
+				"name":"Business Forward",
+				"urlMatch":"businessfwd.org"
+			 },
+			 {
+				"name":"Capital One",
+				"urlMatch":"capitalone.com"
+			 },
+			 {
+				"name":"Casebook PBC.",
+				"urlMatch":"casebook.net"
+			 },
+			 {
+				"name":"Chegg",
+				"urlMatch":"chegg.com"
+			 },
+			 {
+				"name":"Cheney Forensic Consulting",
+				"urlMatch":"cheneyforensics.com"
+			 },
+			 {
+				"name":"Chicory Wealth",
+				"urlMatch":"chicorywealth.com"
+			 },
+			 {
+				"name":"Chief Executives for Corporate Purpose",
+				"otherNames":[
+				   "CECP"
+				],
+				"urlMatch":"cecp.co"
+			 },
+			 {
+				"name":"Civis Analytics",
+				"urlMatch":"civisanalytics.com"
+			 },
+			 {
+				"name":"Cohen Strategy Group",
+				"urlMatch":"cohenstrategygroup.com"
+			 },
+			 {
+				"name":"Commonwealth non-profit",
+				"urlMatch":"buildcommonwealth.org"
+			 },
+			 {
+				"name":"Compass Coffee",
+				"urlMatch":"compasscoffee.com"
+			 },
+			 {
+				"name":"Compose[d]",
+				"urlMatch":"composedcreative.com"
+			 },
+			 {
+				"name":"Connective Impact",
+				"urlMatch":"connectiveimpact.com"
+			 },
+			 {
+				"name":"Council Fire",
+				"urlMatch":"councilfire.org"
+			 },
+			 {
+				"name":"Creative Artists Agency",
+				"otherNames":[
+				   "CAA"
+				],
+				"urlMatch":"caa.com"
+			 },
+			 {
+				"name":"Decisely",
+				"urlMatch":"decisely.com"
+			 },
+			 {
+				"name":"Discovery Inc",
+				"urlMatch":"corporate.discovery."
+			 },
+			 {
+				"name":"Dow Inc",
+				"otherNames":[
+				   "Dow Corporate"
+				],
+				"urlMatch":"corporate.dow."
+			 },
+			 {
+				"name":"Edelman",
+				"urlMatch":"edelman.com"
+			 },
+			 {
+				"name":"EJP Events",
+				"urlMatch":"ejpevents.com"
+			 },
+			 {
+				"name":"Embark Veterinary",
+				"urlMatch":"embarkvet.com"
+			 },
+			 {
+				"name":"Enriched Couples",
+				"urlMatch":"linktr.ee/enrichedcouples"
+			 },
+			 {
+				"name":"Entegrit",
+				"urlMatch":"entegrit.com"
+			 },
+			 {
+				"name":"Enutriot",
+				"urlMatch":"enutriot.com"
+			 },
+			 {
+				"name":"EOS Lip Balm",
+				"ignoreCase": "1",
+				"urlMatch":"evolutionofsmooth.com"
+			 },
+			 {
+				"name":"Estrella Media",
+				"urlMatch":"estrellamedia.com"
+			 },
+			 {
+				"name":"Eventbrite",
+				"urlMatch":"eventbrite.com"
+			 },
+			 {
+				"name":"Fenwick & West",
+				"urlMatch":"fenwick.com"
+			 },
+			 {
+				"name":"Ferrara Candy",
+				"urlMatch":"ferrarausa.com"
+			 },
+			 {
+				"name":"Fifth Avenue Brands",
+				"urlMatch":"fifthavenuebrands.com"
+			 },
+			 {
+				"name":"Film Movement",
+				"urlMatch":"filmmovement.com"
+			 },
+			 {
+				"name":"SFT Global",
+				"urlMatch":"f6s.com"
+			 },
+			 {
+				"name":"Folly Ventures",
+				"urlMatch":"follyventures.com"
+			 },
+			 {
+				"name":"Fors Marsh Group",
+				"urlMatch":"forsmarshgroup.com"
+			 },
+			 {
+				"name":"Fuller Consulting",
+				"otherNames":[
+				   "Fuller Perez"
+				],
+				"urlMatch":"fullerperez.com"
+			 },
+			 {
+				"name":"GC Ungo Immigration Law",
+				"ignoreCase": "1",
+				"urlMatch":"gcungoimmigration.com"
+			 },
+			 {
+				"name":"Gelin Benefits Group",
+				"urlMatch":"gelinbenefitsgroup.com"
+			 },
+			 {
+				"name":"GitHub",
+				"urlMatch":"github.com"
+			 },
+			 {
+				"name":"Global Gateway Advisors",
+				"urlMatch":"globalgatewayadvisors.com"
+			 },
+			 {
+				"name":"Global Prairie",
+				"urlMatch":"globalprairie.com"
+			 },
+			 {
+				"name":"Glow Gather",
+				"otherNames":[
+				   "glowandgather"
+				],
+				"urlMatch":"glowandgather.com"
+			 },
+			 {
+				"name":"goTenna",
+				"urlMatch":"gotenna.com"
+			 },
+			 {
+				"name":"Gobee",
+				"urlMatch":"gobeegroup.com"
+			 },
+			 {
+				"name":"Good Fear Content",
+				"urlMatch":"good-fear.com"
+			 },
+			 {
+				"name":"goodDog",
+				"urlMatch":"wearegooddog.com"
+			 },
+			 {
+				"name":"Greeley and Hansen",
+				"urlMatch":"greeleyhansen.com"
+			 },
+			 {
+				"name":"GuildWorks",
+				"urlMatch":"guildworks.com"
+			 },
+			 {
+				"name":"HandsOnConnect",
+				"urlMatch":"handsonconnect.org"
+			 },
+			 {
+				"name":"Harness Cycle",
+				"urlMatch":"harnesscycle.com"
+			 },
+			 {
+				"name":"Higher Grounds Trading",
+				"otherNames":[
+				   "Higher Grounds Coffee"
+				],
+				"urlMatch":"highergroundstrading.com"
+			 },
+			 {
+				"name":"HigherRing",
+				"urlMatch":"higherring.com"
+			 },
+			 {
+				"name":"Hill Holliday",
+				"urlMatch":"hhcc.com"
+			 },
+			 {
+				"name":"Impactree",
+				"urlMatch":"impactree.com"
+			 },
+			 {
+				"name":"Impactual",
+				"urlMatch":"impactual.com"
+			 },
+			 {
+				"name":"Ingenuity Studios",
+				"urlMatch":"ingenuitystudios.com"
+			 },
+			 {
+				"name":"Instacart",
+				"urlMatch":"instacart.com"
+			 },
+			 {
+				"name":"Integral Communications Group",
+				"urlMatch":"teamintegral.com"
+			 },
+			 {
+				"name":"Interpublic Group",
+				"urlMatch":"interpublic.com"
+			 },
+			 {
+				"name":"IPG DXTRA",
+				"urlMatch":"ipgdxtra.com"
+			 },
+			 {
+				"name":"IAVA",
+				"urlMatch":"iava.org"
+			 },
+			 {
+				"name":"IWP Family Office",
+				"urlMatch":"iwpfo.com"
+			 },
+			 {
+				"name":"JFF",
+				"urlMatch":"jff.org"
+			 },
+			 {
+				"name":"Juniper Networks",
+				"urlMatch":"juniper.net"
+			 },
+			 {
+				"name":"Junto Health",
+				"urlMatch":"juntohealth.org"
+			 },
+			 {
+				"name":"JustLaws",
+				"urlMatch":"justlaws.org"
+			 },
+			 {
+				"name":"JW Player",
+				"urlMatch":"jwplayer.com"
+			 },
+			 {
+				"name":"Kargo Global",
+				"urlMatch":"kargo.com"
+			 },
+			 {
+				"name":"Ketchum Inc",
+				"urlMatch":"ketchum.com"
+			 },
+			 {
+				"name":"Kids in the Game",
+				"urlMatch":"kidsinthegame.com"
+			 },
+			 {
+				"name":"Kinesis Business",
+				"urlMatch":"kinesisinc.com"
+			 },
+			 {
+				"name":"KOACORE",
+				"urlMatch":"koacore.com"
+			 },
+			 {
+				"name":"KULE",
+				"urlMatch":"kule.com"
+			 },
+			 {
+				"name":"La Colombe Coffee",
+				"urlMatch":"lacolombe.com"
+			 },
+			 {
+				"name":"Lake Champlain Chocolates",
+				"urlMatch":"lakechamplainchocolates.com"
+			 },
+			 {
+				"name":"Laseronics",
+				"urlMatch":"laseronics.com"
+			 },
+			 {
+				"name":"Lattice",
+				"urlMatch":"lattice.com"
+			 },
+			 {
+				"name":"Leanpath",
+				"urlMatch":"leanpath.com"
+			 },
+			 {
+				"name":"Legacy Vacation Resorts",
+				"urlMatch":"legacyvacationresorts.com"
+			 },
+			 {
+				"name":"LEVICK",
+				"urlMatch":"levick.com"
+			 },
+			 {
+				"name":"Lime Micromobility",
+				"urlMatch":"li.me"
+			 },
+			 {
+				"name":"Live in Their World",
+				"urlMatch":"liveintheirworld.com"
+			 },
+			 {
+				"name":"Longpath",
+				"urlMatch":"longpath.org"
+			 },
+			 {
+				"name":"MaCher",
+				"urlMatch":"macher.com"
+			 },
+			 {
+				"name":"MainStreet Design Build",
+				"urlMatch":"mainstreetdesignbuild.com"
+			 },
+			 {
+				"name":"MediaCombo",
+				"urlMatch":"mediacombo.net"
+			 },
+			 {
+				"name":"Meliora Cleaning Products",
+				"urlMatch":"meliorameansbetter.com"
+			 },
+			 {
+				"name":"Mentor Collective",
+				"urlMatch":"mentorcollective.org"
+			 },
+			 {
+				"name":"MENTOR",
+				"urlMatch":"mentoring.org"
+			 },
+			 {
+				"name":"MERGE4",
+				"urlMatch":"merge4.com"
+			 },
+			 {
+				"name":"Meteorite Advisors",
+				"urlMatch":"wearemeteorite.com"
+			 },
+			 {
+				"name":"Metropolitan Group",
+				"urlMatch":"metgroup.com"
+			 },
+			 {
+				"name":"mightybytes",
+				"urlMatch":"mightybytes.com"
+			 },
+			 {
+				"name":"MiMoto",
+				"urlMatch":"mimoto.it"
+			 },
+			 {
+				"name":"Mischief Management",
+				"urlMatch":"mischiefmanagement.com"
+			 },
+			 {
+				"name":"Mister Car Wash",
+				"urlMatch":"mistercarwash.com"
+			 },
+			 {
+				"name":"Morningstar, Inc",
+				"urlMatch":"morningstar."
+			 },
+			 {
+				"name":"MyZolve",
+				"urlMatch":"employeeofchoice.org"
+			 },
+			 {
+				"name":"Namasté Solar",
+				"urlMatch":"namastesolar.com"
+			 },
+			 {
+				"name":"NationSwell",
+				"urlMatch":"nationswell.com"
+			 },
+			 {
+				"name":"New Belgium Brewing",
+				"urlMatch":"newbelgium.com"
+			 },
+			 {
+				"name":"Neil Kelly",
+				"urlMatch":"neilkelly.com"
+			 },
+			 {
+				"name":"No Evil Foods",
+				"urlMatch":"noevilfoods.com"
+			 },
+			 {
+				"name":"Nucleus Group",
+				"urlMatch":"thenucleusgroup.com"
+			 },
+			 {
+				"name":"OfferUp",
+				"urlMatch":"offerup.com"
+			 },
+			 {
+				"name":"Okta",
+				"urlMatch":"okta.com"
+			 },
+			 {
+				"name":"Omaze",
+				"urlMatch":"omaze.com"
+			 },
+			 {
+				"name":"Omnicom Group",
+				"urlMatch":"omnicomgroup.com"
+			 },
+			 {
+				"name":"One More Thing LLC",
+				"urlMatch":"onemorethingllc.com"
+			 },
+			 {
+				"name":"OrgVitality",
+				"urlMatch":"orgvitality.com"
+			 },
+			 {
+				"name":"Owler",
+				"urlMatch":"owler.com"
+			 },
+			 {
+				"name":"PagerDuty",
+				"urlMatch":"pagerduty.com"
+			 },
+			 {
+				"name":"Participant Inc",
+				"ignoreCase": "1",
+				"urlMatch":"participant.com"
+			 },
+			 {
+				"name":"Paths To Peace",
+				"urlMatch":"pathspeace.com"
+			 },
+			 {
+				"name":"Payability",
+				"urlMatch":"payability.com"
+			 },
+			 {
+				"name":"Petco",
+				"urlMatch":"petco.com"
+			 },
+			 {
+				"name":"Pharmavite",
+				"urlMatch":"pharmavite.com"
+			 },
+			 {
+				"name":"Phil Simon",
+				"urlMatch":"philsimon.com"
+			 },
+			 {
+				"name":"Pinterest",
+				"urlMatch":"pintrest."
+			 },
+			 {
+				"name":"Pivt",
+				"urlMatch":"pivtapp.com"
+			 },
+			 {
+				"name":"Pixel Forge Studios",
+				"urlMatch":"pixelforgestudios.com"
+			 },
+			 {
+				"name":"Plaine Products",
+				"urlMatch":"plaineproducts.com"
+			 },
+			 {
+				"name":"Porchlight Book Company",
+				"urlMatch":"porchlightbooks.com"
+			 },
+			 {
+				"name":"PRA – Experience Anywhere",
+				"urlMatch":"pra.com"
+			 },
+			 {
+				"name":"Posy Amenities",
+				"urlMatch":"posyamenities.com"
+			 },
+			 {
+				"name":"Presence II Productions",
+				"urlMatch":"presenceiiproductions.com"
+			 },
+			 {
+				"name":"Prialto",
+				"urlMatch":"prialto.com"
+			 },
+			 {
+				"name":"Primal Screen",
+				"urlMatch":"primalscreen.com"
+			 },
+			 {
+				"name":"Productboard",
+				"urlMatch":"productboard.com"
+			 },
+			 {
+				"name":"QFlow.ai",
+				"urlMatch":"qflow.ai"
+			 },
+			 {
+				"name":"Qnary",
+				"urlMatch":"qnary.com"
+			 },
+			 {
+				"name":"R/GA",
+				"urlMatch":"rga.com"
+			 },
+			 {
+				"name":"La-X",
+				"urlMatch":"lax.fm"
+			 },
+			 {
+				"name":"Ranker LLC",
+				"urlMatch":"ranker.com"
+			 },
+			 {
+				"name":"Ready Set Rocket",
+				"urlMatch":"readysetrocket.com"
+			 },
+			 {
+				"name":"REI Co-op",
+				"urlMatch":"rei.com"
+			 },
+			 {
+				"name":"Riffyn",
+				"urlMatch":"riffyn.com"
+			 },
+			 {
+				"name":"Rinse, Inc",
+				"urlMatch":"rinse.com"
+			 },
+			 {
+				"name":"Rivanna Natural Designs",
+				"urlMatch":"rivannadesigns.com"
+			 },
+			 {
+				"name":"Roger That Agency",
+				"urlMatch":"rogerthat.agency"
+			 },
+			 {
+				"name":"SAGE",
+				"urlMatch":"sagepub."
+			 },
+			 {
+				"name":"Salt Palm Development",
+				"urlMatch":"saltpalm.com"
+			 },
+			 {
+				"name":"Sanspeur",
+				"urlMatch":"megmassey.co"
+			 },
+			 {
+				"name":"SAP",
+				"urlMatch":"sap.com"
+			 },
+			 {
+				"name":"Scribe Media",
+				"urlMatch":"scribemedia.com"
+			 },
+			 {
+				"name":"Selflessly Inc",
+				"urlMatch":"selflessly.io"
+			 },
+			 {
+				"name":"Sharebite",
+				"urlMatch":"sharebite.com"
+			 },
+			 {
+				"name":"Shipt",
+				"urlMatch":"shipt.com"
+			 },
+			 {
+				"name":"Shorelight",
+				"urlMatch":"shorelight.com"
+			 },
+			 {
+				"name":"Silicon Valley Bank",
+				"urlMatch":"svb.com"
+			 },
+			 {
+				"name":"SoFi Financing",
+				"urlMatch":"sofi.com"
+			 },
+			 {
+				"name":"SRS Acquiom",
+				"urlMatch":"srsacquiom.com"
+			 },
+			 {
+				"name":"Startgrid",
+				"urlMatch":"startgrid.com"
+			 },
+			 {
+				"name":"STRATA9",
+				"urlMatch":"strata9.com"
+			 },
+			 {
+				"name":"SurveyMonkey",
+				"urlMatch":"surveymonkey.com"
+			 },
+			 {
+				"name":"Sweetgreen",
+				"ignoreCase": "1",
+				"urlMatch":"sweetgreen.com"
+			 },
+			 {
+				"name":"Sydney Hale Company",
+				"urlMatch":"sydneyhaleco.com"
+			 },
+			 {
+				"name":"Symbio Strategies",
+				"urlMatch":"symbiostrategies.com"
+			 },
+			 {
+				"name":"Take The Lead",
+				"urlMatch":"taketheleadwomen.com"
+			 },
+			 {
+				"name":"Teamble",
+				"urlMatch":"teamble.com"
+			 },
+			 {
+				"name":"The Goodness Collaborative",
+				"urlMatch":"thegoodnesscollaborative.com"
+			 },
+			 {
+				"name":"The One Nine Three Group",
+				"urlMatch":"the193.com"
+			 },
+			 {
+				"name":"Tofurky",
+				"urlMatch":"tofurky.com"
+			 },
+			 {
+				"name":"Think Shift",
+				"urlMatch":"thinkshiftinc.com"
+			 },
+			 {
+				"name":"Third Plateau",
+				"urlMatch":"thirdplateau.com"
+			 },
+			 {
+				"name":"Thirty Madison",
+				"urlMatch":"thirtymadison.com"
+			 },
+			 {
+				"name":"Thumbtack",
+				"urlMatch":"thumbtack.com"
+			 },
+			 {
+				"name":"Trail of Bits",
+				"urlMatch":"trailofbits.com"
+			 },
+			 {
+				"name":"Tripadvisor",
+				"urlMatch":"tripadvisor.com"
+			 },
+			 {
+				"name":"TripZero",
+				"urlMatch":"tripzero.com"
+			 },
+			 {
+				"name":"True Platform",
+				"urlMatch":"trueplatform.com"
+			 },
+			 {
+				"name":"Twilio",
+				"urlMatch":"twilio.com"
+			 },
+			 {
+				"name":"United Therapeutics",
+				"urlMatch":"unither.com"
+			 },
+			 {
+				"name":"Univision Communications",
+				"urlMatch":"univision.com"
+			 },
+			 {
+				"name":"VeraWorks, Inc",
+				"urlMatch":"beaboccalandro.com"
+			 },
+			 {
+				"name":"Verdical Group",
+				"urlMatch":"verdicalgroup.com"
+			 },
+			 {
+				"name":"Veritable Vegetable",
+				"urlMatch":"veritablevegetable.com"
+			 },
+			 {
+				"name":"Verrah",
+				"urlMatch":"verrah.com"
+			 },
+			 {
+				"name":"Vestwell",
+				"urlMatch":"vestwell.com"
+			 },
+			 {
+				"name":"VIANOVA",
+				"urlMatch":"thevianovagroup.com"
+			 },
+			 {
+				"name":"Visceral: Brand & Digital Design Agency",
+				"urlMatch":"thisisvisceral.com"
+			 },
+			 {
+				"name":"The Vivid Leader, LLC",
+				"urlMatch":"thevividleaderllc.com"
+			 },
+			 {
+				"name":"Warby Parker",
+				"urlMatch":"warbyparker.com"
+			 },
+			 {
+				"name":"Weber Shandwick",
+				"urlMatch":"webershandwick.com"
+			 },
+			 {
+				"name":"Wilks Communications Group",
+				"urlMatch":"wilksgrp.com"
+			 },
+			 {
+				"name":"Wordbank LLC",
+				"urlMatch":"wordbank.com"
+			 },
+			 {
+				"name":"Yetter Consulting Services",
+				"otherNames":[
+				   "Yetter Tax Consulting"
+				],
+				"urlMatch":"yettertax.com"
+			 },
+			 {
+				"name":"YIKES, Inc",
+				"otherNames":[
+				   "YIKES Inc"
+				],
+				"urlMatch":"yikesinc.com"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Southern New Hampshire University",
+		  "urlMatch":"snhu.edu",
+		  "sources":"https://archive.is/wip/tl6Pu,https://archive.is/wip/H2jQD",
+		  "children":[
+			 {
+				"name":"University of New Hampshire",
+				"urlMatch":"unh.edu"
+			 },
+			 {
+				"name":"New Hampshire Charitable Foundation"
+			 },
+			 {
+				"name":"ReVision Energy",
+				"urlMatch":"revisionenergy."
+			 },
+			 {
+				"name":"W.S. Badger Company",
+				"otherNames":[
+				   "Badger Balm"
+				],
+				"urlMatch":"badgerbalm."
+			 },
+			 {
+				"name":"Mascoma Bank",
+				"urlMatch":"mascomabank."
+			 },
+			 {
+				"name":"NeighborWorks Southern New Hampshire",
+				"urlMatch":"nwsnh.org."
+			 },
+			 {
+				"name":"Center for Women & Enterprise",
+				"urlMatch":"cweonline.org"
+			 },
+			 {
+				"name":"Hypertherm",
+				"urlMatch":"hypertherm."
+			 },
+			 {
+				"name":"Northeast Delta Dental",
+				"urlMatch":"nedelta.com"
+			 },
+			 {
+				"name":"Dartmouth-Hitchcock",
+				"urlMatch":"dartmouth-hitchcock.org"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Procter & Gamble",
+		  "urlMatch":"pgcareers.",
+		  "sources":"https://archive.is/JSMO4",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			 {
+				"name":"Procter & Gamble",
+				"urlMatch":"us.pg."
+			 },
+			 {
+				"name":"Bounty Paper Towels",
+				"urlMatch":"bountytowels."
+			 },
+			 {
+				"name":"Charmin",
+				"urlMatch":"charmin."
+			 },
+			 {
+				"name":"Puffs Facial Tissues",
+				"urlMatch":"puffs."
+			 },
+			 {
+				"name":"Just Periods",
+				"urlMatch":"justperiods."
+			 },
+			 {
+				"name":"ALWAYS DISCREET",
+				"urlMatch":"alwaysdiscreet."
+			 },
+			 {
+				"name":"Always (Brand)",
+				"urlMatch":"always."
+			 },
+			 {
+				"name":"Tampax Tampons",
+				"urlMatch":"tampax."
+			 },
+			 {
+				"name":"ThisIsL",
+				"urlMatch":"thisisl."
+			 },
+			 {
+				"name":"Braun",
+				"urlMatch":"braun."
+			 },
+			 {
+				"name":"joy+glee",
+				"urlMatch":"joyandglee."
+			 },
+			 {
+				"name":"The Art of Shaving",
+				"urlMatch":"theartofshaving."
+			 },
+			 {
+				"name":"Aussie: Hair & Styling",
+				"urlMatch":"aussie."
+			 },
+			 {
+				"name":"Head & Shoulders",
+				"urlMatch":"headandshoulders."
+			 },
+			 {
+				"name":"Herbal Essences",
+				"urlMatch":"herbalessences."
+			 },
+			 {
+				"name":"Pantene",
+				"urlMatch":"pantene."
+			 },
+			 {
+				"name":"Old Spice",
+				"urlMatch":"oldspice.",
+				"text":"Old Spice push wokeness.",
+				"sources":"https://archive.is/1UK5d"
+			 },
+			 {
+				"name":"My Black is Beautiful",
+				"urlMatch":"mbib."
+			 },
+			 {
+				"name":"P&G Professional",
+				"urlMatch":"pgpro."
+			 },
+			 {
+				"name":"Cascade Detergent",
+				"urlMatch":"cascadeclean."
+			 },
+			 {
+				"name":"Dawn Dish Soap",
+				"urlMatch":"dawn-dish."
+			 },
+			 {
+				"name":"Microban24",
+				"urlMatch":"microban24."
+			 },
+			 {
+				"name":"Gain Laundry",
+				"urlMatch":"ilovegain."
+			 },
+			 {
+				"name":"Febreze",
+				"urlMatch":"febreze."
+			 },
+			 {
+				"name":"Mr.Clean",
+				"ignoreCase": "1",
+				"urlMatch":"mrclean."
+			 },
+			 {
+				"name":"Salvo Mexico",
+				"urlMatch":"salvomexico."
+			 },
+			 {
+				"name":"Swiffer",
+				"urlMatch":"swiffer."
+			 },
+			 {
+				"name":"Zevo",
+				"urlMatch":"zevoinsect."
+			 },
+			 {
+				"name":"Oral-B",
+				"urlMatch":"oralb."
+			 },
+			 {
+				"name":"DentureLiving",
+				"urlMatch":"dentureliving."
+			 },
+			 {
+				"name":"Crest Toothpaste",
+				"urlMatch":"crest."
+			 },
+			 {
+				"name":"Align Probiotics",
+				"urlMatch":"alignprobiotics."
+			 },
+			 {
+				"name":"Clearblue",
+				"urlMatch":"clearblue."
+			 },
+			 {
+				"name":"Metamucil",
+				"urlMatch":"metamucil."
+			 },
+			 {
+				"name":"Vicks",
+				"urlMatch":"vicks."
+			 },
+			 {
+				"name":"Prilosec OTC",
+				"urlMatch":"prilosecotc."
+			 },
+			 {
+				"name":"Pepto-Bismol",
+				"urlMatch":"pepto-bismol."
+			 },
+			 {
+				"name":"ZzzQuil",
+				"urlMatch":"zzzquil."
+			 },
+			 {
+				"name":"Native Deodorant",
+				"urlMatch":"nativecos."
+			 },
+			 {
+				"name":"Olay",
+				"urlMatch":"olay."
+			 },
+			 {
+				"name":"SK-II",
+				"urlMatch":"sk-ii."
+			 },
+			 {
+				"name":"All Good Diapers",
+				"urlMatch":"allgooddiapers."
+			 },
+			 {
+				"name":"Luvs Diapers",
+				"urlMatch":"luvsdiapers."
+			 },
+			 {
+				"name":"Pampers",
+				"urlMatch":"pampers."
+			 },
+			 {
+				"name":"P&G Good Everyday",
+				"urlMatch":"pggoodeveryday."
+			 },
+			 {
+				"name":"Bounce Fresh",
+				"urlMatch":"bouncefresh."
+			 },
+			 {
+				"name":"Downy",
+				"urlMatch":"downy."
+			 },
+			 {
+				"name":"Lenor",
+				"urlMatch":"lenor."
+			 },
+			 {
+				"name":"Dreft",
+				"urlMatch":"dreft."
+			 },
+			 {
+				"name":"Gillette",
+				"urlMatch":"gillette.",
+				"text":"Gillette push wokeness.",
+				"sources":"https://archive.is/JSMO4,https://archive.is/VxAyc"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"Unilever",
+		  "urlMatch":"unilever.",
+		  "sources":"https://archive.is/Ve2ZC",
+		  "childText":"{1}'s owner {2}",
+		  "children":[
+			 {
+				"name":"Vaseline",
+				"urlMatch":"vaseline."
+			 },
+			 {
+				"name":"TRESemm",
+				"urlMatch":"tresemme."
+			 },
+			 {
+				"name":"Magnum Ice Cream",
+				"urlMatch":"magnumicecream."
+			 },
+			 {
+				"name":"Love Beauty and Planet",
+				"urlMatch":"lovebeautyandplanet."
+			 },
+			 {
+				"name":"AHC",
+				"urlMatch":"ahcbeauty."
+			 },
+			 {
+				"name":"Rexona",
+				"urlMatch":"Rexona."
+			 },
+			 {
+				"name":"Degree Men",
+				"urlMatch":"degreedeodorant."
+			 },
+			 {
+				"name":"Degree Women",
+				"urlMatch":"degreedeodorant."
+			 },
+			 {
+				"name":"Dove",
+				"urlMatch":"dove."
+			 },
+			 {
+				"name":"St. Ives body wash",
+				"urlMatch":"stives."
+			 },
+			 {
+				"name":"Noxzema",
+				"urlMatch":"noxzema."
+			 },
+			 {
+				"name":"Pond's",
+				"otherNames":[
+				   "PONDS"
+				],
+				"ignoreCase": "1",
+				"urlMatch":"ponds."
+			 },
+			 {
+				"name":"Seventh Generation",
+				"urlMatch":"seventhgeneration."
+			 },
+			 {
+				"name":"TAZO",
+				"urlMatch":"tazo."
+			 },
+			 {
+				"name":"Shea Moisture",
+				"otherNames":[
+				   "SheaMoisture"
+				],
+				"urlMatch":"sheamoisture."
+			 },
+			 {
+				"name":"OMO",
+				"urlMatch":"omo."
+			 },
+			 {
+				"name":"Radiant Laundry Detergent"
+			 },
+			 {
+				"name":"Sunlight Powder"
+			 },
+			 {
+				"name":"Surf laundry detergent",
+				"urlMatch":"surf.co.uk"
+			 },
+			 {
+				"name":"The Laundress",
+				"urlMatch":"thelaundress."
+			 },
+			 {
+				"name":"Ala Bleach",
+				"urlMatch":"ala."
+			 },
+			 {
+				"name":"Bio-Tex",
+				"otherNames":[
+				   "Bio Tex",
+				   "Biotex"
+				],
+				"urlMatch":"biotex."
+			 },
+			 {
+				"name":"Blueair",
+				"urlMatch":"blueair."
+			 },
+			 {
+				"name":"Drive laundry detergents"
+			 },
+			 {
+				"name":"Jif",
+				"urlMatch":"jifrent."
+			 },
+			 {
+				"name":"Cif",
+				"urlMatch":"cifclean."
+			 },
+			 {
+				"name":"Persil",
+				"urlMatch":"persil.com"
+			 },
+			 {
+				"name":"Rin detergent"
+			 },
+			 {
+				"name":"Breyers"
+			 },
+			 {
+				"name":"Heartbrand"
+			 },
+			 {
+				"name":"Cornetto"
+			 },
+			 {
+				"name":"Hellmann's"
+			 },
+			 {
+				"name":"Knorr"
+			 },
+			 {
+				"name":"Lipton"
+			 },
+			 {
+				"name":"Pure Leaf",
+				"urlMatch":"pureleaf.com"
+			 },
+			 {
+				"name":"Arisco"
+			 },
+			 {
+				"name":"Bru Instant",
+				"urlMatch":"hul.co.in"
+			 },
+			 {
+				"name":"Carte D'Or"
+			 },
+			 {
+				"name":"Cremissimo",
+				"urlMatch":"cremissimo."
+			 },
+			 {
+				"name":"Cup-a-Soup",
+				"urlMatch":"unileverfoodsolutions."
+			 },
+			 {
+				"name":"Maille"
+			 },
+			 {
+				"name":"CLEAR HAIR CARE",
+				"urlMatch":"clearhaircare."
+			 },
+			 {
+				"name":"Fair & Lovely"
+			 },
+			 {
+				"name":"Glow & Lovely"
+			 },
+			 {
+				"name":"Lifebuoy",
+				"urlMatch":"lifebuoy."
+			 },
+			 {
+				"name":"Sunsilk"
+			 },
+			 {
+				"name":"Alberto Balsam",
+				"urlMatch":"albertobalsam."
+			 },
+			 {
+				"name":"Aviance"
+			 },
+			 {
+				"name":"BRUT DE PARIS",
+				"urlMatch":"brut-for-men."
+			 },
+			 {
+				"name":"Close-up",
+				"urlMatch":"close-up."
+			 },
+			 {
+				"name":"duschdas",
+				"urlMatch":"duschdas."
+			 },
+			 {
+				"name":"Eskinol"
+			 }
+		  ]
+	   },
+	   {
+		  "name":"72andSunny",
+		  "urlMatch":"72andsunny.",
+		  "sources":"https://archive.is/B1x7Y"
+	   },
+		 {
+			"name":"Human Rights Campaign",
+			"urlMatch":"hrc.org",
+			"sources":"https://archive.is/wip/YtvXb"
+		 },
+		 {
+			"name":"Nestlé",
+			"otherNames":[
+			   "Nestle"
+			],
+			"urlMatch":"nestle.",
+			"sources":"https://archive.is/wip/nC10g"
+		 },
+		 {
+			"name":"Marks & Spencer",
+			"urlMatch":"marksandspencer.",
+			"sources":"https://archive.md/wip/WvpAZ"
+		 },
+		 {
+			"name":"The Phillips Collection",
+			"urlMatch":"phillipscollection.org",
+			"sources":"https://archive.is/wip/C6xfE"
+		 },
+		 {
+			"name":"Make-A-Wish",
+			"urlMatch":"wishes.ph",
+			"sources":"https://archive.md/wip/wzCrF"
+		 },
+		 {
+			"name":"Blue Cross Blue Shield",
+			"urlMatch":"bcbs.com",
+			"sources":"https://archive.is/wip/Gm99o"
+		 },
+		 {
+			"name":"Western Digital",
+			"urlMatch":"westerndigital.com",
+			"sources":"https://archive.is/wip/0CzIA"
+		 },
+		 {
+			"name":"Best Buy",
+			"urlMatch":"bestbuy.com",
+			"sources":"https://archive.is/wip/JDCY6"
+		 },
+		 {
+			"name":"Stellantis",
+			"urlMatch":"stellantis.com",
+			"sources":"https://archive.is/wip/JDCY6"
+		 },
+		 {
+			"name":"Fiat Chrysler",
+			"sources":"https://archive.is/wip/JDCY6"
+		 },
+		 {
+			"name":"Ford",
+			"urlMatch":"ford.",
+			"sources":"https://archive.is/wip/JDCY6"
+		 },
+		 {
+			"name":"MSI",
+			"urlMatch":"msi.com",
+			"sources":"https://archive.is/wip/JL6MJ"
+		 },
+		 {
+			"name":"PC Gamer",
+			"urlMatch":"pcgamer.com",
+			"sources":"https://archive.is/l6IPX"
+		 },
+		 {
+			"name":"Samsung",
+			"urlMatch":"samsung.",
+			"sources":"https://archive.is/wip/rbjFK"
+		 },
+		 {
+			"name":"National Basketball Association",
+			"otherNames":[
+			   "NBA"
+			],
+			"urlMatch":"nba.com",
+			"sources":"https://archive.is/UBzdV"
+		 },
+		 {
+			"name":"British Broadcasting Corporation",
+			"otherNames":[
+			   "BBC"
+			],
+			"urlMatch":"bbc.",
+			"text":"{wokeRacist}",
+			"sources":"https://archive.today/IWQtV,https://archive.is/wip/iRAcy"
+		 },
+		 {
+			"name":"Scottish National Party",
+			"otherNames":[
+			   "SNP"
+			],
+			"urlMatch":"snp.org",
+			"sources":"https://archive.is/UdgUp"
+		 },
+		 {
+			"name":"The Lancet",
+			"urlMatch":"thelancet.com",
+			"sources":"https://archive.is/wip/BHBLM,https://archive.is/O7nxo"
+		 },
+		 {
+			"name":"Zappos",
+			"urlMatch":"zappos.",
+			"sources":"https://archive.is/wip/TeQTJ"
+		 },
+		 {
+			"name":"John Deere",
+			"urlMatch":"deere.",
+			"sources":"https://archive.is/wip/ms8Gf"
+		 },
+		 {
+			"name":"AbbVie",
+			"urlMatch":"abbvie.",
+			"sources":"https://archive.is/Q2Vqj"
+		 },
+		 {
+			"name":"Abbey Road Studios",
+			"urlMatch":"abbeyroad.",
+			"sources":"https://archive.is/AJlrg"
+		 },
+		 {
+			"name":"Activision Blizzard",
+			"urlMatch":"activisionblizzard.",
+			"sources":"https://archive.is/qfRJ1"
+		 },
+		 {
+			"name":"Blizzard",
+			"urlMatch":"blizzard.",
+			"sources":"https://archive.is/qfRJ1"
+		 },
+		 {
+			"name":"World of Warcraft",
+			"urlMatch":"worldofwarcraft.com",
+			"text":"{wokeRacist}",
+			"sources":"https://archive.md/FlEso"
+		 },
+		 {
+			"name":"Activision",
+			"urlMatch":"activision.",
+			"sources":"https://archive.is/wip/v6t4s"
+		 },
+		 {
+			"name":"Infinity Ward",
+			"urlMatch":"infinityward.",
+			"sources":"https://archive.is/wip/v6t4s"
+		 },
+		 {
+			"name":"Hennessy",
+			"urlMatch":"hennessy.com",
+			"sources":"https://archive.is/wip/3sznh"
+		 },
+		 {
+			"name":"Crown Royal",
+			"urlMatch":"crownroyal.com",
+			"sources":"https://archive.is/wip/3sznh"
+		 },
+		 {
+			"name":"Alaska Airlines",
+			"urlMatch":"alaskaair.",
+			"sources":"https://archive.is/wnICf"
+		 },
+		 {
+			"name":"AMD",
+			"urlMatch":"amd.",
+			"sources":"https://archive.is/i3krt"
+		 },
+		 {
+			"name":"American Airlines",
+			"urlMatch":"aa.",
+			"sources":"https://archive.is/XBwhw"
+		 },
+		 {
+			"name":"American Express",
+			"otherNames":[
+			   "AmEx"
+			],
+			"urlMatch":"americanexpress.",
+			"sources":"https://archive.is/kzWXa"
+		 },
+		 {
+			"name":"American Apparel",
+			"urlMatch":"americanapparel.",
+			"sources":"https://archive.is/ETfYw"
+		 },
+		 {
+			"name":"AT&T",
+			"urlMatch":"att.",
+			"sources":"https://archive.is/OzC04"
+		 },
+		 {
+			"name":"Armani",
+			"urlMatch":"armani.",
+			"sources":"https://archive.is/hX6Yw"
+		 },
+		 {
+			"name":"Astro Gaming",
+			"urlMatch":"astrogaming.",
+			"sources":"https://archive.is/9aWhf"
+		 },
+		 {
+			"name":"Adidas",
+			"ignoreCase": "1",
+			"urlMatch":"adidas.",
+			"sources":"https://archive.is/ezQ22,https://archive.is/yqsKI"
+		 },
+		 {
+			"name":"Barclays Bank",
+			"urlMatch":"barclays.",
+			"sources":"https://archive.is/9EAl4"
+		 },
+		 {
+			"name":"Barclays Bank US",
+			"urlMatch":"barclaysus.",
+			"sources":"https://archive.is/9EAl4"
+		 },
+		 {
+			"name":"Barclays Corporate",
+			"urlMatch":"barclayscorporate.",
+			"sources":"https://archive.is/9EAl4"
+		 },
+		 {
+			"name":"Barclays Card",
+			"urlMatch":"barclaycardus.",
+			"sources":"https://archive.is/9EAl4"
+		 },
+		 {
+			"name":"Barclays",
+			"urlMatch":".barclays",
+			"sources":"https://archive.is/9EAl4"
+		 },
+		 {
+			"name":"Barnes & Noble",
+			"urlMatch":"barnesandnoble.",
+			"sources":"https://archive.is/PCPKn"
+		 },
+		 {
+			"name":"Bandcamp",
+			"urlMatch":"bandcamp.",
+			"sources":"https://archive.is/5QQBT"
+		 },
+		 {
+			"name":"Bayer",
+			"urlMatch":"bayer.",
+			"sources":"https://archive.is/iT3EG"
+		 },
+		 {
+			"name":"Bergdorf Goodman",
+			"urlMatch":"bergdorfgoodman.",
+			"sources":"https://archive.is/nQiPA"
+		 },
+		 {
+			"name":"Bethesda",
+			"urlMatch":"bethesda.",
+			"sources":"https://archive.is/2xeNE"
+		 },
+		 {
+			"name":"Ben & Jerry",
+			"urlMatch":"benjerry.",
+			"sources":"https://archive.is/clSt1"
+		 },
+		 {
+			"name":"Billboard",
+			"urlMatch":"billboard.",
+			"sources":"https://archive.is/Ruuv8"
+		 },
+		 {
+			"name":"BMW",
+			"urlMatch":"bmw.",
+			"sources":"https://archive.is/lRN51"
+		 },
+		 {
+			"name":"British Petroleum",
+			"otherNames":[
+			   "BP"
+			],
+			"urlMatch":"bp.",
+			"sources":"https://archive.is/0qSwy"
+		 },
+		 {
+			"name":"Booking.com",
+			"urlMatch":"booking.com",
+			"sources":"https://archive.is/CZAs7"
+		 },
+		 {
+			"name":"Boost Mobile",
+			"urlMatch":"boostmobile.",
+			"sources":"https://archive.is/pLnAf"
+		 },
+		 {
+			"name":"Bratz",
+			"urlMatch":"bratz.",
+			"sources":"https://archive.is/vOA1d"
+		 },
+		 {
+			"name":"Burger King",
+			"urlMatch":"bk.com",
+			"sources":"https://archive.is/U9VzB"
+		 },
+		 {
+			"name":"Burberry",
+			"urlMatch":"burberry.",
+			"sources":"https://archive.is/ha0jP"
+		 },
+		 {
+			"name":"Cadillac",
+			"urlMatch":"cadillac.",
+			"sources":"https://archive.is/bS60C"
+		 },
+		 {
+			"name":"Call of Duty",
+			"urlMatch":"callofduty.",
+			"sources":"https://archive.is/DEJA6"
+		 },
+		 {
+			"name":"Capcom",
+			"urlMatch":"capcom.",
+			"sources":"https://archive.is/S1BgN"
+		 },
+		 {
+			"name":"Capitol Records",
+			"urlMatch":"capitolrecords",
+			"sources":"https://archive.is/jeUpY"
+		 },
+		 {
+			"name":"Chick-fil-A",
+			"urlMatch":"chick-fil-a.",
+			"sources":"https://archive.is/yiviH"
+		 },
+		 {
+			"name":"Canada Goose",
+			"urlMatch":"canadagoose.",
+			"sources":"https://archive.is/y2nLo"
+		 },
+		 {
+			"name":"Chipotle",
+			"urlMatch":"chipotle.",
+			"sources":"https://archive.is/Rk9zI"
+		 },
+		 {
+			"name":"Citigroup",
+			"urlMatch":"citigroup.",
+			"sources":"https://archive.is/36fkF"
+		 },
+		 {
+			"name":"Colourpop Cosmetics",
+			"urlMatch":"colourpop.",
+			"sources":"https://archive.is/AapIR"
+		 },
+		 {
+			"name":"Converse",
+			"urlMatch":"converse.",
+			"sources":"https://archive.is/sKjmg"
+		 },
+		 {
+			"name":"CORSAIR",
+			"ignoreCase": "1",
+			"urlMatch":"corsair.",
+			"sources":"https://archive.is/5S5DY"
+		 },
+		 {
+			"name":"Creative Commons",
+			"urlMatch":"creativecommons.",
+			"sources":"https://archive.is/kPdCO"
+		 },
+		 {
+			"name":"Crunchyroll",
+			"urlMatch":"crunchyroll.",
+			"sources":"https://archive.is/q7Ucj"
+		 },
+		 {
+			"name":"The CW",
+			"urlMatch":"cwtv.",
+			"sources":"https://archive.is/JumZU"
+		 },
+		 {
+			"name":"CVS",
+			"urlMatch":"cvs.",
+			"sources":"https://archive.is/DbBSV,https://archive.is/wip/3sL0I"
+		 },
+		 {
+			"name":"DHL Express",
+			"urlMatch":"express.dhl",
+			"sources":"https://archive.is/r4Pmp"
+		 },
+		 {
+			"name":"Dell",
+			"urlMatch":"dell.",
+			"sources":"https://archive.is/IeI9j"
+		 },
+		 {
+			"name":"DIRECTV",
+			"ignoreCase": "1",
+			"urlMatch":"directv.",
+			"sources":"https://archive.is/hhBG4"
+		 },
+		 {
+			"name":"Maybelline",
+			"urlMatch":"maybelline.",
+			"sources":"https://archive.is/wip/YBjSq,https://archive.is/PZmNh"
+		 },
+		 {
+			"name":"Doritos",
+			"urlMatch":"doritos.",
+			"sources":"https://archive.is/nLHv0"
+		 },
+		 {
+			"name":"Doulingo",
+			"urlMatch":"duolingo.",
+			"sources":"https://archive.is/v9Wpk"
+		 },
+		 {
+			"name":"Dribbble",
+			"urlMatch":"dribbble.",
+			"sources":"https://archive.is/TDWFY"
+		 },
+		 {
+			"name":"E! News",
+			"urlMatch":"eonline.",
+			"sources":"https://archive.is/3PJyz"
+		 },
+		 {
+			"name":"E! Online",
+			"urlMatch":"eonline.",
+			"sources":"https://archive.is/3PJyz"
+		 },
+		 {
+			"name":"Electronic Arts",
+			"otherNames":[
+			   "EA"
+			],
+			"urlMatch":"ea.",
+			"sources":"https://archive.is/92ALS"
+		 },
+		 {
+			"name":"Eaton",
+			"urlMatch":"eaton.",
+			"sources":"https://archive.is/ezfyE"
+		 },
+		 {
+			"name":"Eight Sleep",
+			"urlMatch":"eightsleep.",
+			"sources":"https://archive.is/IiV7n"
+		 },
+		 {
+			"name":"Entertainment Sports Programming Network",
+			"otherNames":[
+			   "ESPN"
+			],
+			"urlMatch":"espn.",
+			"sources":"https://archive.is/1I5Tf"
+		 },
+		 {
+			"name":"Etsy",
+			"urlMatch":"etsy.",
+			"sources":"https://archive.is/wip/NqclL,https://archive.is/FtTof"
+		 },
+		 {
+			"name":"Figma",
+			"urlMatch":"figma.",
+			"sources":"https://archive.is/hNpcE"
+		 },
+		 {
+			"name":"FILA",
+			"urlMatch":"fila.",
+			"sources":"https://archive.is/d6bZ6"
+		 },
+		 {
+			"name":"Fox Broadcasting Company",
+			"urlMatch":"fox.",
+			"sources":"https://archive.is/p2BvT"
+		 },
+		 {
+			"name":"FOX",
+			"otherNames":[
+			   "Fox News"
+			],
+			"urlMatch":"fox.",
+			"sources":"https://archive.is/E1q2Z,https://archive.is/p2BvT"
+		 },
+		 {
+			"name":"Frosted Mini Wheats",
+			"urlMatch":"frostedminiwheats.",
+			"sources":"https://archive.is/vrEYN"
+		 },
+		 {
+			"name":"Foot Locker",
+			"urlMatch":"footlocker.",
+			"sources":"https://archive.is/XRL65"
+		 },
+		 {
+			"name":"Funimation",
+			"urlMatch":"Funimation.",
+			"sources":"https://archive.is/sfN8E"
+		 },
+		 {
+			"name":"GameSpot",
+			"urlMatch":"gamespot.",
+			"sources":"https://archive.is/zEkO3"
+		 },
+		 {
+			"name":"Genentech",
+			"urlMatch":"gene.com",
+			"sources":"https://archive.is/phHtt"
+		 },
+		 {
+			"name":"General Motors",
+			"urlMatch":"gm.",
+			"sources":"https://archive.is/IP0a6"
+		 },
+		 {
+			"name":"Goldman Sachs",
+			"urlMatch":"goldmansachs.",
+			"sources":"https://archive.is/TA2h0"
+		 },
+		 {
+			"name":"Gibson",
+			"urlMatch":"gibson.",
+			"sources":"https://archive.is/qJYZY"
+		 },
+		 {
+			"name":"GoPro",
+			"urlMatch":"gopro.",
+			"sources":"https://archive.is/Aakvo"
+		 },
+		 {
+			"name":"Gorilla Glue",
+			"urlMatch":"gorillaglue.",
+			"sources":"https://archive.is/0R9ya"
+		 },
+		 {
+			"name":"Grammarly",
+			"urlMatch":"grammarly.",
+			"sources":"https://archive.is/Su1PT"
+		 },
+		 {
+			"name":"Grindr",
+			"urlMatch":"grindr.",
+			"sources":"https://archive.is/Z6KcW"
+		 },
+		 {
+			"name":"Guerrilla Collective",
+			"urlMatch":"guerrillacollective.",
+			"sources":"https://archive.is/TTchM"
+		 },
+		 {
+			"name":"Habitat for Humanity",
+			"urlMatch":"habitat.",
+			"sources":"https://archive.is/B81pI"
+		 },
+		 {
+			"name":"Harry's",
+			"urlMatch":"harrys.",
+			"sources":"https://archive.is/mE4NN"
+		 },
+		 {
+			"name":"HBO Nordic",
+			"urlMatch":"hbonordic.",
+			"sources":"https://archive.is/oiUyY"
+		 },
+		 {
+			"name":"HBO Max",
+			"urlMatch":"hbomax.",
+			"sources":"https://archive.is/oiUyY"
+		 },
+		 {
+			"name":"HBO",
+			"urlMatch":"hbo.",
+			"sources":"https://archive.is/oiUyY"
+		 },
+		 {
+			"name":"Hershey's",
+			"urlMatch":"thehersheycompany.",
+			"sources":"https://archive.is/ZQ5zD"
+		 },
+		 {
+			"name":"Hennes & Mauritz",
+			"otherNames":[
+			   "H&M"
+			],
+			"urlMatch":"hm.",
+			"sources":"https://archive.is/A9ONJ"
+		 },
+		 {
+			"name":"Vogue",
+			"urlMatch":"vogue.",
+			"sources":"https://archive.is/wip/GyFuG"
+		 },
+		 {
+			"name":"Miu Miu",
+			"urlMatch":"miumiu.",
+			"sources":"https://archive.is/wip/xKo33"
+		 },
+		 {
+			"name":"Fashion For All Foundation",
+			"urlMatch":"fashionforallnyc.",
+			"sources":"https://archive.is/wip/CXH7w"
+		 },
+		 {
+			"name":"Alexander McQueen",
+			"urlMatch":"alexandermcqueen.",
+			"sources":"https://archive.is/wip/qrLZc"
+		 },
+		 {
+			"name":"CELINE",
+			"urlMatch":"celine.com",
+			"sources":"https://archive.is/wip/NfQqP"
+		 },
+		 {
+			"name":"Holzweiler",
+			"ignoreCase": "1",
+			"urlMatch":"holzweileroslo.",
+			"sources":"https://archive.is/wip/gjSWC"
+		 },
+		 {
+			"name":"Home Depot",
+			"urlMatch":"homedepot.",
+			"sources":"https://archive.is/KjUtA"
+		 },
+		 {
+			"name":"Honda",
+			"urlMatch":"honda.",
+			"sources":"https://archive.is/4UYtd"
+		 },
+		 {
+			"name":"Hewlett-Packard",
+			"otherNames":[
+			   "HP"
+			],
+			"urlMatch":"hp.",
+			"sources":"https://archive.is/BO2tc"
+		 },
+		 {
+			"name":"Hulu",
+			"urlMatch":"hulu.",
+			"sources":"https://archive.is/4CyO2"
+		 },
+		 {
+			"name":"Humble Bundle",
+			"urlMatch":"humblebundle.",
+			"sources":"https://archive.is/YXDb6"
+		 },
+		 {
+			"name":"HyperX",
+			"urlMatch":"hyperxgaming.",
+			"sources":"https://archive.is/ZfHYp"
+		 },
+		 {
+			"name":"IBM",
+			"urlMatch":"ibm.",
+			"sources":"https://archive.is/ij3Q1"
+		 },
+		 {
+			"name":"IKEA",
+			"urlMatch":"ikea.",
+			"sources":"https://archive.is/9ijFx"
+		 },
+		 {
+			"name":"IMAX",
+			"urlMatch":"imax.",
+			"sources":"https://archive.is/OiCj1"
+		 },
+		 {
+			"name":"Indiegogo",
+			"urlMatch":"indiegogo.",
+			"sources":"https://archive.is/jrDZk"
+		 },
+		 {
+			"name":"itch.io",
+			"urlMatch":"itch.io",
+			"sources":"https://archive.is/UTsTi"
+		 },
+		 {
+			"name":"Invision",
+			"urlMatch":"invisionapp.",
+			"sources":"https://archive.is/UZkK1"
+		 },
+		 {
+			"name":"ITV",
+			"urlMatch":"itv.",
+			"sources":"https://archive.is/yD1pS"
+		 },
+		 {
+			"name":"Kickstarter",
+			"urlMatch":"kickstarter.",
+			"sources":"https://archive.is/0zwng"
+		 },
+		 {
+			"name":"Lacoste",
+			"urlMatch":"Lacoste.",
+			"sources":"https://archive.is/T7nwc"
+		 },
+		 {
+			"name":"Levi's",
+			"otherNames":[
+			   "Levi Strauss"
+			],
+			"urlMatch":"levi.",
+			"sources":"https://archive.is/KizLO"
+		 },
+		 {
+			"name":"Lenovo",
+			"urlMatch":"lenovo.",
+			"sources":"https://archive.is/aRuDu"
+		 },
+		 {
+			"name":"LinkedIn",
+			"urlMatch":"LinkedIn.",
+			"sources":"https://archive.is/sX5zb"
+		 },
+		 {
+			"name":"L'Oréal",
+			"urlMatch":"lorealparis.",
+			"sources":"https://archive.is/Jfelo"
+		 },
+		 {
+			"name":"Logitech",
+			"urlMatch":"logitech.",
+			"sources":"https://archive.is/vf6J7"
+		 },
+		 {
+			"name":"Lowe's",
+			"urlMatch":"lowes.",
+			"sources":"https://archive.is/V5UFz"
+		 },
+		 {
+			"name":"Lucky Brand",
+			"urlMatch":"luckybrand.",
+			"sources":"https://archive.is/fY2Mw"
+		 },
+		 {
+			"name":"Lululemon",
+			"urlMatch":"lululemon.",
+			"sources":"https://archive.is/rjCRV"
+		 },
+		 {
+			"name":"Louis Vuitton",
+			"urlMatch":"louisvuitton.",
+			"sources":"https://archive.is/nGZe8"
+		 },
+		 {
+			"name":"Lyft",
+			"urlMatch":"lyft.",
+			"sources":"https://archive.is/UXl3k"
+		 },
+		 {
+			"name":"Marvel Entertainment",
+			"urlMatch":"marvel.",
+			"sources":"https://archive.is/Ptup6,https://archive.is/wip/tmujz"
+		 },
+		 {
+			"name":"Mastercard",
+			"urlMatch":"mastercard.",
+			"sources":"https://archive.is/K0n1d"
+		 },
+		 {
+			"name":"Mattel",
+			"urlMatch":"mattel.",
+			"sources":"https://archive.is/bvsqN"
+		 },
+		 {
+			"name":"McAfee",
+			"urlMatch":"mcafee.",
+			"sources":"https://archive.is/IGXA1"
+		 },
+		 {
+			"name":"McDonald's",
+			"urlMatch":"mcdonalds.",
+			"sources":"https://archive.is/jOZ65"
+		 },
+		 {
+			"name":"Mercedes Benz",
+			"urlMatch":"mercedes-benz.",
+			"sources":"https://archive.is/bs8y6"
+		 },
+		 {
+			"name":"Met Life",
+			"urlMatch":"metlife.",
+			"sources":"https://archive.is/Dukhi"
+		 },
+		 {
+			"name":"Metropolitan Opera",
+			"urlMatch":"metopera.org",
+			"sources":"https://archive.is/wecQ2"
+		 },
+		 {
+			"name":"Napster",
+			"urlMatch":"napster.",
+			"sources":"https://archive.is/fVY1s"
+		 },
+		 {
+			"name":"NASCAR",
+			"urlMatch":"nascar.",
+			"sources":"https://archive.is/LG2hU"
+		 },
+		 {
+			"name":"NCSOFT",
+			"ignoreCase": "1",
+			"urlMatch":"ncsoft.",
+			"sources":"https://archive.is/OVPVP"
+		 },
+		 {
+			"name":"New Balance",
+			"urlMatch":"newbalance.",
+			"sources":"https://archive.is/NyGnG"
+		 },
+		 {
+			"name":"New York Life",
+			"urlMatch":"newyorklife.",
+			"sources":"https://archive.is/HVVVk"
+		 },
+		 {
+			"name":"National Football League",
+			"otherNames":[
+			   "NFL"
+			],
+			"urlMatch":"nfl.",
+			"sources":"https://archive.is/G4yq4"
+		 },
+		 {
+			"name":"National Hockey League",
+			"otherNames":[
+			   "NHL"
+			],
+			"urlMatch":"nhl.",
+			"sources":"https://archive.is/lYbyG"
+		 },
+		 {
+			"name":"Niantic",
+			"urlMatch":"nianticlabs.",
+			"sources":"https://archive.is/UdKYR"
+		 },
+		 {
+			"name":"Nickelodeon",
+			"urlMatch":"nickelodeon.",
+			"sources":"https://archive.is/JWSPQ,https://archive.md/wip/JAfin"
+		 },
+		 {
+			"name":"Nike",
+			"urlMatch":"nike.",
+			"sources":"https://archive.is/UXYBy"
+		 },
+		 {
+			"name":"Nintendo",
+			"urlMatch":"nintendo.",
+			"sources":"https://archive.is/5UOjp"
+		 },
+		 {
+			"name":"Nordstrom",
+			"urlMatch":"nordstrom.",
+			"sources":"https://archive.is/A7mUU"
+		 },
+		 {
+			"name":"North Face",
+			"urlMatch":"thenorthface.",
+			"sources":"https://archive.is/rq1Cb,https://archive.is/wip/ySqhM"
+		 },
+		 {
+			"name":"OnlyFans",
+			"urlMatch":"onlyfans.",
+			"sources":"https://archive.is/EFs5C"
+		 },
+		 {
+			"name":"Paramount Pictures",
+			"urlMatch":"paramount.",
+			"sources":"https://archive.is/ixXHd"
+		 },
+		 {
+			"name":"Paramount Network",
+			"urlMatch":"paramountnetwork.",
+			"sources":"https://archive.is/BCAX3"
+		 },
+		 {
+			"name":"Peloton",
+			"urlMatch":"onepeloton.",
+			"sources":"https://archive.is/d36k7"
+		 },
+		 {
+			"name":"PlayStation",
+			"urlMatch":"playstation.",
+			"sources":"https://archive.is/52Vvl"
+		 },
+		 {
+			"name":"Plex",
+			"urlMatch":"plex.",
+			"sources":"https://archive.is/9szCf"
+		 },
+		 {
+			"name":"Popeye's",
+			"urlMatch":"popeyes.",
+			"sources":"https://archive.is/CzlHd"
+		 },
+		 {
+			"name":"Pop-Tarts",
+			"urlMatch":"poptarts.",
+			"sources":"https://archive.is/8cMGG"
+		 },
+		 {
+			"name":"Pornhub",
+			"urlMatch":"pornhub.",
+			"sources":"https://archive.is/nciUB"
+		 },
+		 {
+			"name":"Porsche",
+			"urlMatch":"porsche.",
+			"sources":"https://archive.is/VrmlZ"
+		 },
+		 {
+			"name":"Pringles",
+			"urlMatch":"pringles.",
+			"sources":"https://archive.is/1WpA1"
+		 },
+		 {
+			"name":"Puget Systems",
+			"urlMatch":"pugetsystems.",
+			"sources":"https://archive.is/4Zcu7"
+		 },
+		 {
+			"name":"Pusheen",
+			"urlMatch":"pusheen.",
+			"sources":"https://archive.is/71dL1"
+		 },
+		 {
+			"name":"Qualcomm",
+			"urlMatch":"qualcomm.",
+			"sources":"https://archive.is/syYmb"
+		 },
+		 {
+			"name":"Quicken Loans",
+			"urlMatch":"quickenloans.",
+			"sources":"https://archive.is/SmDfJ"
+		 },
+		 {
+			"name":"RedHat",
+			"urlMatch":"redhat.",
+			"sources":"https://archive.is/ObTZu"
+		 },
+		 {
+			"name":"Red Wing Heritage",
+			"urlMatch":"redwingshoes.",
+			"sources":"https://archive.is/LLCVv"
+		 },
+		 {
+			"name":"Reebok",
+			"urlMatch":"reebok.",
+			"sources":"https://archive.is/v0nat"
+		 },
+		 {
+			"name":"Reese's",
+			"urlMatch":"thehersheycompany.",
+			"sources":"https://archive.is/Rc4pJ"
+		 },
+		 {
+			"name":"Rice Krispies",
+			"urlMatch":"ricekrispies.",
+			"sources":"https://archive.is/U4Zn9"
+		 },
+		 {
+			"name":"Riot Games",
+			"urlMatch":"riotgames.",
+			"sources":"https://archive.is/2XH97"
+		 },
+		 {
+			"name":"Rockstar Games",
+			"urlMatch":"rockstargames.",
+			"sources":"https://archive.is/QdcPI"
+		 },
+		 {
+			"name":"Sanofi",
+			"urlMatch":"sanofi.",
+			"sources":"https://archive.is/ErmGO"
+		 },
+		 {
+			"name":"Scholastic",
+			"urlMatch":"scholastic.",
+			"sources":"https://archive.is/fFmX3,https://archive.is/wip/ZWMMb"
+		 },
+		 {
+			"name":"Sega",
+			"urlMatch":"sega.",
+			"sources":"https://archive.is/9YyUJ"
+		 },
+		 {
+			"name":"Sesame Street",
+			"urlMatch":"sesamestreet.",
+			"sources":"https://archive.is/5he9K"
+		 },
+		 {
+			"name":"Societe Generale",
+			"urlMatch":"societegenerale.",
+			"sources":"https://archive.is/IoUgp"
+		 },
+		 {
+			"name":"Showtime",
+			"urlMatch":"sho.",
+			"sources":"https://archive.is/YTPVw"
+		 },
+		 {
+			"name":"Sketch",
+			"urlMatch":"sketch.",
+			"sources":"https://archive.is/QvXDT"
+		 },
+		 {
+			"name":"Slack",
+			"urlMatch":"slack.",
+			"sources":"https://archive.is/gF9ym"
+		 },
+		 {
+			"name":"Sephora",
+			"urlMatch":"sephora.",
+			"sources":"https://archive.is/Gm7Rc"
+		 },
+		 {
+			"name":"Shopify",
+			"urlMatch":"shopify.",
+			"sources":"https://archive.is/iq5jB"
+		 },
+		 {
+			"name":"Skillshare",
+			"urlMatch":"skillshare.",
+			"sources":"https://archive.is/JX5em"
+		 },
+		 {
+			"name":"Snap",
+			"urlMatch":"snap.",
+			"sources":"https://archive.is/HcGGQ"
+		 },
+		 {
+			"name":"Sony",
+			"urlMatch":"sony.",
+			"sources":"https://archive.is/1PtlU"
+		 },
+		 {
+			"name":"SoundCloud",
+			"urlMatch":"soundcloud.",
+			"sources":"https://archive.is/H3ZDC"
+		 },
+		 {
+			"name":"Spotify",
+			"urlMatch":"spotify.",
+			"sources":"https://archive.is/ufTeo"
+		 },
+		 {
+			"name":"STARZ",
+			"urlMatch":"starz.",
+			"sources":"https://archive.is/eQ4YG"
+		 },
+		 {
+			"name":"Starbucks",
+			"urlMatch":"starbucks.",
+			"sources":"https://archive.is/EENlS"
+		 },
+		 {
+			"name":"Star Wars",
+			"urlMatch":"starwars.",
+			"sources":"https://archive.is/xnSgt"
+		 },
+		 {
+			"name":"Subway",
+			"urlMatch":"subway.",
+			"sources":"https://archive.is/D5F8H"
+		 },
+		 {
+			"name":"Grammys",
+			"otherNames":[
+			   "Grammy Award"
+			],
+			"ignoreCase": "1",
+			"urlMatch":"grammy.",
+			"sources":"https://archive.is/xWhY9"
+		 },
+		 {
+			"name":"Academy Awards",
+			"otherNames":[
+			   "The Academy"
+			],
+			"urlMatch":"oscars.",
+			"sources":"https://archive.is/cNRYf"
+		 },
+		 {
+			"name":"PetSmart",
+			"urlMatch":"petsmart.",
+			"sources":"https://archive.is/5uAZc"
+		 },
+		 {
+			"name":"Sysco Corporation",
+			"urlMatch":"sysco.",
+			"sources":"https://archive.is/WyXx8"
+		 },
+		 {
+			"name":"Taco Bell",
+			"urlMatch":"tacobell.",
+			"sources":"https://archive.is/LLY9l"
+		 },
+		 {
+			"name":"Target",
+			"urlMatch":"target.",
+			"sources":"https://archive.is/YoIrO,https://archive.is/wip/DJOSy"
+		 },
+		 {
+			"name":"TBS",
+			"urlMatch":"tbs.",
+			"sources":"https://archive.is/N0QhU"
+		 },
+		 {
+			"name":"Tesco",
+			"urlMatch":"tesco.",
+			"sources":"https://archive.is/hZS7B"
+		 },
+		 {
+			"name":"Ticketmaster",
+			"urlMatch":"ticketmaster.",
+			"sources":"https://archive.is/VkhNC"
+		 },
+		 {
+			"name":"TikTok",
+			"urlMatch":"tiktok.",
+			"sources":"https://archive.is/bt2vy"
+		 },
+		 {
+			"name":"Timberland",
+			"urlMatch":"timberland.",
+			"sources":"https://archive.is/HZtxv"
+		 },
+		 {
+			"name":"Tinder",
+			"urlMatch":"tinder.",
+			"sources":"https://archive.is/YaY2y"
+		 },
+		 {
+			"name":"T-Mobile",
+			"urlMatch":"t-mobile.",
+			"sources":"https://archive.is/KB2lG"
+		 },
+		 {
+			"name":"Tumblr",
+			"urlMatch":"tumblr.",
+			"sources":"https://archive.is/i9fMQ"
+		 },
+		 {
+			"name":"Uber Eats",
+			"urlMatch":"ubereats.",
+			"sources":"https://archive.is/UwwQS"
+		 },
+		 {
+			"name":"Uber",
+			"urlMatch":"uber.",
+			"sources":"https://archive.is/RrScn"
+		 },
+		 {
+			"name":"UGG",
+			"urlMatch":"ugg.",
+			"sources":"https://archive.is/YZuWv"
+		 },
+		 {
+			"name":"Ulta Beauty",
+			"urlMatch":"ulta.",
+			"sources":"https://archive.is/6ZESx"
+		 },
+		 {
+			"name":"Under Armour",
+			"urlMatch":"underarmour.",
+			"sources":"https://archive.is/WuYMM"
+		 },
+		 {
+			"name":"UnitedHealth Group",
+			"urlMatch":"unitedhealthgroup.",
+			"sources":"https://archive.is/rzQXF"
+		 },
+		 {
+			"name":"Vanguard Group",
+			"urlMatch":"vanguard.",
+			"sources":"https://archive.is/Y12IM"
+		 },
+		 {
+			"name":"Vans",
+			"urlMatch":"vans.",
+			"sources":"https://archive.is/5nYag"
+		 },
+		 {
+			"name":"VeggieTales",
+			"urlMatch":"veggietales.",
+			"sources":"https://archive.is/ocjzA"
+		 },
+		 {
+			"name":"Verizon",
+			"urlMatch":"verizon.",
+			"sources":"https://archive.is/hPZoJ"
+		 },
+		 {
+			"name":"Versace",
+			"urlMatch":"versace.",
+			"sources":"https://archive.is/wWsxK"
+		 },
+		 {
+			"name":"Vevo",
+			"urlMatch":"vevo.",
+			"sources":"https://archive.is/MVtrR"
+		 },
+		 {
+			"name":"ViacomCBS",
+			"urlMatch":"viacomcbs.",
+			"sources":"https://archive.is/uCGXy"
+		 },
+		 {
+			"name":"Virgin Records",
+			"urlMatch":"virgin.",
+			"sources":"https://archive.is/QiykN"
+		 },
+		 {
+			"name":"VIZ",
+			"urlMatch":"viz.",
+			"sources":"https://archive.is/eMuIW"
+		 },
+		 {
+			"name":"Vivaldi",
+			"urlMatch":"vivaldi.",
+			"sources":"https://archive.is/QO9do"
+		 },
+		 {
+			"name":"Warner Bros",
+			"urlMatch":"warnerbros.",
+			"sources":"https://archive.is/F1Tqn"
+		 },
+		 {
+			"name":"Warner Records",
+			"urlMatch":"warnerrecords.",
+			"sources":"https://archive.is/Mm6qb"
+		 },
+		 {
+			"name":"Wells Fargo",
+			"urlMatch":"wellsfargo.",
+			"sources":"https://archive.is/CGA4n"
+		 },
+		 {
+			"name":"Wendy's",
+			"urlMatch":"wendys.",
+			"sources":"https://archive.is/7X4Nu"
+		 },
+		 {
+			"name":"WeWork",
+			"urlMatch":"wework.",
+			"sources":"https://archive.is/TEpa7"
+		 },
+		 {
+			"name":"Xbox",
+			"urlMatch":"xbox.",
+			"sources":"https://archive.is/6zdVS"
+		 },
+		 {
+			"name":"Microsoft",
+			"urlMatch":"microsoft.",
+			"sources":"https://archive.is/6zdVS"
+		 },
+		 {
+			"name":"Yelp",
+			"urlMatch":"yelp.",
+			"sources":"https://archive.is/eU4NS"
+		 },
+		 {
+			"name":"Zildjian",
+			"urlMatch":"zildjian.",
+			"sources":"https://archive.is/o6Tqi"
+		 },
+		 {
+			"name":"Zoom",
+			"urlMatch":"zoom.",
+			"sources":"https://archive.is/7o03X"
+		 },
+		 {
+			"name":"Premier League",
+			"urlMatch":"premierleague.",
+			"sources":"https://archive.is/wip/3kjS2,https://archive.is/wip/STHL6"
+	   },
+	   {
+		  "name":"23andMe",
+		  "urlMatch":"23andme.",
+		  "sources":"https://archive.is/Mjbwk"
+	   },
+		 {
+		"name":"Airbnb",
+		"urlMatch":"airbnb.",
+		"sources":"https://archive.is/GmMjl"
+	 },
+	 {
+		"name":"Thrive Market",
+		"urlMatch":"thrivemarket.",
+		"sources":"https://archive.is/XJ6DE"
+	 },
+	 {
+		"name":"Atlantic Records",
+		"urlMatch":"atlanticrecords.",
+		"sources":"https://archive.is/65QQq"
+	 },
+	 {
+		"name":"AXE",
+		"urlMatch":"axe.",
+		"sources":"https://archive.is/Xpxhw"
+	 },
+	 {
+		"name":"Bungie",
+		"urlMatch":"bungie.",
+		"sources":"https://archive.is/81KHV"
+	 },
+	 {
+		"name":"Cisco",
+		"urlMatch":"cisco.",
+		"sources":"https://archive.is/fNvdP"
+	 },
+	 {
+		"name":"Conde Nast",
+		"urlMatch":"condenast.",
+		"sources":"https://archive.is/ChMdI"
+	 },
+	 {
+		"name":"Criterion Collection",
+		"urlMatch":"criterion.",
+		"sources":"https://archive.is/JZ2Sd"
+	 },
+	 {
+		"name":"Devolver Digital",
+		"urlMatch":"devolverdigital.",
+		"sources":"https://archive.is/xcaEH"
+	 },
+	 {
+		"name":"DoorDash",
+		"urlMatch":"doordash.",
+		"sources":"https://archive.is/vhTW2"
+	 },
+	 {
+		"name":"Dropbox",
+		"urlMatch":"dropbox.",
+		"sources":"https://archive.is/O2ygm"
+	 },
+	 {
+		"name":"Fitbit",
+		"urlMatch":"fitbit.",
+		"sources":"https://archive.is/Smx2g"
+	 },
+	 {
+		"name":"Gatorade",
+		"urlMatch":"gatorade.",
+		"sources":"https://archive.is/fo7wl"
+	 },
+	 {
+		"name":"Glossier",
+		"urlMatch":"glossier.",
+		"sources":"https://archive.is/IYlXB"
+	 },
+	 {
+		"name":"Gumroad",
+		"urlMatch":"gumroad.",
+		"sources":"https://archive.is/oZMr7"
+	 },
+	 {
+		"name":"Gushers",
+		"urlMatch":"gushers.",
+		"sources":"https://archive.is/3Dju7"
+	 },
+	 {
+		"name":"Headup",
+		"urlMatch":"headupgames.",
+		"sources":"https://archive.is/G8ygg"
+	 },
+	 {
+		"name":"Help Scout",
+		"urlMatch":"helpscout.",
+		"sources":"https://archive.is/D8DCs"
+	 },
+	 {
+		"name":"Intel",
+		"urlMatch":"intel.",
+		"sources":"https://archive.is/93D5q"
+	 },
+	 {
+		"name":"Pokémon",
+		"otherNames":[
+		   "Pokemon"
+		],
+		"urlMatch":"pokemon.",
+		"sources":"https://archive.is/p9zuP"
+	 },
+	 {
+		"name":"PUMA",
+		"urlMatch":"puma.",
+		"sources":"https://archive.is/lHx9j"
+	 },
+	 {
+		"name":"Square Enix",
+		"urlMatch":"square-enix.",
+		"sources":"https://archive.is/qmPIX"
+	 },
+	 {
+		"name":"Supreme New York",
+		"urlMatch":"supremenewyork.",
+		"sources":"https://archive.is/KqeQs"
+	 },
+	 {
+		"name":"thatgamecompany",
+		"ignoreCase": "1",
+		"urlMatch":"thatgamecompany.",
+		"sources":"https://archive.is/7po1C"
+	 },
+	 {
+		"name":"Ubisoft",
+		"urlMatch":"ubisoft.",
+		"sources":"https://archive.is/0qMff"
+	 }
+   ]
+}

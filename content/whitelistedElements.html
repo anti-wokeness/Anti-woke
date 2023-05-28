@@ -9,7 +9,7 @@
 			.messageFreedom{
 				margin: 10px 5px;
 				font-size: 14px;
-			   padding: 0;
+				padding: 0;
 			}
 			.headerElementFreedom{
 				font-weight: bold;
@@ -47,12 +47,15 @@
 				padding-left: 5px;
 				margin: 5px;
 			}
-			.limitWidthFreedom{
+			.limitWidth1{
+				display: inline-block;
 				width: 20%;
-				min-width: 100px;
-				max-width: 200px;
+				vertical-align: top;
 			}
-			
+			.limitWidth2{
+				display: inline-block;
+				width: 70%;
+			}			
 			#searchFieldFreedom {
 				width: 100%; 
 				font-size: 14px; 
@@ -65,6 +68,10 @@
 			}
 			.lastUpdatedFreedom{
 				font-size: 10px;
+				margin-top: 12px;
+			}
+			.lastSynched{
+				font-size: 10px;
 				margin-bottom: 12px;
 			}
 			#hiddenFreedom{
@@ -73,27 +80,69 @@
 				margin-top: 15px;
 				font-weight: bold;
 			}
+			
+			
+			.tab {
+				overflow: hidden;
+			}
+			.tab button {
+				background-color: #f1f1f1;
+				color: black;
+				float: left;
+				border: none;
+				outline: none;
+				cursor: pointer;
+				padding: 8px;
+				transition: 0.3s;
+				font-size: 16px;
+			}
+			.tab button:hover {
+				background-color: #ddd;
+			}
+			.tab button.active {
+				background-color: #ccc;
+			}
+			.tabcontent {
+				display: none;
+				padding: 2px;
+			}
 		</style>
 	</head>
 	<body>
 		<div id="versionDivFreedom" class="messageFreedom">Version: </div>
+		<div class="messageFreedom">Support the project: <a href="https://www.buymeacoffee.com/antiwokeness">Buy me a Coffee</a></div>
 		
 		<div id="messageFreedom" class="messageFreedom">
-			See something wrong or have a suggestion for a website or company that should be added or removed? <br/>
-			Send an email explaining why (including sources) to: <a href="mailto:anti-wokeness@protonmail.com">anti-wokeness@protonmail.com</a>
+			See something wrong or have a company that should be added or removed? Send an email to: <a href="mailto:anti-wokeness@protonmail.com">anti-wokeness@protonmail.com</a>
+			<br />
+			Also available at <a href="https://anti-woke.net/">anti-woke.net</a> and as an <a href=" https://play.google.com/store/apps/details?id=no.freedom.anti_woke">Android app</a>
+			<br />
 		</div>
-
+		
 		<div id="buttonFreedom" class="buttonBaseFreedom buttonBlackFreedom">Clear saved data</div>
 		
 		<div id="hiddenFreedom"></div>
 		
 		<div id="whitelistDivFreedom" class="messageFreedom"></div>
 		
+		<div id="updatedDivFreedom" class="lastUpdatedFreedom"></div>
 		<input type="search" id="searchFieldFreedom" placeholder="Search company name...">
-		
-		<div id="synchDivFreedom" class="lastUpdatedFreedom">Last Synched: </div>
+		<div id="synchDivFreedom" class="lastSynched"></div>
 
-		<div id="itemsDivFreedom" class="messageFreedom"></div>		
+		<div class="tab">
+		  <button class="tablinks" id="wokeButton">Woke</button>
+		  <button class="tablinks" id="notWokeButton">Not Woke</button>
+		</div>
+		
+		<div id="woke" class="tabcontent">
+			<div>Wokeness is a fixation on class, gender, and race and the perceived oppression between those identities.</div>
+			<div id="itemsDivWoke"></div>	
+		</div>
+
+		<div id="notWoke" class="tabcontent">
+			<div>These companies are confirmed to not be woke.</div> 
+			<div id="itemsDivNotWoke"></div>	
+		</div>	
 	</body>
 	
 	<script src="storage.js"></script>
