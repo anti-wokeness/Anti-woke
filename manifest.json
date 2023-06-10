@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": "Anti-woke",
-	"version": "1.6.0.2",
+	"version": "1.6.0.4",
 	"description": "The anti-wokeness extension. Shows warnings about woke companies.",
 	"permissions" : ["storage"],
 	"host_permissions": ["https://api.npoint.io/*"],

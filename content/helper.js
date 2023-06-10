@@ -79,36 +79,43 @@ function getTodayFormatted(daysInPast = 0){
 function flattenUrlsToWarn(urlsToWarn){	
 	let flattened = [];
 	const wokeText = urlsToWarn.woke;
+	const notWokeText = urlsToWarn.notWoke;
 	const wokeRacistText = urlsToWarn.wokeRacist;
 	const companies = urlsToWarn.companies;
 	
 	for(url in companies){
 		let item = companies[url];
 		
-		if(isEmpty(item.text))
-			item.text = item.name + wokeText;
+		if(isEmpty(item.text)){
+			if(!isEmpty(wokeText))
+				item.text = item.name + wokeText;
+			else if(!isEmpty(notWokeText))
+				item.text = item.name + notWokeText;
+			else 
+				item.text = "";
+		}
 		else if(item.text == '{wokeRacist}')
-			item.text = wokeRacistText;
+			item.text = item.name + wokeRacistText;
 		
 		flattened.push(item);
-		item.searchNames = [];
 		
 		for(otherName in item.otherNames)
 		{
 			let itemCopy = Object.assign({}, item);
 			itemCopy.name = item.otherNames[otherName];
 			itemCopy.duplicate = true;
-			item.searchNames.push(itemCopy.name);
 			if(item.name.toLowerCase() != itemCopy.name.toLowerCase())
 				flattened.push(itemCopy);
 		}
 		
 		for(child in item.children){
 			const itemChild = item.children[child];
-			itemChild.searchNames = [];
 			
 			if(isEmpty(itemChild.sources))
 				itemChild.sources = item.sources;
+			
+			if(isEmpty(itemChild.visitUrl))
+				itemChild.visitUrl = item.visitUrl;
 			
 			if(isEmpty(itemChild.text)){
 				let childText = item.childText;
@@ -127,7 +134,6 @@ function flattenUrlsToWarn(urlsToWarn){
 				let itemCopy = Object.assign({}, itemChild);
 				itemCopy.name = itemChild.otherNames[otherName];
 				itemCopy.duplicate = true;
-				itemChild.searchNames.push(itemCopy.name);
 				if(itemCopy.name.toLowerCase() != itemChild.name.toLowerCase())
 					flattened.push(itemCopy);
 			}

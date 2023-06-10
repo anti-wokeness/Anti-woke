@@ -1,9 +1,33 @@
 {
-   "notWoke":" is not woke.",
-   "companies":[
-	   {
-		  "name":"Confirmed not woke",
-		  "text":"Any business confirmed to not be woke will be placed here"
-	   }
-   ]
+	"notWoke":" is not woke.",
+	"companies":[
+		{
+			"name":"Heckler & Koch",
+			"otherNames":[
+				"Heckler and Koch"
+			],
+			"visitUrl":"https://hk-usa.com",
+			"sources":"https://archive.is/RPw5m,https://archive.is/P41ps"
+		},
+		{
+			"name":"College of the Ozarks",
+			"visitUrl":"https://cofo.edu",
+			"sources":"https://archive.is/wip/7UEVl,https://archive.is/wip/Oxiz9"
+		},
+		{
+			"name":"BasedCon",
+			"visitUrl":"https://basedcon.com",
+			"sources":"https://archive.is/2nwSI,https://archive.is/jYr1P"
+		},
+		{
+			"name":"Substack",
+			"visitUrl":"https://substack.com",
+			"sources":"https://archive.is/4UlOk"
+		},
+		{
+			"name":"Alliance Defending Freedom",
+			"visitUrl":"https://adflegal.org",
+			"sources":"https://archive.is/wip/NVQrr,https://archive.is/wip/Oxiz9"
+		}
+	]
 }

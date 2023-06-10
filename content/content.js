@@ -117,14 +117,15 @@ async function main(result){
 	const flattenedUrlsToWarn = flattenUrlsToWarn(result.woke);
 	
 	if(result.underlineWords){
+		let flattenedUrlsForUnderline = flattenedUrlsToWarn.filter(function(item) { return isEmpty(item.noUnderline) });
+		
 		const underlineWhitelist = result.underlineWhitelist?.filter(function(item) { return item !== undefined; });
-		let flattenedUrlsForUnderline = flattenedUrlsToWarn;
 		if(!isEmpty(underlineWhitelist))
-			flattenedUrlsForUnderline = flattenedUrlsToWarn.filter(function(item) { return !underlineWhitelist.includes(item.name) });
+			flattenedUrlsForUnderline = flattenedUrlsForUnderline.filter(function(item) { return !underlineWhitelist.includes(item.name) });
 		
 		underlineWords(flattenedUrlsForUnderline, result);
 	}
-		
+	
 	if(result.showBanner)
 		showBannerItem(flattenedUrlsToWarn, result);	
 }
@@ -140,8 +141,9 @@ if(!urlMatch(window.location.href, 'https://anti-woke.net')){
 			Promise.all(
 				urls.map(url => fetch(url).then(json => json.json()))
 			).then(data => {
-				chrome.storage.local.set({'lastSync': getTodayFormatted(), 'woke': data[0]});
 				result.woke = data[0];
+				result.notWoke = data[1];
+				chrome.storage.local.set({'lastSync': getTodayFormatted(), 'woke': result.woke, 'notWoke': result.notWoke});
 				main(result);
 			}).catch(err => {
 				console.log('Failed to fetch json: ' + err);

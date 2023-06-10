@@ -29,11 +29,11 @@ function addListItemElement(item, parentElement){
 	element1.classList.add('limitFlexWidth1Freedom');
 	element1.innerText = item.name;
 	
-	if(!isEmpty(item.searchNames)){
-		for(let i = 0; i < item.searchNames.length; i++)
+	if(!isEmpty(item.otherNames)){
+		for(let i = 0; i < item.otherNames.length; i++)
 		{
 			let element3 = document.createElement('div');
-			element3.innerText = item.searchNames[i];
+			element3.innerText = item.otherNames[i];
 			element3.style.display = 'none';
 			element1.appendChild(element3);
 		}
@@ -130,12 +130,13 @@ async function main(result){
 chrome.storage.local.get(['lastSync', 'woke'], function(result){
 	if(isDateInPast(result.lastSync)) 
 	{
-		const urls = [getWokeUrl()];
+		const urls = [getWokeUrl(), getNotWokeUrl()];
 		Promise.all(
 			urls.map(url => fetch(url).then(json => json.json()))
 		).then(data => {
-			chrome.storage.local.set({'lastSync': getTodayFormatted(), 'woke': data[0]});
 			result.woke = data[0];
+			result.notWoke = data[1];
+			chrome.storage.local.set({'lastSync': getTodayFormatted(), 'woke': result.woke, 'notWoke': result.notWoke});
 			main(result);
 		}).catch(err => {
 			console.log('Failed to fetch json: ' + err);

@@ -78,13 +78,23 @@ function addListItemElement(item, parentElement){
 	let element1 = document.createElement('ul');
 	element1.classList.add('itemListElementFreedom');
 	element1.classList.add('limitWidth1');
-	element1.innerText = item.name;
 	
-	if(!isEmpty(item.searchNames)){
-		for(let i = 0; i < item.searchNames.length; i++)
+	if(!isEmpty(item.visitUrl))
+	{
+		let source = document.createElement('a');
+		source.setAttribute('target', '_blank');
+		source.setAttribute('href', item.visitUrl);
+		source.textContent = item.name;
+		element1.appendChild(source);
+	}
+	else
+		element1.innerText = item.name;
+	
+	if(!isEmpty(item.otherNames)){
+		for(let i = 0; i < item.otherNames.length; i++)
 		{
 			let element3 = document.createElement('div');
-			element3.innerText = item.searchNames[i];
+			element3.innerText = item.otherNames[i];
 			element3.style.display = 'none';
 			element1.appendChild(element3);
 		}
@@ -251,9 +261,9 @@ chrome.storage.local.get(['lastSync', 'woke', 'notWoke', 'whitelist', 'underline
 		Promise.all(
 			urls.map(url => fetch(url).then(json => json.json()))
 		).then(data => {
-			chrome.storage.local.set({'lastSync': getTodayFormatted(), 'woke': data[0], 'notWoke': data[1]});
 			result.woke = data[0];
 			result.notWoke = data[1];
+			chrome.storage.local.set({'lastSync': getTodayFormatted(), 'woke': result.woke, 'notWoke': result.notWoke});
 			main(result);
 		}).catch(err => {
 			console.log('Failed to fetch json: ' + err);
